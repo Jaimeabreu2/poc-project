@@ -28,8 +28,8 @@ function carregarLaboratorios(arquivo) {
     });
 }
 
-// Altere o caminho para buscar o JSON no mesmo diretório do JS
-carregarLaboratorios('laboratorios.json');
+// Caminho correto para funcionar no GitHub Pages
+carregarLaboratorios('../laboratorios.json');
 
 const searchBar = document.getElementById('search-bar');
 const resultsList = document.getElementById('results');
