@@ -28,7 +28,8 @@ function carregarLaboratorios(arquivo) {
     });
 }
 
-carregarLaboratorios('laboratorios.json');
+// Altere o caminho para buscar o JSON na raiz do projeto
+carregarLaboratorios('../laboratorios.json');
 
 const searchBar = document.getElementById('search-bar');
 const resultsList = document.getElementById('results');
