@@ -29,7 +29,7 @@ function carregarLaboratorios(arquivo) {
 }
 
 // Caminho correto para funcionar no GitHub Pages
-carregarLaboratorios('../laboratorios.json');
+carregarLaboratorios('laboratorios.json');
 
 const searchBar = document.getElementById('search-bar');
 const resultsList = document.getElementById('results');
