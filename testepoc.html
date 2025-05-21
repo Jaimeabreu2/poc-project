@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Busca de Laboratórios</title>
+  <link rel="stylesheet" href="testepoc.css">
+  <style>
+    .filters {
+      margin-bottom: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+    .filter-btn {
+      padding: 6px 14px;
+      border: none;
+      border-radius: 5px;
+      background: #eee;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .filter-btn.active,
+    .filter-btn:hover {
+      background: #007bff;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="search-container">
+    <h1>Buscar Laboratórios</h1>
+    <div class="filters">
+      <button class="filter-btn active" data-area="todas">Todas</button>
+      <button class="filter-btn" data-area="ciências exatas">Ciências Exatas</button>
+      <button class="filter-btn" data-area="ciências humanas">Ciências Humanas</button>
+      <button class="filter-btn" data-area="ciências da natureza">Ciências da Natureza</button>
+      <button class="filter-btn" data-area="tecnologia">Tecnologia</button>
+      <button class="filter-btn" data-area="inovação">Inovação</button>
+      <button class="filter-btn" data-area="empreendedorismo">Empreendedorismo</button>
+    </div>
+    <input type="text" id="search-bar" placeholder="Digite o nome ou palavra-chave...">
+    <ul id="results"></ul>
+  </div>
+  <script src="TestePOC.js"></script>
+</body>
+</html>
