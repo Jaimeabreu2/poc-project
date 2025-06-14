@@ -1,0 +1,132 @@
+[
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA DA REPRODUÇÃO DE PEIXES - LBRP",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências Agrárias",
+    "tags": ["biotecnologia", "reprodução animal", "aquicultura"],
+    "natureza": "Misto",
+    "vinculado": "CCS - curso de Ciências Biológicas",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Núcleo Integrado de Biotecnologia, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9851",
+      "email": "sandra.salmito@uece.br",
+      "site": "https://www.uece.br/nib/institucional/laboratorio-de-biotecnologia-da-reproducao-de-peixes-lbrp/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM AVICULTURA INDUSTRIAL - LEPAVI",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências Agrárias",
+    "tags": ["avicultura", "genética", "nutrição animal"],
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, FAVET, Setor de Avicultura, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9862",
+      "email": "walbens.benevides@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ECOLOGIA - LABOECO",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências Agrárias",
+    "tags": ["ecologia", "caatinga", "bioprospecção", "biodiversidade"],
+    "natureza": "Ensino",
+    "vinculado": "CCS",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Prédio do ISCB - 2° andar, Fortaleza - Ce, 60.714.903",
+      "telefone": "(85) 3101-9952",
+      "email": "oriel.herrera@uece.br",
+      "site": "http://uece.br/laboec"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE BOTÂNICA - LABOTAN",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["botânica", "florística", "anatomia vegetal"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Prédio do ISCB, 2º Piso, Fortaleza - Ce, 60.714.903",
+      "telefone": "(85) 3101.9800",
+      "email": "roselita.mendes@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ORNITOLOGIA E SISTEMÁTICA ANIMAL - LORNISA",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["ornitologia", "ecologia", "fauna", "flora"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Prédio do Etnobio, Sala LORNISA, Fortaleza - CE, 60.714.903.",
+      "telefone": "(85) 3001-1816",
+      "email": "luis.gonzaga@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOPROSPECÇÃO E MONITORAMENTO DE RECURSOS NATURAIS - LBMRN",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["biomateriais", "produtos naturais", "bioprospecção"],
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Núcleo de Estudos ambientais, Fortaleza - Ce, 60.714.110",
+      "telefone": "(85) 3101-9766",
+      "email": "emmanuel.marinho@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOENSAIOS QUÍMICO-FARMACOLÓGICO E AMBIENTAL - LaBQFAm",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["bioprodutos", "zebrafish", "farmacologia", "ecotoxicológico"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Núcleo de Estudos Ambientais (NEA), Fortaleza - Ce, 60.714.903",
+      "telefone": "(85) 3101-9766",
+      "email": "jane.menezes@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO, PESQUISA E EXTENSÃO EM BIOLÓGICAS - LEPECBIO",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["ensino", "pesquisa", "extensão", "biologia"],
+    "natureza": "Misto",
+    "vinculado": "FAEC - Curso de Ciências Biológicas",
+    "contato": {
+      "endereco": "Rua Dr. José Sabóia Livreiro, 1480, Bairro Altamira, Campus Fátima(FAEC), bloco 03, Crateús - Ce, CEP: 63.704.155",
+      "telefone": "(88) 3691.0822",
+      "email": "jaqueline.lima@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO DO CURSO DE LICENCIATURA PLENA EM CIÊNCIAS BIOLÓGICAS",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["ensino", "biologia", "extensão"],
+    "natureza": "Ensino",
+    "vinculado": "CECITEC",
+    "contato": {
+      "endereco": "Rua Sólon Medeiros, S/N, Campus Reitor Paulo Petrola, Tauá-Ce CEP: 60.000.000",
+      "telefone": "(88) 3437.1772",
+      "email": "silvio.cesar@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE MICROBIOLOGIA - LAMIC",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências da Saúde",
+    "tags": ["microbiologia", "qualidade do ar", "fungos"],
+    "natureza": "Misto",
+    "vinculado": "CCS",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Instituto Superior de Ciências Biomédicas, 2° andar, Fortaleza - Ce, 60.714.903",
+      "telefone": "(85) 3101-9928",
+      "email": "lydia.pantoja@uece.br",
+      "site": "www.uece.br/"
+    }
+  }
+]

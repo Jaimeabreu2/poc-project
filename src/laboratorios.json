@@ -1,0 +1,76 @@
+[
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PRÁTICAS DE AVALIAÇÃO PSICOLÓGICA - LEAPSI",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Lucila Moraes Cardoso",
+    "lattes": "",
+    "email": "lucila.cardoso@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco P, Serviço de Psicologia, 2º andar, Sala Leapsi, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Psicologia",
+      "Avaliação Psicológica",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE LINGUAGEM E COGNIÇÃO - LINC",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Suelene Silva Oliveira",
+    "lattes": "",
+    "email": "linc.extensao@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Luciano Carneiro, n° 345, Campus Fátima, térreo, Sala A-25, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Letras",
+      "Linguística",
+      "Educação",
+      "Extensão"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE METODOLOGIAS CRÍTICAS PARA EDUCAÇÃO INFANTIL E PRIMEIROS ANOS DO ENSINO FUNDAMENTAL - LAMEC",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Maria Lenúcia de Moura",
+    "lattes": "",
+    "email": "lenucia.moura@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Rua José de Queiroz Pessoa, Planalto Universitário, Quixadá - CE",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Infantil",
+      "Ensino Fundamental",
+      "Políticas Públicas"
+    ]
+  }
+]

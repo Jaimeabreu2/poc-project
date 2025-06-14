@@ -1,0 +1,132 @@
+[
+  {
+    "nome": "LABORATÓRIO DE ENSINO, PESQUISA E EXTENSÃO EM BIOLÓGICAS - LEPECBIO",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["Microbiologia", "Biologia Celular", "Biotecnologia", "Bioquímica"],
+    "natureza": "Misto",
+    "vinculado": "FAEC - Curso de Ciências Biológicas",
+    "contato": {
+      "endereco": "Rua Dr. José Sabóia Livreiro, 1480, Bairro Altamira, Campus Fátima(FAEC), bloco 03, Crateús - Ce, CEP: 63.704.155",
+      "telefone": "(88) 3691.0822",
+      "email": "jaqueline.lima@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOQUÍMICA E EXPRESSÃO GÊNICA - LABIEX",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências da Saúde",
+    "tags": ["biologia molecular", "diabetes", "Alzheimer", "bioinformática"],
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas - ISCB",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do ISCB, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9928",
+      "email": "vania.ceccatto@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA DA REPRODUÇÃO DE PEIXES - LBRP",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências Agrárias",
+    "tags": ["biotecnologia", "reprodução animal", "aquicultura"],
+    "natureza": "Misto",
+    "vinculado": "CCS - curso de Ciências Biológicas",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Núcleo Integrado de Biotecnologia, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9851",
+      "email": "sandra.salmito@uece.br",
+      "site": "https://www.uece.br/nib/institucional/laboratorio-de-biotecnologia-da-reproducao-de-peixes-lbrp/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO DO CURSO DE LICENCIATURA PLENA EM CIÊNCIAS BIOLÓGICAS",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["ensino", "biologia", "extensão"],
+    "natureza": "Ensino",
+    "vinculado": "CECITEC",
+    "contato": {
+      "endereco": "Rua Sólon Medeiros, S/N, Campus Reitor Paulo Petrola, Tauá-Ce CEP: 60.000.000",
+      "telefone": "(88) 3437.1772",
+      "email": "silvio.cesar@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS - LASID",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["sistemas digitais", "bioinformática", "CFD", "genômica"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio PPGCC, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9776",
+      "email": "marcial.fernandez@uece.br",
+      "site": "www.uece.br/lasid"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOLOGIA ENDÓCRINA E METABOLISMO - LAFEM",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências da Saúde",
+    "tags": ["fisiologia", "bioquímica", "mitocôndria", "nutrição"],
+    "natureza": "Pesquisa",
+    "vinculado": "ISCB",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do ISCB, 3º piso, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9928",
+      "email": "ariclecio.oliveira@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM AVICULTURA INDUSTRIAL - LEPAVI",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências Agrárias",
+    "tags": ["avicultura", "genética", "nutrição animal"],
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, FAVET, Setor de Avicultura, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9862",
+      "email": "walbens.benevides@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE POLISSACARÍDEOS BIOATIVOS - LAPOBIO",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia Ciências da Saúde",
+    "tags": ["bioquímica", "polissacarídeos", "plantas", "coagulação"],
+    "natureza": "Pesquisa",
+    "vinculado": "FECLESC",
+    "contato": {
+      "endereco": "Rua José de Queiroz Pessoa - Planalto Universitário,  3º pavilhão, térreo, Quixadá - Ce, 63.900.000",
+      "telefone": "(88) 3445-1039",
+      "email": "mariag.pereira@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ISOPODA - LABISO",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["biodiversidade", "crustáceos", "isopoda"],
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, container ao lado da agência do Bradesco, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9800",
+      "email": "leila.souza@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA E GENÔMICA - BIOGEN",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia,  Ciências da Saúde e Ciências Agrárias",
+    "tags": ["biotecnologia", "genômica", "bioinformática", "edição de genes"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS), Curso de Ciências Biológicas",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Bloco D, piso superior, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9800",
+      "email": "flavio.saraiva@uece.br",
+      "site": "www.uece.br/"
+    }
+  }
+]

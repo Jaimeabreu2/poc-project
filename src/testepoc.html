@@ -26,23 +26,37 @@
       background: #007bff;
       color: #fff;
     }
+    .search-container {
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 24px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    }
   </style>
 </head>
 <body>
-  <div class="search-container">
-    <h1>Buscar Laboratórios</h1>
-    <div class="filters">
-      <button class="filter-btn active" data-area="todas">Todas</button>
-      <button class="filter-btn" data-area="ciências exatas">Ciências Exatas</button>
-      <button class="filter-btn" data-area="ciências humanas">Ciências Humanas</button>
-      <button class="filter-btn" data-area="ciências da natureza">Ciências da Natureza</button>
-      <button class="filter-btn" data-area="tecnologia">Tecnologia</button>
-      <button class="filter-btn" data-area="inovação">Inovação</button>
-      <button class="filter-btn" data-area="empreendedorismo">Empreendedorismo</button>
+  <main>
+    <div class="search-container">
+      <h1>Buscar Laboratórios</h1>
+      <nav class="filters" aria-label="Filtrar por área">
+        <button class="filter-btn active" data-area="todas" tabindex="0">Todas</button>
+        <button class="filter-btn" data-area="ciências exatas e da terra" tabindex="0">Ciências Exatas e da Terra</button>
+        <button class="filter-btn" data-area="ciências humanas" tabindex="0">Ciências Humanas</button>
+        <button class="filter-btn" data-area="ciências biológicas" tabindex="0">Ciências Biológicas</button>
+        <button class="filter-btn" data-area="ciências da saúde" tabindex="0">Ciências da Saúde</button>
+        <button class="filter-btn" data-area="ciências agrárias" tabindex="0">Ciências Agrárias</button>
+        <button class="filter-btn" data-area="ciências sociais aplicadas" tabindex="0">Ciências Sociais Aplicadas</button>
+      </nav>
+      <label for="search-bar" style="display:none;">Buscar laboratório</label>
+      <input type="text" id="search-bar" placeholder="Digite o nome ou palavra-chave..." autocomplete="off" aria-label="Buscar laboratório">
+      <ul id="results" aria-live="polite" style="max-height:none; overflow:visible;"></ul>
     </div>
-    <input type="text" id="search-bar" placeholder="Digite o nome ou palavra-chave...">
-    <ul id="results"></ul>
-  </div>
+    <noscript>
+      <p style="color:red;text-align:center;">Este site requer JavaScript para funcionar corretamente.</p>
+    </noscript>
+  </main>
   <script src="TestePOC.js"></script>
 </body>
 </html>

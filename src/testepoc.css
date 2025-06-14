@@ -62,6 +62,8 @@ body {
   list-style: none;
   padding: 0;
   margin: 0;
+  max-height: none;    /* Garante que não há limitação de altura */
+  overflow: visible;   /* Garante que todos os itens fiquem visíveis */
 }
 
 #results li {

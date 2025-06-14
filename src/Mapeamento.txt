@@ -1,146 +1,20 @@
 ﻿SOBRE O MAPEAMENTO
 
 
-
-
-
-
-
-
-
-
 Em 2024, a Universidade Estadual do Ceará (UECE), por meio de sua Agência de Inovação (Agin), em colaboração com a Pró-Reitoria de Pós-Graduação e Pesquisa (PROPGPq), lançou uma nova edição do Mapeamento de seus Laboratórios. O propósito dessa iniciativa foi atualizar e consolidar as informações referentes aos laboratórios da instituição, fornecendo uma visão abrangente das instalações disponíveis para pesquisa e inovação, visando uma gestão mais eficiente.
 
 
 Neste levantamento atualizado, 154 laboratórios participaram da iniciativa, respondendo a um questionário composto por 26 perguntas. Esta não é a primeira vez que a UECE realiza um esforço para mapear seus laboratórios. Em 2020, a universidade conduziu uma iniciativa similar por meio de seu antigo Núcleo de Inovação Tecnológica (NIT), visando compreender as competências, as áreas de atuação dos laboratórios, assim como sua infraestrutura física e de recursos humanos.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CIÊNCIAS HUMANAS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 LABORATÓRIO DE ESTUDOS E PRÁTICAS DE AVALIAÇÃO PSICOLÓGICA - LEAPSI
- 
+
 DESCRIÇÃO
+(Coordenadora: Profª. Drª. Lucila Moraes Cardoso)
 O Leapsi foca em pesquisas sobre as qualidades psicométricas dos métodos projetivos, além da construção e adaptação de instrumentos para populações específicas e Avaliação Terapêutica.
 
  
@@ -176,27 +50,11 @@ E-mail: lucila.cardoso@uece.br
 Site: www.uece.br/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
  
 LABORATÓRIO DE ESTUDOS DE HISTÓRIA E (DAS) ARTES - LEHA
  
 DESCRIÇÃO
+(Coordenadora: Profª Drª Valéria Aparecida Alves)
 O LEHA dedica-se à exploração profunda da intersecção entre história e arte. Através de um olhar crítico e analítico, mergulha nas biografias de artistas, nos movimentos artísticos que moldaram eras, e nas experiências estéticas que definem o nosso entendimento da beleza e da expressão. No LEHA o trabalho envolve não apenas a leitura e discussão aprofundada de referências teóricas, mas também o mapeamento, coleta, e catalogação meticulosa de fontes, constituindo assim um banco de dados rico para pesquisa futura. Realizam exercícios metodológicos rigorosos para a análise de fontes, culminando na sistematização de discussões e na disseminação do conhecimento adquirido por meio da publicação de artigos científicos em periódicos de renome.
  
 EQUIPE
@@ -228,17 +86,6 @@ Horário de Funcionamento: Quinta-feira, das 15h às 17h
 Telefone: (85) 3101-9761
 E-mail: valeria.alves@uece.br
 Site: www.uece.br/ 
- 
- 
- 
-
-
-
-
-
-
-
-
  
  
 LABORATÓRIO DE LINGUAGEM E COGNIÇÃO - LINC
@@ -281,12 +128,6 @@ E-mail: linc.extensao@uece.br
 Site: www.uece.br/ 
  
  
-
-
-
-
-
-
  
  
 LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES - LIFE CAMPUS FAFIDAM
@@ -563,7 +404,7 @@ LABORATÓRIO DE TRADUÇÃO ESPECIALIZADA EM FILOSOFIA - LETRAFIL
  
 DESCRIÇÃO
  
-O laboratório realiza serviços especializados de tradução, destacando-se em fornecer versões inéditas de artigos, livros e verbetes em enciclopédias, especialmente no campo da filosofia em geral e nos escritos do filósofo Benedictus de Spinoza.Além disso, busca parcerias para editoração de livros e revistas, colaborando para a produção de materiais que enriquecem o entendimento filosófico.
+O laboratório realiza serviços especializados de tradução, destacando-se em fornecer versões inéditas de artigos, livros e verbetes em enciclopédias, especialmente no campo da filosofia em geral e nos escritos do filósofo Benedictus de Spinoza. Além disso, busca parcerias para editoração de livros e revistas, colaborando para a produção de materiais que enriquecem o entendimento filosófico.
  
 EQUIPE
 Coordenação: 

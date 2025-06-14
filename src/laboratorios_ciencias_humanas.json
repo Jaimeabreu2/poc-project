@@ -1,0 +1,789 @@
+[
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PRÁTICAS DE AVALIAÇÃO PSICOLÓGICA - LEAPSI",
+    "descricao": "O Leapsi foca em pesquisas sobre as qualidades psicométricas dos métodos projetivos, além da construção e adaptação de instrumentos para populações específicas e Avaliação Terapêutica.",
+    "responsavel": "Profª. Drª. Lucila Moraes Cardoso",
+    "lattes": "https://lattes.cnpq.br/8664062189071507",
+    "email": "lucila.cardoso@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco P, Serviço de Psicologia, 2º andar, Sala Leapsi, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas",
+      "Linguística, Letras e Artes"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Psicologia",
+      "Avaliação Psicológica",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DE HISTÓRIA E (DAS) ARTES - LEHA",
+    "descricao": "O LEHA dedica-se à exploração profunda da intersecção entre história e arte. Através de um olhar crítico e analítico, mergulha nas biografias de artistas, nos movimentos artísticos que moldaram eras, e nas experiências estéticas que definem o nosso entendimento da beleza e da expressão. No LEHA o trabalho envolve não apenas a leitura e discussão aprofundada de referências teóricas, mas também o mapeamento, coleta, e catalogação meticulosa de fontes, constituindo assim um banco de dados rico para pesquisa futura. Realizam exercícios metodológicos rigorosos para a análise de fontes, culminando na sistematização de discussões e na disseminação do conhecimento adquirido por meio da publicação de artigos científicos em periódicos de renome.",
+    "responsavel": "Profª Drª Valéria Aparecida Alves",
+    "lattes": "https://lattes.cnpq.br/1920784975675884",
+    "email": "valeria.alves@uece.br",
+    "telefone": "(85) 3101-9761",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do PPGHCE, Sala de reunião, Fortaleza - Ce, CEP: 60.714.903",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Humanidades (CH) - Curso de História / PPGHCE",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "História",
+      "Artes",
+      "Ciências Humanas"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE LINGUAGEM E COGNIÇÃO - LINC",
+    "descricao": "O LINC dedica-se a enriquecer a experiência acadêmica dos alunos do Curso de Letras/Português da UECE, integrando teoria e prática por meio do Estágio Supervisionado em Língua Portuguesa.",
+    "responsavel": "Profª. Drª. Suelene Silva Oliveira",
+    "lattes": "http://lattes.cnpq.br/8036160266181057",
+    "email": "linc.extensao@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Luciano Carneiro, n° 345, Campus Fátima, térreo, Sala A-25, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas",
+      "Linguística, Letras e Artes"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Letras",
+      "Linguística",
+      "Educação",
+      "Extensão"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES - LIFE CAMPUS FAFIDAM",
+    "descricao": "O LIFE dedica-se à excelência na formação inicial e continuada de professores de Educação Básica e Superior, impulsionando práticas pedagógicas interdisciplinares.",
+    "responsavel": "Profª. Drª. Paula Pereira Scherre",
+    "lattes": "http://lattes.cnpq.br/6279904475234352",
+    "email": "life_fafidam@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dom Aureliano Matos, 2058, Campus FAFIDAM, Centro, Sala 17, Limoeiro do Norte - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Formação de Professores",
+      "Interdisciplinaridade"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE METODOLOGIAS CRÍTICAS PARA EDUCAÇÃO INFANTIL E PRIMEIROS ANOS DO ENSINO FUNDAMENTAL - LAMEC",
+    "descricao": "O LAMEC dedica-se ao avanço do conhecimento na educação, com foco especial na Educação Infantil, nos primeiros anos do Ensino Fundamental, nas Políticas Públicas e na Educação de Jovens e Adultos (EJA).",
+    "responsavel": "Profª. Drª. Maria Lenúcia de Moura",
+    "lattes": "http://lattes.cnpq.br/8982803544118030",
+    "email": "lenucia.moura@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Rua José de Queiroz Pessoa, Planalto Universitário, Quixadá - CE",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Infantil",
+      "Ensino Fundamental",
+      "Políticas Públicas"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PESQUISAS SOBRE DIREITOS DA NATUREZA E JUSTIÇA SOCIOAMBIENTAL - LAPEJUS",
+    "descricao": "O LAPEJUS atua na compreensão e enfrentamento dos desafios ambientais contemporâneos, mapeando os riscos ambientais em áreas urbanas e comunidades locais.",
+    "responsavel": "Profª. Drª. Marinina Gruska Benevides",
+    "lattes": "http://lattes.cnpq.br/3347727986551270",
+    "email": "Marinina.gruska@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco R, sala 12, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Justiça Socioambiental",
+      "Extensão"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS AGRÁRIOS, URBANOS E POPULACIONAIS - LEAUP",
+    "descricao": "O LEAUP concentra-se na condução de pesquisas acadêmicas centradas na temática migratória, na compreensão dos diversos aspectos desse fenômeno complexo.",
+    "responsavel": "Profª. Drª. Denise Cristina Bomtempo",
+    "lattes": "http://lattes.cnpq.br/0567472021592725",
+    "email": "denise.bomtempo@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, 1° andar, sala 2 do Programa de Pós-Graduação em Geografia - PROPGEO, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Migração",
+      "Geografia",
+      "Extensão"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE PSICOLOGIA, EDUCAÇÃO E ESTUDOS MARXISTAS - LAPSEM",
+    "descricao": "O LAPSEM desenvolve pesquisas que articulam diversos campos, incluindo Psicologia, trabalho, arte, educação e formação humana.",
+    "responsavel": "Profª. Drª. Ruth Maria de Paula Gonçalves",
+    "lattes": "http://lattes.cnpq.br/7515124468091526",
+    "email": "ruthm.goncalves@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco P - Sala do NUSOL, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Psicologia",
+      "Educação",
+      "Arte",
+      "Extensão"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE LÍNGUA PORTUGUESA",
+    "descricao": "O laboratório se dedica integralmente ao avanço do ensino de língua portuguesa nas salas de aula da educação básica, sendo um catalisador para pesquisas significativas neste domínio.",
+    "responsavel": "Profª. Me. Ariane Silva da Costa Sampaio",
+    "lattes": "http://lattes.cnpq.br/2515053016119939",
+    "email": "ariane.sampaio@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dário Rabêlo, s/n - Vila Santo Antônio, Campus Multi-institucional Humberto Teixeira, bloco G, Iguatu - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Língua Portuguesa",
+      "Educação",
+      "Letras"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE TRADUÇÃO ESPECIALIZADA EM FILOSOFIA - LETRAFIL",
+    "descricao": "O laboratório realiza serviços especializados de tradução, destacando-se em fornecer versões inéditas de artigos, livros e verbetes in enciclopédias, especialmente no campo da filosofia.",
+    "responsavel": "Prof. Dr. Emanuel Angelo da Rocha Fragoso",
+    "lattes": "http://lattes.cnpq.br/4962018454020672",
+    "email": "rocha.fragoso@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Luciano Carneiro, n° 345, Campus Fátima, Sala 101, Fortaleza - Ce",
+    "area": [
+      "Ciências Humanas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Filosofia",
+      "Tradução",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "CENTRO DE ESTUDOS DO TRABALHO E ONTOLOGIA DO SER SOCIAL - CETROS",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Epitácio Macário Moura",
+    "lattes": "http://lattes.cnpq.br/0026764807340896",
+    "email": "epitacio.macario@uece.br",
+    "telefone": "(85) 3101.9937",
+    "site": "www.uece.br/cetros",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Sala 10 - Altos - Centro de Educação - CED, Fortaleza - Ce, 60.714.110",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)",
+    "horario": "Segunda a sexta-feira, das 08h às 20h",
+    "parcerias": [
+      "O CETROS está aberto a colaborações que se alinhem com seus objetivos educacionais."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Arte e Cultura"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE RESIDÊNCIA PEDAGÓGICA - LIRP",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Lidia Noemia Silva dos Santos",
+    "lattes": "http://lattes.cnpq.br/3380009049467052",
+    "email": "lidia.noemia@uece.br",
+    "telefone": "(88) 3445.1036",
+    "site": "www.uece.br/",
+    "localizacao": "Rua José de Queiroz Pessoa, Campus FECLESC,  Sala do Lirp, I Bloco de Ensino, Planalto Universitário, Quixadá - Ce, 63.900.000",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)",
+    "horario": "Segunda a sexta-feira, das 08h às 21h",
+    "parcerias": [
+      "Cursos de graduação em História e Pedagogia de Quixadá"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DIDÁTICO DO CURSO DE PEDAGOGIA - LADIPED",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Iasmin da Costa Marinho",
+    "lattes": "http://lattes.cnpq.br/9314994660443365",
+    "email": "iasmin.costa@uece.br",
+    "telefone": "(88) 3673-7051",
+    "site": "www.uece.br/",
+    "localizacao": "Av. da Universidade - Madalenas, Campus da FACEDI, Itapipoca - Ce, 62.500.000",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação de Itapipoca (FACEDI)",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "com outros cursos da FACEDI; problematizar a Didática do ensino superior, promover estudos sobre currículos e diversidade cultural, buscar recursos para pesquisa em pedagogia universitária, impulsionar projetos que integrem ensino e pesquisa, sensibilizar o colegiado de Pedagogia para a produção científica e priorizar eventos de formação permanente na pedagogia universitária. Além disso, o LADIPED também se propõe a acompanhar e organizar estudos e debates sobre o ENADE.",
+      "Coordenadoria Regional de Desenvolvimento da Educação de Itapipoca (CREDE - 02)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE EDUCAÇÃO MATEMÁTICA DA FECLESC - LABOMÁTICA",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Francisco Edisom Eugenio de Sousa",
+    "lattes": "http://lattes.cnpq.br/1626910802465251",
+    "email": "francisco.eugenio@uece.br",
+    "telefone": "(88) 3445-1039",
+    "site": "www.uece.br/",
+    "localizacao": "Rua José de Queiroz Pessoa, nº 2554, Campus FECLESC, Planalto Universitário Quixadá - Ce, 60.714.903",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)",
+    "horario": "Segunda a sexta-feira, das 08h às 21h, em dias e horários alternados, conforme a quantidade de bolsistas.",
+    "parcerias": [
+      "Escolas de Ensino Fundamental e Médio em Quixadá"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO EXPERIMENTAL DE RASTREAMENTO OCULAR - LERO",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Antonia Dilamar Araújo",
+    "lattes": "https://lattes.cnpq.br/0138358532764603",
+    "email": "dilamar.araujo@uece.br",
+    "telefone": "(85) 3101-2032",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Luciano Carneiro, n° 345, Campus Fátima (CH/UECE),  Prédio CCLIN, sala no piso superior,  Fortaleza - Ce, 60.410.690",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Humanidade (CH)",
+    "horario": "Segunda a sexta-feira, das 08 às 18h",
+    "parcerias": [
+      "Programa de Pós-Graduação em Linguística Aplicada (PosLA)",
+      "Grupos de estudos do Oriente Lépido"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Linguística Aplicada",
+      "Letras e nas subáreas relacionadas: Tradução Audiovisual",
+      "Legendagem",
+      "Semiótica Social",
+      "Processamento da linguagem",
+      "Leitura de textos."
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DA EDUCAÇÃO DO CAMPO - LECAMPO",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Sandra Maria Gadelha de Carvalho",
+    "lattes": "https://lattes.cnpq.br/0650722680863049",
+    "email": "sandra.gadelha@uece.br",
+    "telefone": "(88) 3423-6962",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dom Aureliano Matos, n° 2058, Centro, Campus da FAFIDAM,  Bloco de aulas, Limoeiro do Norte - Ce, 62.930.000",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (Mestrado Acadêmico Intercampi em Educação e Ensino - MAIE)",
+    "horario": "Segunda a sexta-feira, das 08h às 20h",
+    "parcerias": [
+      "com grupos e instituições comprometidos com a causa da educação do campo.",
+      "Grupo de Mulheres \"Mãos que Criam”"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Produção Agrícola Sustentável",
+      "Educação",
+      "Movimentos sociais e organização das mulheres camponesas."
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO BANDA SINFÔNICA - LBS",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Marcio Landi",
+    "lattes": "http://lattes.cnpq.br/2574079785177607",
+    "email": "laboratorio.banda@uece.br",
+    "telefone": "(85) 3101.2030",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Bloco F, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidade (CH)",
+    "horario": "Segunda a sexta-feira, das 08h às 12h",
+    "parcerias": [
+      "Não foram especificadas parcerias",
+      "Secretaria Municipal de Educação de Fortaleza"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Música"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS DO CURSO DE PEDAGOGIA - LABRINQUE",
+    "descricao": "",
+    "responsavel": "Profª. Me. Ana Luisa Nunes Diógenes",
+    "lattes": "https://lattes.cnpq.br/0854413397207939",
+    "email": "luisa.diogenes@uece.br",
+    "telefone": "(88) 3673-7051",
+    "site": "www.uece.br/",
+    "localizacao": "Av. da Universidade - Madalenas, Campus FACEDI,  Bloco Administrativo, Sala da brinquedoteca, Itapipoca - Ce, 62.500.000",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Curso de Pedagogia da FACEDI",
+    "horario": "Quarta e quinta-feira, pela manhã e à tarde",
+    "parcerias": [
+      "Colaboramos com as escolas municipais de Itapipoca e circunvizinhanças.",
+      "Curso de Letras",
+      "Grupos de estudo e pesquisas do Centro de Educação"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Arte"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES - LIFE CAMPUS ITAPERI",
+    "descricao": "",
+    "responsavel": "Profª.Drª.Isaíde Bandeira da Silva",
+    "lattes": "http://lattes.cnpq.br/4657180590259054",
+    "email": "saide.bandeira@uece.br",
+    "telefone": "(85) 3101.9869",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Bloco M, 1º andar, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Educação",
+    "horario": "Segunda a sexta-feira, das 08h às 12h e de 13h às 17h.",
+    "parcerias": [
+      "Programa Institucional de Bolsas de Iniciação à Docência (PIBID)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Computação e Tecnologias da Informação",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE LÍNGUA E CULTURA JAPONESA - NIHONGOLAB",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Laura Tey Iwakami",
+    "lattes": "http://lattes.cnpq.br/6676590548758529",
+    "email": "laura.iwakami@uece.br",
+    "telefone": "(85) 3101.2030",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Luciano Carneiro, n° 345, Campus Fátima,  Bloco C, sala 06, Fortaleza - Ce, 60.410.690",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidade (CH)",
+    "horario": "Segunda e quarta-feira, das 15h às 18h",
+    "parcerias": [
+      "Curso de Japonês (Núcleo de Línguas Estrangeiras da UECE)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE GEOGRAFIA - LAGEO",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Francisco Sérgio de Almeida Pinheiro",
+    "lattes": "http://lattes.cnpq.br/5025642586492707",
+    "email": "sergio.pinheiro@uece.br",
+    "telefone": "(88) 3423-6962",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dom Aureliano Matos, n° 2058, Centro, Campus FAFIDAM/UECE,  Limoeiro do Norte - Ce, 62.930.000",
+    "area": "Ciências Exatas e da Terra; Ciências Agrárias; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)",
+    "horario": "Segunda a sexta-feira, das 08h às 21h",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o LAGEO está aberto a colaborações que alinhem com seus objetivos educacionais."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Geografia física e humana."
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOLOGIA CELULAR E BIOENERGÉTICA - LABIOCEL",
+    "descricao": "",
+    "responsavel": "Profa.Dra. Maria Erivalda Farias de Aragão",
+    "lattes": "https://lattes.cnpq.br/2594091123451952",
+    "email": "maria.aragao@uece.br",
+    "telefone": "(85) 3101-9996",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia;Ciências Humanas,",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Mestrado PROFBIO\r\nPós-Graduação em Ciências Fisiológicas"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES -",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Shirliane de Araújo Sousa",
+    "lattes": "http://lattes.cnpq.br/2200714446070634",
+    "email": "shirliane.araujo@uece.br",
+    "telefone": "(88) 3692.3513",
+    "site": "www.uece.br/",
+    "localizacao": "Rua José Sabóia Livreiro - Altamira, Campus FAEC/UECE,",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação de Crateús (FAEC)",
+    "horario": "Segunda a sexta-feira, das 08h às 21h",
+    "parcerias": [
+      "Associação Caatinga;"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE CROMOLOGIA, COR, LUZ E ARTE NA SAÚDE - LabCrom",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Pablo Diego Mañé Solari",
+    "lattes": "http://lattes.cnpq.br/3842249843111484",
+    "email": "manye.solari@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Complemento: Mundo Verde, Sala 2 do Gabinete de Orientação CMEPES, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências da Saúde / Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Ciências da Saúde (CCS) - Curso de Terapia Ocupacional",
+    "horario": "Segunda a sexta-feira, das 09h às 12h e das 13h às 17h",
+    "parcerias": [
+      "Universidade de São Paulo (USP) - Grupo de Pesquisa \"Cor, arquitetura e cidade\" da Faculdade de Arquitetura e Urbanismo (FAU)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Educação",
+      "Arte e Cultura"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE SEGURIDADE SOCIAL E SERVIÇO SOCIAL - LASSOSS",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Virginia Márcia Assunção Viana",
+    "lattes": "http://lattes.cnpq.br/2939749583188251",
+    "email": "virginia.assuncao@uece.br",
+    "telefone": "(85) 3101-9757",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Sala Terreo lado esquerdo do prédio das antigas coordenações, atualmente no mesmo prédio do Centro de Educação - CED, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências da Saúde; Ciências Sociais; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)",
+    "horario": "Segunda a sexta-feira, 12h às 16h. (Atividades extras podem ocorrer à noite e finais de semana).",
+    "parcerias": [
+      "Centro de Estudos Sociais Aplicados (CESA)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Serviço Social e áreas das humanidades e afins."
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE PRÁTICAS COLETIVAS EM  SAÚDE - LAPRACS",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Lucilane Maria Sales da Silva",
+    "lattes": "http://lattes.cnpq.br/0607966051343374",
+    "email": "lucilane.sales@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Sala no Centro Tecnológico da Enfermagem, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências da Saúde; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Vinculado ao Centro de Ciências da Saúde curso de Enfermagem",
+    "horario": "Manhã e tarde",
+    "parcerias": [
+      "Secretaria de Saúde do estado e do município de Fortaleza"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE SOCIEDADES, SUBJETIVIDADES E HUMANISMO - LASSU",
+    "descricao": "",
+    "responsavel": "Profa Dra. Layza Castelo Branco Mendes",
+    "lattes": "http://lattes.cnpq.br/3864229129153409",
+    "email": "layza.mendes@uece.br",
+    "telefone": "(85) 3101.9987",
+    "site": "www.uece.br/ch/",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco P - Sala do NUSOL - Núcleo de Psicologia Social e do Trabalho, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências da Saúde, Ciências Sociais, Ciências Humanas",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades - CH",
+    "horario": "Segunda a sexta-feira, das 09h às 17h",
+    "parcerias": [
+      "Casa da Mulher Brasileira \r\nNúcleo de Acolhimento Humanizado às Mulheres em Situação de"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Ciências Humanas",
+      "Direitos Humanos",
+      "Prevenção à violências",
+      "Cuidados Psicológicos etc."
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO UNIVERSITÁRIO DE EDUCAÇÃO POPULAR, TRABALHO E MOVIMENTOS SOCIAIS - LUTEMOS",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Célio Ribeiro Coutinho",
+    "lattes": "https://lattes.cnpq.br/7406822952212237",
+    "email": "celio.coutinho@uece.br",
+    "telefone": "(88) 3673-7051",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Monsenhor Tabosa, S/Nº, Coqueiros, Campus FACEDI,  Prédio Novo, Sala Lutemos, Itapipoca-Ce CEP: 62.500.000",
+    "area": "Ciências Agrárias / Ciências Sociais / Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação de Itapipoca (FACEDI) - Curso de Pedagogia",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Instituto Federal do Ceará - Itapipoca"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Produção Agrícola Sustentável",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE INTERAÇÃO INSETO PLANTA - LABIIP",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Maria Goretti Araujo de Lima",
+    "lattes": "http://lattes.cnpq.br/7803524928792284",
+    "email": "maria.goretti@uece.br",
+    "telefone": "(85) 3101-9920",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Centro",
+    "area": "Ciências Agrárias; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a Sexta, das 08h às 18h",
+    "parcerias": [
+      "Universidade Federal do Piauí (UFPI)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biodiversidade e Bioprospecção",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDO E PESQUISA EM DIREITOS HUMANOS, CIDADANIA E ÉTICA - LABVIDA",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Maria Glauciria Mota Brasil",
+    "lattes": "http://lattes.cnpq.br/6282343958338202",
+    "email": "labvida@uece.br",
+    "telefone": "(85) 3101-9944",
+    "site": "https://www.uece.br/cesa/labvida/",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio do CED, Pátio, Salas dos Laboratórios do Curso de Serviço Social, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Sociais / Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)",
+    "horario": "Segunda a sexta-feira, das 09h às 18h",
+    "parcerias": [
+      "Centro de Atenção Psicossocial (CAPS) - Alto da Coruja na Regional IV"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Direitos Humanos e Políticas Públicas"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE POPULARIZAÇÃO DA CIÊNCIA E TECNOLOGIAS NAS ÁREAS DE CIÊNCIAS SOCIAIS E HUMANAS - LABPOP",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Leila Maria Passos de Souza Bezerra",
+    "lattes": "http://lattes.cnpq.br/8541436750893797",
+    "email": "leila.passos@uece.br",
+    "telefone": "(85) 3101.9937",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Prédio do Cesa, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Sociais;Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)",
+    "horario": "Segunda a sexta-feira-feira, prioritariamente no turno da tarde.",
+    "parcerias": [
+      "Mestrado em Avaliação de Políticas Públicas (MAPP)-UFC"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE PESQUISAS SOBRE POLÍTICAS SOCIAIS DO SERTÃO CENTRAL - LAPPS",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Deribaldo Santos",
+    "lattes": "http://lattes.cnpq.br/1317529947912305",
+    "email": "deribaldo.santos@uece.br",
+    "telefone": "(88) 3445.1036",
+    "site": "https://www.uece.br/feclesc/laboratorio/lapps/",
+    "localizacao": "Rua José de Queiroz Pessoa, Campus FECLESC, Planalto Universitário, Quixadá - Ce, 63.900.000",
+    "area": "Ciências Sociais; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)",
+    "horario": "Horário das aulas",
+    "parcerias": [
+      "Colabora com o movimento social de maneira geral e especificamente com a formação docente da região"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Formação social"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ARQUEOLOGIA E SEMIÓTICA DO CEARÁ - LARSE",
+    "descricao": "",
+    "responsavel": "Profª. Drª.. Marcélia Marques",
+    "lattes": "http://lattes.cnpq.br/7678754835082369",
+    "email": "marcelia.marques@uece.br",
+    "telefone": "(88) 3445.1036",
+    "site": "www.uece.br/",
+    "localizacao": "Rua José de Queiroz Pessoa, Planalto Universitário, Campus FECLESC,Quixadá - Ce, 63.900.000",
+    "area": "Ciências Sociais; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Vinculado ao Colegiado de História e da Universidade Estadual do Ceará",
+    "horario": "Sob agendamento",
+    "parcerias": [
+      "Colaboramos com o Patrimônio e Escolas da Rede Pública"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Tecnologia Mineral",
+      "Educação"
+    ]
+  }
+]

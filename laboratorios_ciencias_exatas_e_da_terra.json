@@ -1,0 +1,132 @@
+[
+  {
+    "nome": "LABORATÓRIO DE DESENVOLVIMENTO E INOVAÇÃO DA UECE (LDI)",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["Acessibilidade", "Realidade Aumentada", "Inteligência Artificial", "Computação", "E-Health"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) / PPGCC/UECE",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, ao lado da Coordenação da Matemática, Campus do Itaperi,  Bloco S, 1º andar, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9770",
+      "email": "fran@labldi.com.br",
+      "site": "https://www.uece.br/ldi"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE QUÍMICA INORGÂNICA - LQUIN",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia, Ciências da Saúde",
+    "tags": ["química", "inorgânica", "metalofármacos", "biofármacos", "nanotecnologia"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco S, 1º andar, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9933",
+      "email": "solange.pinheiro@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE POLÍMEROS NATURAIS",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["química", "polímeros", "materiais", "biocoagulantes", "nanopartículas"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciência e Tecnologia (CCT) - Curso de Pós-Graduação de Ciências Naturais / Curso de Química",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco S, 2º andar, sala 8, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-99-33",
+      "email": "flavia.monteiro@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE NANOBIOTECNOLOGIA AMBIENTAL - LaNA",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["nanobiotecnologia", "agronegócio", "saúde", "materiais", "sustentabilidade"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Núcleo de Estudos Ambientais, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101 9645",
+      "email": "carlucio.alves@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE CONVERSÃO ENERGÉTICA E INOVAÇÃO - LCE+",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["energia", "biocombustíveis", "hidrogênio", "catalisadores", "túnel de vento"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio LAIS/UECE, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9902",
+      "email": "laceema@uece.br",
+      "site": "www.uece.br/lais"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE COMPUTAÇÃO CIENTÍFICA - LCC",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia, Ciências da Saúde",
+    "tags": ["computação", "data science", "otimização", "logística", "epidemiologia"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) - Bacharelado em Ciência da Computação",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio Educação, 1º Andar, Salas 1 a 6, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9770",
+      "email": "marcos.negreiros@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE PESQUISA E ENSINO EM MATEMÁTICA - LAPEM",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["educação", "matemática", "formação docente"],
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras de Iguatu (FECLI) - Curso de licenciatura em Matemática",
+    "contato": {
+      "endereco": "Av. Dário Rabêlo, n° 977, Sete de Setembro, Campus Multi-institucional Humberto Teixeira, bloco G, Iguatu - CE, 63500-000",
+      "telefone": "(88) 3581-4558",
+      "email": "carlosian.melo@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ENERGIAS RENOVÁVEIS - LER",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["energias renováveis", "combustão", "solar", "hidrogênio", "turbinas"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) - Curso de Física",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio do Mestrado Acadêmico em Ciências Físicas Aplicadas (MACFA) e anexo à Torre Meteorológica da UECE, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101 9904",
+      "email": "lutero.lima@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DIDÁTICO DE QUÍMICA - LDQ",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["química", "ensino", "ciências biológicas"],
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação de Itapipoca - Curso de Licenciatura em Química",
+    "contato": {
+      "endereco": "Av. da Universidade, s/n, Madalenas, Campus FACEDI, Itapipoca - Ce, 62.500.000",
+      "telefone": "(88) 3673-7051",
+      "email": "coord_quimica.facedi@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE FÍSICA EXPERIMENTAL DE MECÂNICA E TERMODINÂMICA - LabFis",
+    "area": "Ciências Exatas e da Terra",
+    "tags": ["física", "ensino", "experimentos", "termodinâmica"],
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC) - curso de licenciatura em Física",
+    "contato": {
+      "endereco": "Rua José de Queiroz Pessoa, nº 2554, Planalto Universitário, Campus FECLESC,  Bloco antigo CVT, Sala Laboratório de Ensino de Física, Quixadá/Ce CEP: 63.900.000",
+      "telefone": "(88) 3445-1036",
+      "email": "daniel.militao@uece.br",
+      "site": "www.uece.br///"
+    }
+  }
+]

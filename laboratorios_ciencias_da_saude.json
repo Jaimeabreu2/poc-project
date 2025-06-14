@@ -1,0 +1,132 @@
+[
+  {
+    "nome": "LABORATÓRIO DE SAÚDE COLETIVA E INOVAÇÃO - LASCI",
+    "area": "Ciências da Saúde",
+    "tags": ["saúde coletiva", "atenção primária", "enfermagem"],
+    "natureza": "Pesquisa",
+    "vinculado": "CCS - Programa de Pós-graduação em Saúde Coletiva",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio NUPEINSC, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9826",
+      "email": "grupofrida@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE CROMOLOGIA, COR, LUZ E ARTE NA SAÚDE - LabCrom",
+    "area": "Ciências da Saúde",
+    "tags": ["cromologia", "luz", "cor", "arte", "educação"],
+    "natureza": "Misto",
+    "vinculado": "CCS - Curso de Terapia Ocupacional",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Mundo Verde, Sala 2 do Gabinete de Orientação CMEPES, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9800",
+      "email": "manye.solari@uece.br",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOQUÍMICA HUMANA",
+    "area": "Ciências da Saúde",
+    "tags": ["bioquímica", "obesidade", "câncer", "alimentação"],
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde - CCS",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Bloco D, em frente ao laboratório de anatomia, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9800",
+      "email": "sara.maria@uece.br",
+      "site": "https://www.uece.br/ccs/"
+    }
+  },
+  {
+    "nome": "Laboratório de Gestão, Inovação em Saúde - LAGIS",
+    "area": "Ciências da Saúde e Ciências Sociais",
+    "tags": ["gestão", "inovação", "enfermagem", "saúde coletiva"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde - CCS",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Sala do NUPEINSC, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9800",
+      "email": "webradio.lagis@uece.br",
+      "site": "https://www.uece.br/ccs/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE TOXINOLOGIA E FARMACOLOGIA MOLECULAR - LABTOX",
+    "area": "Ciências da Saúde",
+    "tags": ["farmacologia", "analgésicos", "bioprospecção"],
+    "natureza": "Misto",
+    "vinculado": "Instituto Superior De Ciências Biomédicas - ISCB",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Prédio do ISCB 1º Andar, Fortaleza - Ce, 60.714.903",
+      "telefone": "(85) 3101.9928",
+      "email": "krishnamurti.carvalho@uece.br",
+      "site": "https://www.uece.br/iscb/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE INOVAÇÃO EM SAÚDE DA MULHER, CRIANÇA E ADOLESCENTE - INOVAS",
+    "area": "Ciências da Saúde",
+    "tags": ["saúde da mulher", "saúde da criança", "atenção materno-infantil"],
+    "natureza": "Misto",
+    "vinculado": "CCS",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Prédio do Núcleo de Pesquisa e Inovação em Saúde Coletiva, 2º piso, Fortaleza - Ce, 60.714.903",
+      "telefone": "",
+      "email": "",
+      "site": ""
+    }
+  },
+  {
+    "nome": "ECO-BIO-SOCIAL",
+    "area": "Ciências da Saúde",
+    "tags": ["comunicação", "saúde indígena", "dengue", "autocuidado"],
+    "natureza": "Misto",
+    "vinculado": "CCS",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Prédio do NUPEINSC, Sala ECO-BIO-SOCIAL, Fortaleza - Ce, 60.714.903",
+      "telefone": "",
+      "email": "",
+      "site": ""
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE EPIDEMIOLOGIA E SAÚDE PÚBLICA – LABESP",
+    "area": "Ciências da Saúde",
+    "tags": ["epidemiologia", "saúde pública", "atenção básica"],
+    "natureza": "Pesquisa",
+    "vinculado": "CCS",
+    "contato": {
+      "endereco": "Av. Silas Munguba, n° 1700, Campus do Itaperi, Prédio do Núcleo de Pesquisa e Inovação em Saúde Coletiva (NUPEINS), 1º andar, Fortaleza - Ce, 60.714.903",
+      "telefone": "",
+      "email": "",
+      "site": ""
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE REVISÃO SISTEMÁTICA - LABREV",
+    "area": "Ciências da Saúde",
+    "tags": ["revisão sistemática", "doenças crônicas", "epidemiologia"],
+    "natureza": "Misto",
+    "vinculado": "CCS",
+    "contato": {
+      "endereco": "",
+      "telefone": "",
+      "email": "",
+      "site": "www.uece.br///"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOFARMACOLOGIA CARDIOVASCULAR E RENAL - LAFCAR",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "tags": ["fisiologia", "farmacologia", "toxicologia", "bioquímica"],
+    "natureza": "Pesquisa",
+    "vinculado": "ISCB",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, 2° andar do ISCB, Fortaleza - Ce, 60.714.903",
+      "telefone": "(85) 3101-9836",
+      "email": "nilberto.nascimento@uece.br",
+      "site": "https://www.uece.br/iscb/"
+    }
+  }
+]

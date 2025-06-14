@@ -1,0 +1,771 @@
+[
+  {
+    "nome": "LABORATÓRIO DE DESENVOLVIMENTO E INOVAÇÃO DA UECE (LDI)",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Francisco Carlos de Mattos Brito",
+    "lattes": "http://lattes.cnpq.br/0649930882307115",
+    "email": "fran@labldi.com.br",
+    "telefone": "(85) 3101-9770",
+    "site": "https://www.uece.br/ldi",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, ao lado da Coordenação da Matemática, Campus do Itaperi,  Bloco S, 1º andar, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) / Programa de Pós-Graduação em Ciência da Computação (PPGCC/UECE)",
+    "horario": "Segunda a sexta-feira, das 08h às 12hs e de 13hs às 17h",
+    "parcerias": [
+      "ESG DELL"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Computação e Tecnologias da Informação",
+      "Energias Renováveis",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE QUÍMICA INORGÂNICA - LQUIN",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Solange de Oliveira Pinheiro",
+    "lattes": "http://lattes.cnpq.br/9351322395472113",
+    "email": "solange.pinheiro@uece.br",
+    "telefone": "(85) 3101-9933",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco S, 1º andar, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia, Ciências da Saúde",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 20h; Sábados, de 08h às 12h",
+    "parcerias": [
+      "Possuem colaborações significativas com a Universidade Federal do Ceará (UFC) em projetos de pesquisa farmacológica"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Fármacos",
+      "Biotecnologia",
+      "Nanotecnologia e Novos Materiais",
+      "Biodiversidade e Bioprospecção",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE POLÍMEROS NATURAIS",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Flavia Monteiro Abreu",
+    "lattes": "http://lattes.cnpq.br/7921122115673207",
+    "email": "flavia.monteiro@uece.br",
+    "telefone": "(85) 3101-99-33",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco S, 2º andar, sala 8, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciência e Tecnologia (CCT) - Curso de Pós-Graduação de Ciências Naturais / Curso de Química",
+    "horario": "Segunda a sexta-feira, das 08h às 12h",
+    "parcerias": [
+      "Laboratório de Parasitologia e o Laboratório de Produtos naturais da FAVET/PPGCV"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Nanotecnologia e Novos Materiais"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE NANOBIOTECNOLOGIA AMBIENTAL - LaNA",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Carlucio Roberto Alves",
+    "lattes": "http://lattes.cnpq.br/0937331784886630",
+    "email": "carlucio.alves@uece.br",
+    "telefone": "(85) 3101 9645",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Núcleo de Estudos Ambientais, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h:30min",
+    "parcerias": [
+      "Embrapa Agroindústria Tropical"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Produção Agrícola Sustentável",
+      "Biotecnologia",
+      "Nanotecnologia e Novos Materiais",
+      "Biodiversidade e Bioprospecção"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE CONVERSÃO ENERGÉTICA E INOVAÇÃO - LCE+",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Mona Lisa Moura de Oliveira",
+    "lattes": "http://lattes.cnpq.br/8485796147369478",
+    "email": "laceema@uece.br",
+    "telefone": "(85) 3101-9902",
+    "site": "www.uece.br/lais",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio LAIS/UECE, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Rede Nacional de Combustão"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Tecnologia Aeroespacial",
+      "Produção Agrícola Sustentável",
+      "Petróleo",
+      "Gás e Carvão Mineral",
+      "Energias Renováveis",
+      "Biotecnologia",
+      "Nanotecnologia e Novos Materiais"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE COMPUTAÇÃO CIENTÍFICA - LCC",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Marcos José Negreiros Gomes",
+    "lattes": "http://lattes.cnpq.br/2712574018120569",
+    "email": "marcos.negreiros@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio Educação, 1º Andar, Salas 1 a 6, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia, Ciências da Saúde",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) - Bacharelado em Ciência da Computação",
+    "horario": "Segunda a sexta-feira, das 08h às 16h",
+    "parcerias": [
+      "Interna"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Computação e Tecnologias da Informação",
+      "Energias Renováveis",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE PESQUISA E ENSINO EM MATEMÁTICA - LAPEM",
+    "descricao": "",
+    "responsavel": "Prof. Me. Carlos Ian Bezerra de Melo",
+    "lattes": "http://lattes.cnpq.br/8758179331371144",
+    "email": "carlosian.melo@uece.br",
+    "telefone": "(88) 3581-4558",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dário Rabêlo, n° 977, Sete de Setembro, Campus Multi-institucional Humberto Teixeira, bloco G, Iguatu - CE, 63500-000",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Faculdade de Educação, Ciências e Letras de Iguatu (FECLI) - Curso de licenciatura em Matemática",
+    "horario": "Segunda a sexta-feira, das 7h30 às 11h e das 18h30 à 21h30",
+    "parcerias": [
+      "Escolas da rede pública municipal e estadual de Iguatu e municípios circunvizinhos."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ENERGIAS RENOVÁVEIS - LER",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Lutero Carmo de Lima",
+    "lattes": "http://lattes.cnpq.br/9519603363578016",
+    "email": "lutero.lima@uece.br",
+    "telefone": "(85) 3101 9904",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio do Mestrado Acadêmico em Ciências Físicas Aplicadas (MACFA) e anexo à Torre Meteorológica da UECE, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) - Curso de Física",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Núcleo de Tecnologia e Qualidade Industrial do Ceará (Nutec)",
+      "Companhia de Água e Esgoto do Ceará (Cagece) - Laboratório de análise química de Itapipoca"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Energias Renováveis"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE FÍSICA EXPERIMENTAL DE MECÂNICA E TERMODINÂMICA - LabFis",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Daniel Linhares Militão Vasconcelos",
+    "lattes": "http://lattes.cnpq.br/3229845524417439",
+    "email": "daniel.militao@uece.br",
+    "telefone": "(88) 3445-1036",
+    "site": "www.uece.br///",
+    "localizacao": "Rua José de Queiroz Pessoa, nº 2554, Planalto Universitário, Campus FECLESC,  Bloco antigo CVT, Sala Laboratório de Ensino de Física, Quixadá/Ce CEP: 63.900.000",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC) - curso de licenciatura em Física",
+    "horario": "Segunda a sexta-feira, das 07h30 às 22h",
+    "parcerias": [
+      "Laboratório de Astronomia"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS MORFOESTRUTURAIS E PEDOLÓGICOS - LEMEP",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Frederico de Holanda Bastos",
+    "lattes": "http://lattes.cnpq.br/1844654340759062",
+    "email": "fred.holanda@uece.br",
+    "telefone": "(85) 3101-9706",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio do Programa de Pós-Graduação em Geografia (térreo), Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 09h às 16h",
+    "parcerias": [
+      "Centro Europeu de Pesquisas e Ensino em Geociências e Meio Ambiente (CEREGE)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Geociências"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ASTRONOMIA - LA",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Raimundo Ivan de Oliveira Junior",
+    "lattes": "http://lattes.cnpq.br/6051512309482396",
+    "email": "raimundo.ivan@uece.br",
+    "telefone": "(88) 3445 1036",
+    "site": "www.uece.br///",
+    "localizacao": "Rua José de Queiroz Pessoa, nº 2554, Campus FECLESC, Planalto Universitário  Sala 2d, Quixadá-Ce, CEP: 63.900.000",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Laboratório de ensino de Física"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE MATEMÁTICA COMPUTACIONAL - LAMAC",
+    "descricao": "",
+    "responsavel": "Prof. Ph.D. Thelmo Pontes de Araujo",
+    "lattes": "http://lattes.cnpq.br/3978299887398475",
+    "email": "thelmo.araujo@uece.br",
+    "telefone": "(85) 3101-9776",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio do Programa de Pós-Graduação em Ciência da Computação (PPGCC), sala 04, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira-feira, das 09h às 17h",
+    "parcerias": [
+      "Learning, Understanding, Reasoning e Acting (LAURA)",
+      "Parcerias com os demais laboratórios de Computação da UECE que utilizam o LabComp para as disciplinas e realização de eventos."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Computação e Tecnologias da Informação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE QUÍMICA DE PRODUTOS NATURAIS - LQPN",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Sônia Maria Costa Siqueira",
+    "lattes": "",
+    "email": "sonia.costa@uece.br",
+    "telefone": "(85) 3101-9933",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  bloco S, Sala 8, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciência e Tecnologia (CCT) - Curso de  Química",
+    "horario": "Segunda a sexta-feira, das 09h às 12h e de 14h às 18h",
+    "parcerias": [
+      "Laboratório de Bioensaios Químico-Farmacológico e Ambiental (LABQFAM)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Fármacos",
+      "Biodiversidade e Bioprospecção"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE MATEMÁTICA PARA A FORMAÇÃO DE PROFESSOR - LABPROFMAT",
+    "descricao": "",
+    "responsavel": "Prof. Me. Acácio Lima de Freitas",
+    "lattes": "http://lattes.cnpq.br/8055652273134652",
+    "email": "acacio.freitas@uece.br",
+    "telefone": "(88) 3423-6963",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dom Aureliano Matos, 2058, Centro, Campus FAFIDAM,  Sala Laboratório de Matemática, Limoeiro do Norte - Ce, 62.930.000",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)",
+    "horario": "Segunda a sexta-feira, das 08h às 22h",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o LABPROFMAT está aberto a colaborações que alinhem com os seus objetivos."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE OTIMIZAÇÃO E GESTÃO DE INTELIGÊNCIA - LOGIN",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Gerardo Valdisio Rodrigues Viana",
+    "lattes": "http://lattes.cnpq.br/6262051397848744",
+    "email": "valdisio.viana@uece.br",
+    "telefone": "(85) 3101.9645",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco do PPGCC - Pós-Graduação da Computação, Sala 7, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT) - Curso de Computação",
+    "horario": "Segunda a sexta-feira, das 08h às 12h",
+    "parcerias": [
+      "Instituto de Gestão, Redes Tecnológicas e Energias (IREDE)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Computação e Tecnologias da Informação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOQUÍMICA E BIOTECNOLOGIA - LABBIOTEC",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Maria da Conceição Tavares Cavalcanti Liberato",
+    "lattes": "http://lattes.cnpq.br/2153415166936745",
+    "email": "conceicao.liberato@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco S, Sala 11, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra / Ciências da Saúde / Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT) - Curso de Química",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Agrônomos da Empresa Renda Florestal"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Biotecnologia",
+      "Biodiversidade e Bioprospecção",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ANÁLISES CROMATOGRÁFICAS E ESPECTROSCÓPICAS - LACES",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Selene Maia de Morais",
+    "lattes": "http://lattes.cnpq.br/9980263926363134",
+    "email": "selene.morais@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br///",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco S, sala 12, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Programa de Pós-Graduação em Ciências Veterinárias"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biodiversidade e Bioprospecção"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DE INTERAÇÕES ENTRE AEROSOL E NUVENS- L-SACI",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Gerson Paiva Almeida",
+    "lattes": "http://lattes.cnpq.br/8692377832738540",
+    "email": "gerson.almeida@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Prédio do Mestrado em Física Aplicada, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT)",
+    "horario": "Segunda a sexta-feira, das 08 às 17 horas",
+    "parcerias": [
+      "Centro de Previsão de Tempo e Estudos Climáticos (CPTEC - INPE)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Ciências Atmosféricas"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS - LADESC",
+    "descricao": "",
+    "responsavel": "Prof. Dr. José Everardo Bessa Maia",
+    "lattes": "http://lattes.cnpq.br/3138211440230015",
+    "email": "jose.maia@uece.br",
+    "telefone": "(85) 3101-9776",
+    "site": "www.uece.br/cct/",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do PPGCC, Sala 12, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 16h",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o LADESC está aberto a colaborações que alinhem com seus objetivos educacionais."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Computação e Tecnologias da Informação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE QUÍMICA DA FAEC - LQCr",
+    "descricao": "",
+    "responsavel": "Prof. Dr. José Carlos Vieira de Miranda",
+    "lattes": "http://lattes.cnpq.br/8178424963580175",
+    "email": "estar.miranda@uece.br",
+    "telefone": "(88) 3692.3513",
+    "site": "www.uece.br/faec/",
+    "localizacao": "Rua José Sabóia Livreiro - Altamira, Campus Crateús (Laboratório de Química), Crateús - Ce, 63.704.155",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação de Crateús (FAEC)",
+    "horario": "Segunda a sexta-feira, das 08h às 20h",
+    "parcerias": [
+      "Curso de Ciências Biológicas da FAEC",
+      "Huawei"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Tecnologia Mineral",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE FÍSICA LUÍS CLÁUDIO - LABFIS",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Francisco Carlos de Oliveira",
+    "lattes": "http://lattes.cnpq.br/7973257954915065",
+    "email": "francarlos.oliveira@uece.br",
+    "telefone": "(88) 3423-6962",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dom Aureliano Matos, n° 2058, Campus FAFIDAM/UECE, Limoeiro do Norte - Ce, 62.930.000",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)",
+    "horario": "Segunda a sexta-feira, das 08h às 11h, das 13:30 h às 17 h e 19 às 21h.",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o Laboratório de Física Luís Cláudio (LABFIS) está aberto a colaborações que alinhem com seus objetivos educacionais.",
+      "Universidade Estadual Vale do Acaraú (UVA)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Nanotecnologia e Novos Materiais",
+      "Física Experimental"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS ORNITOLÓGICOS - LABEO",
+    "descricao": "",
+    "responsavel": "Prof. Dr. William Cardoso Maciel",
+    "lattes": "http://lattes.cnpq.br/6921857822264051",
+    "email": "william.cardoso@uece.br",
+    "telefone": "(85) 3101-9860",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  ao lado dos Laboratório de Caprinos, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra; Ciências Biológicas, Engenharia / Tecnologia; Ciências Agrárias",
+    "natureza": "Pesquisa, Ensino e Extensão",
+    "vinculado": "Programa de Pós-Graduação em Ciências Veterinárias (PPGCV)",
+    "horario": "Segunda a sexta-feira, das 08h às 18h, sábado, domingo e feriados das 8h às 10h",
+    "parcerias": [
+      "Universidade Federal do Ceará - UFC"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Produção Agrícola Sustentável",
+      "Biotecnologia",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E ESTUDOS EM ASTRONOMIA DA FECLI - LEEA",
+    "descricao": "",
+    "responsavel": "Profa. Dr. Raissa Maria Pimentel Neves",
+    "lattes": "http://lattes.cnpq.br/9764791468056770",
+    "email": "raissa.pimentel@uece.br",
+    "telefone": "(88) 3581.4558",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dário Rabêlo, s/n - Vila Santo Antônio, Campus FECLI/UECE,  Bloco G, Iguatu - Ce, 63.500.000",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras de Iguatu (FECLI)",
+    "horario": "Terça-feira, das 14h às 17h. Quinta-feira, das 08h às 11h.",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o LEEA está aberto a colaborações que alinhem com seus objetivos.",
+      "Atualmente, não foram especificadas parcerias, mas o LAGEO está aberto a colaborações que alinhem com seus objetivos."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE INFORMÁTICA DO CCT",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Carlos Santana",
+    "lattes": "http://lattes.cnpq.br/5727625323313221",
+    "email": "carlos.santana@uece.br",
+    "telefone": "(85) 3101-9773",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  térreo do prédio do CCT, , Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, de 08h às 21h",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o laboratório está aberto a colaborações que alinhem com seus objetivos.",
+      "Laboratório de Crescimento de Cristais da Universidade Federal do Ceará (UFC),",
+      "Cursos de Licenciaturas da FAFIDAM/UECE"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Computação e Tecnologias da Informação",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE AULAS PRÁTICAS DE QUÍMICA  - LAPQ",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Cristiane Maria Sampaio Forte",
+    "lattes": "http://lattes.cnpq.br/3085435107003470",
+    "email": "cristiane.forte@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Bloco E, 1° andar, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 13h às 22h",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o LAPQ está aberto a colaborações que alinhem com seus objetivos educacionais."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE APOIO A PESQUISA E AO ENSINO - LAPIS",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Augusto Cesar Barros Barbosa",
+    "lattes": "http://lattes.cnpq.br/9512651268518603",
+    "email": "augusto.barbosa@uece.br",
+    "telefone": "(85) 3101-9884",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Mestrado Acadêmico em Ciências Físicas Aplicadas (CMACFA)/Torre da Física, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Grupo de pesquisa em poluição, tempo e clima do IF/Universidade de São Paulo"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Física da Atmosfera e Oceânica - para o entendimento e mitigação das mudanças climáticas correntes."
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE PRÁTICAS DE ENSINO DE FÍSICA - LABEFIS",
+    "descricao": "",
+    "responsavel": "Prof. Me. Francisco Tiago Barboza Sampaio",
+    "lattes": "http://lattes.cnpq.br/2929196920425457",
+    "email": "tiago.barboza@uece.br",
+    "telefone": "(88) 3581-9455",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dário Rabêlo, s/n - Vila Santo Antônio, Bloco G  Iguatu - Ce, 63.500.000",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Vinculado ao curso de Licenciatura em Física da FECLI",
+    "horario": "Segunda a sexta-feira, de 08h às 17h e de 13h às 17h",
+    "parcerias": [
+      "Laboratório de Pesquisa e ensino de Física da FECLI"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM ASTRONOMIA - LEPA",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Roberto Namor Silva Santiago",
+    "lattes": "http://lattes.cnpq.br/5794970044672730",
+    "email": "lepa@uece.br",
+    "telefone": "(85) 3101-9773",
+    "site": "https://www.uece.br/cct/laboratorios/lepa",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Observatório Astronômico Otto de Alencar, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta feira, das 08 às 18h",
+    "parcerias": [
+      "Planetário Rubens de Azevedo (Planetário do Dragão do Mar)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Engenharias e demais áreas tecnológicas",
+      "Tecnologia Aeroespacial",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOENSAIOS QUÍMICO-FARMACOLÓGICO E AMBIENTAL - LaBQFAm",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Jane Eire Silva Alencar de Menezes",
+    "lattes": "http://lattes.cnpq.br/5495579352462112",
+    "email": "jane.menezes@uece.br",
+    "telefone": "(85) 3101-9766",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Núcleo de Estudos Ambientais (NEA), Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Escola de Ciências da UMinho e do Centro de Biologia Molecular e Ambiental;"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Fármacos",
+      "Biotecnologia",
+      "Tecnologias de Prevenção e Mitigação de Desastres Naturais",
+      "Biodiversidade e Bioprospecção",
+      "Educação",
+      "Extensão de divulgação de ciência: zebrafish connect"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE MATEMÁTICA E ENSINO - LABMATEN",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Ana Carolina Costa Pereira",
+    "lattes": "http://lattes.cnpq.br/1062497580478584",
+    "email": "carolina.pereira@uece.br",
+    "telefone": "(85) 3101-9775",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Blocos das coordenações, Sala 19, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciência e Tecnologias",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Escolas municipais, estaduais e privadas do Ceará"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO DE FÍSICA - LEF",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Francisco Geraldo de Melo Pinheiro",
+    "lattes": "http://lattes.cnpq.br/5899681125825184",
+    "email": "francisco.pinheiro@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Bloco E no 2° andar, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "horario": "Segunda a sexta-feira, das 08h às 22h",
+    "parcerias": [
+      "Atualmente, não foram especificadas parcerias, mas o LEF está aberto a colaborações que alinhem com seus objetivos educacionais."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Física",
+      "Eletricidade"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOPROSPECÇÃO DE PRODUTOS NATURAIS E BIOTECNOLOGIA  - LBPNB",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Francisco Ernani Alves Magalhães",
+    "lattes": "http://lattes.cnpq.br/5147244041651721",
+    "email": "ernani.magalhaes@uece.br",
+    "telefone": "(88) 3437.1772",
+    "site": "www.uece.br/",
+    "localizacao": "R. Seis, n° 15, Bezerra de Sousa, Campus CECITEC/UECE,  Laboratório de Ensino de Química, Tauá - Ce, 63.660.000",
+    "area": "Ciências Exatas e da Terra; Ciências Biológicas, Engenharia / Tecnologia; Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Educação, Ciências e Tecnologia da Região dos Inhamuns (CECITEC)",
+    "horario": "Segunda a sexta-feira, das 08h às 22h",
+    "parcerias": [
+      "Nutrição e Saúde (PPGNS-UECE)\r\nCiências Naturais (PPGCN-UECE)\r\nQuímica Orgânica (PPGQ-UFC)",
+      "Universidade Federal do Ceará (UFC)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Fármacos",
+      "Produção Agrícola Sustentável",
+      "Biotecnologia",
+      "Nanotecnologia e Novos Materiais",
+      "Biodiversidade e Bioprospecção",
+      "Educação"
+    ]
+  }
+]

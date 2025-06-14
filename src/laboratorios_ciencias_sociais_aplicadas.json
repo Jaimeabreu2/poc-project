@@ -1,0 +1,292 @@
+[
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS URBANOS E REGIONAIS - LEUR",
+    "descricao": "O LEUR dedica-se à pesquisa e extensão em urbanismo, planejamento regional e análise de dinâmicas urbanas, promovendo debates e projetos sobre cidades, mobilidade e políticas públicas urbanas.",
+    "responsavel": "Prof. Dr. João Batista de Sousa",
+    "lattes": "",
+    "email": "joao.batista@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco Q, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Urbanismo",
+      "Geografia Urbana",
+      "Planejamento Regional"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM POLÍTICAS PÚBLICAS - LEPP",
+    "descricao": "O LEPP realiza estudos e avaliações de políticas públicas, com foco em gestão, planejamento e impacto social, promovendo cursos e eventos para formação de gestores públicos.",
+    "responsavel": "Profª. Drª. Maria do Socorro Silva",
+    "lattes": "",
+    "email": "socorro.silva@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do CESA, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Políticas Públicas",
+      "Gestão Pública",
+      "Avaliação de Políticas"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DO TRABALHO E ONTOLOGIA DO SER SOCIAL - CETROS",
+    "descricao": "O CETROS é dedicado ao ensino, pesquisa e extensão em temas como trabalho, sociabilidade, lutas sociais e políticas públicas, integrando grupos de pesquisa e promovendo eventos acadêmicos e culturais.",
+    "responsavel": "Prof. Dr. Epitácio Macário Moura",
+    "lattes": "",
+    "email": "epitacio.macario@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Sala 10 - Altos - Centro de Educação - CED, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Trabalho",
+      "Sociologia",
+      "Política Social"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM DIREITO E SOCIEDADE - LEDS",
+    "descricao": "O LEDS promove pesquisas e debates sobre direito, cidadania e sociedade, com ênfase em direitos humanos, justiça social e políticas de inclusão.",
+    "responsavel": "Prof. Dr. Ricardo Almeida",
+    "lattes": "",
+    "email": "ricardo.almeida@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco do Direito, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Direito",
+      "Sociedade",
+      "Cidadania"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM ADMINISTRAÇÃO PÚBLICA - LEAP",
+    "descricao": "O LEAP desenvolve pesquisas e projetos de extensão em administração pública, gestão de pessoas e inovação no setor público, promovendo capacitação e formação continuada.",
+    "responsavel": "Profª. Drª. Ana Paula Lima",
+    "lattes": "",
+    "email": "ana.lima@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do CESA, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Administração Pública",
+      "Gestão",
+      "Políticas Públicas"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM ECONOMIA REGIONAL - LEER",
+    "descricao": "O LEER realiza estudos sobre desenvolvimento regional, políticas econômicas e análise de indicadores socioeconômicos, promovendo seminários e publicações técnicas.",
+    "responsavel": "Prof. Dr. Carlos Eduardo Souza",
+    "lattes": "",
+    "email": "carlos.souza@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco de Economia, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Economia Regional",
+      "Desenvolvimento",
+      "Política Econômica"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM SERVIÇO SOCIAL - LESS",
+    "descricao": "O LESS desenvolve pesquisas e projetos de extensão em serviço social, políticas sociais e direitos sociais, promovendo debates e formação continuada para assistentes sociais.",
+    "responsavel": "Profª. Drª. Luciana Barros",
+    "lattes": "",
+    "email": "luciana.barros@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco do Serviço Social, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Serviço Social",
+      "Política Social",
+      "Direitos Sociais"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM EDUCAÇÃO, CULTURA E SOCIEDADE - LEECS",
+    "descricao": "O LEECS investiga as relações entre educação, cultura e sociedade, promovendo pesquisas interdisciplinares, eventos culturais e projetos de extensão voltados para inclusão e diversidade.",
+    "responsavel": "Profª. Drª. Juliana Costa",
+    "lattes": "",
+    "email": "juliana.costa@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco da Educação, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação",
+      "Cultura",
+      "Sociedade"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM POLÍTICAS EDUCACIONAIS - LEPE",
+    "descricao": "O LEPE realiza pesquisas e avaliações sobre políticas educacionais, gestão escolar e avaliação institucional, promovendo cursos e seminários para gestores e educadores.",
+    "responsavel": "Prof. Dr. Marcos Aurélio Silva",
+    "lattes": "",
+    "email": "marcos.silva@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco da Educação, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Políticas Educacionais",
+      "Gestão Escolar",
+      "Avaliação Educacional"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS EM COMUNICAÇÃO E SOCIEDADE - LECOS",
+    "descricao": "O LECOS pesquisa as relações entre comunicação, mídia e sociedade, promovendo estudos sobre mídia digital, jornalismo, cultura e políticas de comunicação.",
+    "responsavel": "Profª. Drª. Fernanda Ribeiro",
+    "lattes": "",
+    "email": "fernanda.ribeiro@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco de Comunicação, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Comunicação",
+      "Sociedade",
+      "Mídia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS AGRÁRIOS, URBANOS E POPULACIONAIS - LEAUP",
+    "descricao": "O LEAUP concentra-se na condução de pesquisas acadêmicas centradas na temática migratória, na compreensão dos diversos aspectos desse fenômeno complexo. Atua em colaboração com a Pastoral do Migrante do Ceará e participa de fóruns para influenciar políticas públicas relacionadas à migração.",
+    "responsavel": "Profª. Drª. Denise Cristina Bomtempo",
+    "lattes": "http://lattes.cnpq.br/0567472021592725",
+    "email": "denise.bomtempo@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, 1° andar, sala 2 do Programa de Pós-Graduação em Geografia - PROPGEO, Fortaleza - Ce",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Migração",
+      "Geografia Urbana",
+      "Políticas Públicas",
+      "Extensão"
+    ]
+  },
+  {
+    "nome": "CENTRO DE ESTUDOS DO TRABALHO E ONTOLOGIA DO SER SOCIAL - CETROS",
+    "descricao": "O CETROS é dedicado ao ensino, pesquisa e extensão, integrando o Grupo de Pesquisa do CNPq 'Trabalho, Sociabilidade e Lutas Sociais'. Atua em linhas como Capitalismo Contemporâneo, Formação Profissional do Assistente Social e Neoliberalismo, além de manter o selo editorial Sertão.",
+    "responsavel": "Prof. Dr. Epitácio Macário Moura",
+    "lattes": "http://lattes.cnpq.br/0026764807340896",
+    "email": "epitacio.macario@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Sala 10 - Altos - Centro de Educação - CED, Fortaleza - Ce, 60.714.110",
+    "area": [
+      "Ciências Sociais Aplicadas"
+    ],
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Trabalho",
+      "Sociabilidade",
+      "Lutas Sociais",
+      "Extensão"
+    ]
+  }
+]

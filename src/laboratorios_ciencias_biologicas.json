@@ -1,0 +1,612 @@
+[
+  {
+    "nome": "LABORATÓRIO DE ENSINO, PESQUISA E EXTENSÃO EM BIOLÓGICAS - LEPECBIO",
+    "descricao": "O LEPECBIO promove a integração dinâmica entre ensino, pesquisa e extensão em áreas como Microbiologia, Biologia Celular, Biologia Molecular, Bioquímica e Imunologia, além de desenvolver materiais didáticos inovadores.",
+    "responsavel": "Profª. Drª. Jaqueline Rabelo de Lima",
+    "lattes": "http://lattes.cnpq.br/7135858088547030",
+    "email": "jaqueline.lima@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Rua Dr. José Sabóia Livreiro, 1480, Bairro Altamira, Campus Fátima(FAEC), bloco 03, Crateús - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Ensino",
+      "Pesquisa",
+      "Extensão",
+      "Biotecnologia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOQUÍMICA E EXPRESSÃO GÊNICA - LABIEX",
+    "descricao": "O LABIEX dedica-se à pesquisa pré-clínica experimental, focado em modelos experimentais de diabetes, Alzheimer, biologia molecular, análise de expressão gênica e terapias moleculares.",
+    "responsavel": "Profª. Drª. Vania Marilande Ceccatto",
+    "lattes": "http://lattes.cnpq.br/7164184729889286",
+    "email": "vania.ceccatto@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do Instituto Superior de Ciências Biomédicas - ISCB, Fortaleza - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Bioquímica",
+      "Expressão Gênica",
+      "Biotecnologia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA DA REPRODUÇÃO DE PEIXES - LBRP",
+    "descricao": "O LBRP dedica-se à pesquisa avançada na biologia e biotecnologia da reprodução de espécies aquáticas, incluindo peixes de água doce e marinhos, pepinos do mar, camarões e tartarugas marinhas.",
+    "responsavel": "Profª. Drª. Carminda Sandra Brito Salmito Vanderley",
+    "lattes": "http://lattes.cnpq.br/3415249014153800",
+    "email": "sandra.salmito@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Programa de Pós-Graduação em Ciências Veterinárias - Núcleo Integrado de Biotecnologia, Fortaleza - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biotecnologia",
+      "Reprodução Animal",
+      "Aquicultura"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO DO CURSO DE LICENCIATURA PLENA EM CIÊNCIAS BIOLÓGICAS",
+    "descricao": "Centro dinâmico de iniciação científica, extensão e monitoria, dedicado a enriquecer a experiência educacional de alunos do ensino fundamental e médio através de atividades práticas e interativas em Biologia.",
+    "responsavel": "Prof. Dr. Silvio César",
+    "lattes": "https://lattes.cnpq.br/4352966989497850",
+    "email": "silvio.cesar@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Rua Sólon Medeiros, S/N, Campus Reitor Paulo Petrola, Tauá-Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Ensino",
+      "Extensão",
+      "Biologia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS - LASID",
+    "descricao": "O LASID dedica-se ao desenvolvimento de sistemas avançados, tanto em hardware quanto em software, especializado em processamento de alta demanda para aplicações em computação científica, incluindo análise genômica.",
+    "responsavel": "Prof. Dr. Marcial Porto Fernández",
+    "lattes": "https://lattes.cnpq.br/7708021019524305",
+    "email": "marcial.fernandez@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio PPGCC, Fortaleza - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Sistemas Digitais",
+      "Bioinformática",
+      "Computação Científica"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOLOGIA ENDÓCRINA E METABOLISMO - LAFEM",
+    "descricao": "O LAFEM dedica-se ao estudo avançado dos impactos de compostos bioativos presentes em plantas e alimentos sobre a homeostase redox e a funcionalidade mitocondrial.",
+    "responsavel": "Prof. Dr. Ariclecio Cunha de Oliveira",
+    "lattes": "http://lattes.cnpq.br/4190947063707326",
+    "email": "ariclecio.oliveira@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do Instituto Superior de Ciências Biomédicas - ISCB, 3º piso, Fortaleza - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Fisiologia",
+      "Metabolismo",
+      "Bioquímica"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM AVICULTURA INDUSTRIAL - LEPAVI",
+    "descricao": "O LEPAVI dedica-se à pesquisas em ciências da avicultura industrial, com foco em genética, nutrição, manejo e condições ambientais ideais para aves.",
+    "responsavel": "Prof. Dr. Walbens Siqueira Benevides",
+    "lattes": "http://lattes.cnpq.br/4178155577069528",
+    "email": "walbens.benevides@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, FAVET, Setor de Avicultura, Fortaleza - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Avicultura",
+      "Genética",
+      "Nutrição Animal"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE POLISSACARÍDEOS BIOATIVOS - LAPOBIO",
+    "descricao": "O LAPOBIO realiza pesquisas na área de Bioquímica, com ênfase em Bioquímica vegetal, atuando principalmente na purificação e caracterização química de polissacarídeos de algas marinhas e plantas superiores.",
+    "responsavel": "Profª. Drª. Maria Gonçalves Pereira",
+    "lattes": "https://lattes.cnpq.br/4714803028499566",
+    "email": "mariag.pereira@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Rua José de Queiroz Pessoa - Planalto Universitário, 3º pavilhão, térreo, Quixadá - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Bioquímica",
+      "Polissacarídeos",
+      "Biotecnologia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ISOPODA - LABISO",
+    "descricao": "O LABISO é um centro de pesquisa especializado na biodiversidade de crustáceos neotropicais, com um foco particular na ordem Isopoda, especialmente na subordem Oniscidea.",
+    "responsavel": "Profª. Drª. Leila Aparecida Souza",
+    "lattes": "https://lattes.cnpq.br/4187281969117169",
+    "email": "leila.souza@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, container ao lado da agência do Bradesco, Fortaleza - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biodiversidade",
+      "Crustáceos",
+      "Sistemática"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA E GENÔMICA - BIOGEN",
+    "descricao": "O BIOGEN é um centro de excelência dedicado à pesquisa e desenvolvimento nas áreas de bioinformática, edição de genes, terapia gênica e avaliação da expressão gênica.",
+    "responsavel": "Prof. Dr. Luis Flávio Mendes Saraiva",
+    "lattes": "http://lattes.cnpq.br/1188264875313588",
+    "email": "flavio.saraiva@uece.br",
+    "telefone": "",
+    "site": "",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Bloco D, piso superior, Fortaleza - Ce",
+    "area": "Ciências Biológicas",
+    "natureza": "",
+    "vinculado": "",
+    "horario": "",
+    "parcerias": [],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biotecnologia",
+      "Genômica",
+      "Bioinformática"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOFARMACOLOGIA CARDIOVASCULAR E RENAL - LAFCAR",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Nilberto Robson Falcão do Nascimento",
+    "lattes": "http://lattes.cnpq.br/3228580688445898",
+    "email": "nilberto.nascimento@uece.br",
+    "telefone": "(85) 3101-9836",
+    "site": "https://www.uece.br/iscb/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  2° andar do ISCB,  último laboratório do lado direito, Fortaleza - Ce, CEP: 60.714.903",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas - ISCB",
+    "horario": "segunda a sexta, das 08h às 18h",
+    "parcerias": [
+      "Centro de Diabetes e Hipertensão do Ceará-CIDH"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Fármacos",
+      "Biotecnologia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE PRÁTICAS DE ENSINO EM MICROBIOLOGIA - LABPEM",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Maria Edite Bezerra da Rocha",
+    "lattes": "http://lattes.cnpq.br/8465805938814717",
+    "email": "profa.edite@uece.br",
+    "telefone": "(88) 3445-1039",
+    "site": "www.uece.br/",
+    "localizacao": "Rua José de Queiroz Pessoa, Planalto Universitário, Campus FECLESC,   Bloco dos Laboratórios, Quixadá - Ce, 63.900.000",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Vigilância Sanitária do Município de Quixadá",
+      "Instituto de Gestão, Redes Tecnologias e Energias - IRede"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ELETROFISIOLOGIA - LEF",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Kerly Shamyra da Silva Alves",
+    "lattes": "http://lattes.cnpq.br/7139414606610950",
+    "email": "kerly.shamyra@uece.br",
+    "telefone": "(85) 3101-9814",
+    "site": "http://uece.br/lef",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Instituto Superior de Ciências Biomédicas, 1º andar, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas/ Programa de Pós-Graduação em Ciências Fisiológicas",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Universidade de São Paulo - USP"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Fármacos",
+      "Biotecnologia",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BOTÂNICA - LABOTAN",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Roselita Maria de Souza Mendes",
+    "lattes": "http://lattes.cnpq.br/7335063453695874",
+    "email": "roselita.mendes@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Prédio do Instituto Superior de Ciências Biomédicas, 2º Piso, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a sexta-feira, das 09h às 18h",
+    "parcerias": [
+      "Canindé aventura"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ORNITOLOGIA E SISTEMÁTICA ANIMAL - LORNISA",
+    "descricao": "",
+    "responsavel": "Prof Dr Luís Gonzaga Sales Júnior",
+    "lattes": "http://lattes.cnpq.br/4467354053813520",
+    "email": "luis.gonzaga@uece.br",
+    "telefone": "(85) 3001-1816",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Prédio do Etnobio, Sala LORNISA, Fortaleza - CE, 60.714.903.",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Museu de História Natural Dias da Rocha em Pacoti (MHNCE)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Biodiversidade e Bioprospecção",
+      "Ecológia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ENTOMOLOGIA - LABENT",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Yves Patric Quinet",
+    "lattes": "http://lattes.cnpq.br/0636337052720563",
+    "email": "yves.quinet@uece.br",
+    "telefone": "(85) 3101-9749",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,  Prédio Instituto Superior de Ciências Biomédicas (ISCB), 2º piso, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Pesquisa",
+    "vinculado": "Vinculado ao Instituto Superior de Ciências Biomédicas (ISCB)",
+    "horario": "Segunda a sexta feira, das 7h às 19h",
+    "parcerias": [
+      "Universidade Federal do Ceará"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Zoologia",
+      "Etologia",
+      "Ecologia",
+      "Ecologia Química"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE CIÊNCIAS DA NATUREZA - LACIN",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Bruno Lopes de Sousa",
+    "lattes": "http://lattes.cnpq.br/4253694407886114",
+    "email": "brunolopes.sousa@uece.br",
+    "telefone": "(88) 3423.6962",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dom Aureliano Matos, 2058 - Centro, Limoeiro do Norte - CE, 62930-000",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "IFCE de Limoeiro do Norte"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Biodiversidade e Bioprospecção"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA E BIOLOGIA MOLECULAR - LBBM",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Maria Izabel Florindo Guedes",
+    "lattes": "http://lattes.cnpq.br/5282771143306034",
+    "email": "izabel.guedes@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n°1700, Campus do Itaperi,  Bloco D - 1º Andar, Fortaleza - Ce, 60.714.903",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia;Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Universidade Federal do Ceará (UFC)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Biotecnologia",
+      "Biodiversidade e Bioprospecção"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE FORMAÇÃO DE PROFESSORES - LAFORP",
+    "descricao": "",
+    "responsavel": "Profª. Drª.Jeanne Barros Leal de Pontes Medeiros",
+    "lattes": "http://lattes.cnpq.br/0916448786695904",
+    "email": "jeanne.pontes@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "https://www.uece.br/ccs/laforp/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Rede municipal e Estadual de Educação"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE PALEONTOLOGIA - LABPALEO",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Valberto Barbosa Porto",
+    "lattes": "http://lattes.cnpq.br/6301137308237185",
+    "email": "valberto.porto@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi, Fortaleza -",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Terça a quinta-feira, das 13:30h às 18:30h",
+    "parcerias": [
+      "Agência Nacional de Mineração"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Educação"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO INTEGRADO DE ENSINO, BOTÂNICA E ECOLOGIA - LIEBE",
+    "descricao": "",
+    "responsavel": "Profª. Me. Vaneicia dos Santos Gomes",
+    "lattes": "http://lattes.cnpq.br/8660243132328136",
+    "email": "vaneicia.gomes@uece.br",
+    "telefone": "(88) 3445-1036 / (88) 3445-1039",
+    "site": "www.uece.br/",
+    "localizacao": "Rua José de Queiroz Pessoa, nº 2554 ,Campus FECLESC, Planalto",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "12ª Coordenadoria Regional de Desenvolvimento da Educação de Quixadá"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Biodiversidade e"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ECOLOGIA - LABOECO",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Oriel Herrera Bonilla",
+    "lattes": "https://lattes.cnpq.br/1987220130978704",
+    "email": "oriel.herrera@uece.br",
+    "telefone": "(85) 3101-9952",
+    "site": "http://uece.br/laboec",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências Agrárias",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a sexta-feira, das 09h às 18h",
+    "parcerias": [
+      "Núcleo de Estudos e Práticas Permaculturais do Semiárido - NEPPSA"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ECOFISIOLOGIA VEGETAL - ECOFISIO",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Eliseu  Marlônio  Pereira de Lucena",
+    "lattes": "http://lattes.cnpq.br/2639402429072222",
+    "email": "eliseu.lucena@uece.br",
+    "telefone": "(85) 3101-9737",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a sexta-feira-feira, das 08h às 12h e das 13h às 17h.",
+    "parcerias": [
+      "Laboratório de Ecologia da UECE(LABOECO)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Produção Agrícola"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOFARMACOLOGIA DA INFLAMAÇÃO - LAFFIN",
+    "descricao": "",
+    "responsavel": "Prof. Dr. Gislei Frota Aragão",
+    "lattes": "http://lattes.cnpq.br/1937258923837490",
+    "email": "gislei.frota@uece.br",
+    "telefone": "(85) 3101-9919",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,",
+    "area": "Ciências Biológicas / Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "Núcleo de Pesquisa e Desenvolvimento de Medicamentos (NPDM)",
+      "Laboratório de Ecologia(LABOECO)"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Fármacos"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOLOGIA DA FACEDI - LABIO",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Luciana dos Santos Dias de Oliveira",
+    "lattes": "http://lattes.cnpq.br/3252069686726606",
+    "email": "luciana.dias@uece.br",
+    "telefone": "(88) 3673.7051",
+    "site": "www.uece.br/",
+    "localizacao": "Av. da Universidade, Madalenas, Campus FACEDI,",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Educação (CED)",
+    "horario": "Segunda a sexta-feira, das 08h às 17h",
+    "parcerias": [
+      "O LABIO colabora com algumas atividades de escolas de Itapipoca e municípios próximos,\r\nalém de Faculdades particulares."
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Biotecnologia"
+    ]
+  },
+  {
+    "nome": "LABORATÓRIO DE MICROBIOLOGIA - LAMIC",
+    "descricao": "",
+    "responsavel": "Profª. Drª. Lydia Dayanne Maia Pantoja",
+    "lattes": "http://lattes.cnpq.br/7749062886960077",
+    "email": "lydia.pantoja@uece.br",
+    "telefone": "(85) 3101-9928",
+    "site": "www.uece.br/",
+    "localizacao": "Av. Dr. Silas Munguba, n° 1700, Campus do Itaperi,",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)",
+    "horario": "Segunda a sexta-feira, das 08h às 18h",
+    "parcerias": [
+      "Techidro - Comercio e Servicos LTDA"
+    ],
+    "equipe": "",
+    "infraestrutura": "",
+    "tags": [
+      "Biologia",
+      "Ciências Biomédicas e da Saúde",
+      "Educação"
+    ]
+  }
+]

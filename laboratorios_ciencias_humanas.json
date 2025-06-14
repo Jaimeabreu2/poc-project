@@ -1,0 +1,132 @@
+[
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PRÁTICAS DE AVALIAÇÃO PSICOLÓGICA - LEAPSI",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["Educação", "Psicologia", "psicometria", "instrumentos", "avaliação terapêutica"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades (CH) - Curso de Psicologia",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco P, Serviço de Psicologia, 2º andar, Sala Leapsi, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9981",
+      "email": "lucila.cardoso@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DE HISTÓRIA E (DAS) ARTES - LEHA",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["História", "Arte", "pesquisa", "biografias", "movimentos artísticos"],
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Humanidades (CH) - Curso de História / PPGHCE",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Prédio do PPGHCE, Sala de reunião, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-9761",
+      "email": "valeria.alves@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE LINGUAGEM E COGNIÇÃO - LINC",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["Educação", "linguagem", "cognição", "letras"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades (CH -sede Fátima) - Curso de Letras",
+    "contato": {
+      "endereco": "Av. Luciano Carneiro, n° 345, Campus Fátima, térreo, Sala A-25, Fortaleza - Ce, 60.410.690",
+      "telefone": "(85) 3101-2030",
+      "email": "linc.extensao@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES - LIFE CAMPUS FAFIDAM",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["formação de professores", "educação", "interdisciplinaridade"],
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos",
+    "contato": {
+      "endereco": "Av. Dom Aureliano Matos, 2058, Campus FAFIDAM, Centro, Sala 17, Limoeiro do Norte - Ce, CEP: 62.930.000.",
+      "telefone": "(88) 3423-6962",
+      "email": "life_fafidam@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE METODOLOGIAS CRÍTICAS PARA EDUCAÇÃO INFANTIL E PRIMEIROS ANOS DO ENSINO FUNDAMENTAL - LAMEC",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["educação infantil", "ensino fundamental", "políticas públicas", "EJA"],
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)",
+    "contato": {
+      "endereco": "Rua José de Queiroz Pessoa, Planalto Universitário,  1º bloco a esquerda - vizinho a sala da pós-graduação, Quixadá - CE, 63.900.000",
+      "telefone": "(88) 3445-1036",
+      "email": "lenucia.moura@uece.br",
+      "site": "www.uece.br"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PESQUISAS SOBRE DIREITOS DA NATUREZA E JUSTIÇA SOCIOAMBIENTAL - LAPEJUS",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["educação", "justiça socioambiental", "sustentabilidade", "direitos da natureza"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades (CH) - Ciências Sociais",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  Bloco R, sala 12, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101-2030",
+      "email": "Marinina.gruska@uece.br",
+      "site": "www.uece.br/lanpejus"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS AGRÁRIOS, URBANOS E POPULACIONAIS - LEAUP",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["migração", "geografia", "políticas públicas", "extensão"],
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi,  1° andar, sala 2 do Programa de Pós-Graduação em Geografia - PROPGEO, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.9770",
+      "email": "denise.bomtempo@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE PSICOLOGIA, EDUCAÇÃO E ESTUDOS MARXISTAS - LAPSEM",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["psicologia", "educação", "arte", "marxismo"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades - CH",
+    "contato": {
+      "endereco": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco P - Sala do NUSOL - Núcleo de Psicologia Social e do Trabalho, Fortaleza - Ce, CEP: 60.714.903",
+      "telefone": "(85) 3101.2030",
+      "email": "ruthm.goncalves@uece.br",
+      "site": "www.uece.br/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE LÍNGUA PORTUGUESA",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["língua portuguesa", "ensino", "letras", "educação"],
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras de Iguatu - FECLI",
+    "contato": {
+      "endereco": "Av. Dário Rabêlo, s/n - Vila Santo Antônio,Campus Multi-institucional Humberto Teixeira, bloco G, Iguatu - Ce, 63.500.000",
+      "telefone": "(88) 3581.4558",
+      "email": "ariane.sampaio@uece.br",
+      "site": "www.uece.br/fecli/"
+    }
+  },
+  {
+    "nome": "LABORATÓRIO DE TRADUÇÃO ESPECIALIZADA EM FILOSOFIA - LETRAFIL",
+    "area": "Ciências Humanas, Linguística, Letras e Artes",
+    "tags": ["tradução", "filosofia", "editoração", "spinoza"],
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades - CH",
+    "contato": {
+      "endereco": "Av. Luciano Carneiro, n° 345, Campus Fátima,  Sala 101, Fortaleza - Ce, 60.410.690",
+      "telefone": "(85) 3101-2033",
+      "email": "rocha.fragoso@uece.br",
+      "site": "www.uece.br/"
+    }
+  }
+]

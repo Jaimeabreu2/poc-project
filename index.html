@@ -30,20 +30,26 @@
   </style>
 </head>
 <body>
+  <header>
+    <h1>Busca de Laboratórios</h1>
+  </header>
   <div class="search-container">
-    <h1>Buscar Laboratórios</h1>
     <div class="filters">
       <button class="filter-btn active" data-area="todas">Todas</button>
-      <button class="filter-btn" data-area="ciências exatas">Ciências Exatas</button>
       <button class="filter-btn" data-area="ciências humanas">Ciências Humanas</button>
-      <button class="filter-btn" data-area="ciências da natureza">Ciências da Natureza</button>
-      <button class="filter-btn" data-area="tecnologia">Tecnologia</button>
-      <button class="filter-btn" data-area="inovação">Inovação</button>
-      <button class="filter-btn" data-area="empreendedorismo">Empreendedorismo</button>
+      <button class="filter-btn" data-area="ciências exatas e da terra">Ciências Exatas e da Terra</button>
+      <button class="filter-btn" data-area="ciências biológicas">Ciências Biológicas</button>
+      <button class="filter-btn" data-area="ciências da saúde">Ciências da Saúde</button>
+      <button class="filter-btn" data-area="ciências agrárias">Ciências Agrárias</button>
+      <button class="filter-btn" data-area="ciências sociais aplicadas">Ciências Sociais Aplicadas</button>
     </div>
     <input type="text" id="search-bar" placeholder="Digite o nome ou palavra-chave...">
-    <ul id="results"></ul>
+    <!-- Adicione um elemento para mensagens de erro/aviso -->
+    <div id="lab-erro" style="color:#b00;text-align:center;margin:10px 0 0 0;"></div>
+    <ul id="results">
+      <!-- Todos os laboratórios serão inseridos aqui pelo JS, sem limitação de quantidade pelo HTML/CSS -->
+    </ul>
   </div>
-  <script src="src/TestePOC.js"></script>
+  <script src="src/TestePOC.js?v=2"></script>
 </body>
 </html>
