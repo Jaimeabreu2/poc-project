@@ -7,13 +7,13 @@ window.addEventListener('DOMContentLoaded', () => {
 
     // Mapeamento de área para arquivo JSON (chaves normalizadas)
     const AREA_TO_JSON = {
-      "todas": "src/laboratorios_ciencias_biologicas.json", // "laboratorios_ciencias_da_saude.json",
-      "ciencias humanas": "https://github.com/Jaimeabreu2/poc-project/blob/98a7d3b7e2da7639269705927a18bf309057b3f0/src/laboratorios_ciencias_agrarias.json",  //  "laboratorios_ciencias_humanas.json",
-      "ciencias exatas e da terra": "laboratorios_ciencias_exatas_e_da_terra.json",
-      "ciencias biologicas": "laboratorios_ciencias_biologicas.json",
-      "ciencias da saude": "laboratorios_ciencias_da_saude.json",
-      "ciencias agrarias": "laboratorios_ciencias_agrarias.json",
-      "ciencias sociais aplicadas": "laboratorios_ciencias_sociais_aplicadas.json"
+      "todas": "src/laboratorios.json", // "  ",
+      "ciencias humanas": "src/laboratorios_ciencias_agrarias.json",  //  "laboratorios_ciencias_humanas.json",
+      "ciencias exatas e da terra": "src/laboratorios_ciencias_exatas_e_da_terra.json",
+      "ciencias biologicas": "src/laboratorios_ciencias_biologicas.json",
+      "ciencias da saude": "src/laboratorios_ciencias_da_saude.json",
+      "ciencias agrarias": "src/laboratorios_ciencias_agrarias.json",
+      "ciencias sociais aplicadas": "src/laboratorios_ciencias_sociais_aplicadas.json"
     };
 
     /* function normalizar(str) {
