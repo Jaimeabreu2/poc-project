@@ -105,7 +105,7 @@ window.addEventListener('DOMContentLoaded', () => {
       };
     }
 
-    // Busca flexível: aceita palavras parciais
+    /* // Busca flexível: aceita palavras parciais
     function buscaLab(lab, query) {
       if (!query) return true;
       const q = normalizar(query);
@@ -121,7 +121,25 @@ window.addEventListener('DOMContentLoaded', () => {
       ].filter(Boolean).map(normalizar).join(' ');
       // Corrija: busca flexível, cada palavra deve ser substring de campos
       return q.split(' ').every(pal => campos.indexOf(pal) !== -1 || campos.includes(pal));
-    }
+    } */
+
+    function buscaLab(lab, query) {
+  if (!query) return true;
+  const q = normalizar(query);
+  const campos = [
+    lab.nome,
+    ...(Array.isArray(lab.area) ? lab.area : [lab.area]),
+    ...(Array.isArray(lab.tags) ? lab.tags : (lab.tags ? [lab.tags] : [])),
+    lab.localizacao,
+    lab.responsavel,
+    lab.descricao,
+    lab.descrição
+  ].filter(Boolean).map(normalizar).join(' ');
+
+  // Agora cada palavra digitada precisa apenas estar contida nos campos
+  return q.split(' ').every(pal => campos.includes(pal));
+}
+
 
     // Mostra resultados filtrados
     function mostrarResultados() {
