@@ -73,6 +73,7 @@ window.addEventListener('DOMContentLoaded', () => {
         })
         .then(data => {
           laboratorios = Array.isArray(data) ? data : [];
+          console.log('Laboratórios carregados:', laboratorios.length); // <-- Aqui
           mostrarResultados();
         })
         .catch(err => {
