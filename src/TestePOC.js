@@ -16,9 +16,22 @@ window.addEventListener('DOMContentLoaded', () => {
       "ciencias sociais aplicadas": "laboratorios_ciencias_sociais_aplicadas.json"
     };
 
-    function normalizar(str) {
+    /* function normalizar(str) {
       return str ? str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase() : "";
+    } */
+
+    function normalizar(str) {
+    return str
+    ? str
+        .normalize("NFD")                    // decompor acentos
+        .replace(/[\u0300-\u036f]/g, "")    // remover acentos
+        .toLowerCase()
+        .replace(/[^\w\s]/g, "")            // remover caracteres especiais (pontuação)
+        .replace(/\s+/g, " ")               // substituir múltiplos espaços por um único espaço
+        .trim()
+    : "";
     }
+
 
     // Elementos DOM principais
     const searchBar = document.getElementById('search-bar');
