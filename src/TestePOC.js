@@ -7,7 +7,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     // Mapeamento de área para arquivo JSON (chaves normalizadas)
     const AREA_TO_JSON = {
-      "todas": "laboratorios_ciencias_da_saude.json",
+      "todas": "https://raw.githubJaimeabreu2/poc-project/blob/96914be9f1c7b395d4c06d66834ef2ec4424b5a5/src/laboratorios.json", // "laboratorios_ciencias_da_saude.json",
       "ciencias humanas": "laboratorios_ciencias_humanas.json",
       "ciencias exatas e da terra": "laboratorios_ciencias_exatas_e_da_terra.json",
       "ciencias biologicas": "laboratorios_ciencias_biologicas.json",
