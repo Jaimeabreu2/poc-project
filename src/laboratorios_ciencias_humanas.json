@@ -785,5 +785,10 @@
       "Tecnologia Mineral",
       "Educação"
     ]
+  },
+  {
+    "nome": "Laboratório de Psicologia",
+    "descricao": "Estudos comportamentais.",
+    "area": "ciências humanas"
   }
 ]

@@ -128,21 +128,3 @@ async function main() {
 if (require.main === module) {
   main();
 }
-
-// Não há nenhuma limitação explícita de 15 laboratórios neste script.
-// Não existe nenhum uso de .slice(0, 15), .slice(0, N), ou variável labsLimit.
-
-// O script salva todos os labs únicos de cada área no respectivo JSON, sem limitar a quantidade.
-// O trecho relevante é:
-//     const todos = [...existentes];
-//     for (const lab of novos) {
-//       if (!todos.some(l => (l.nome || '').toLowerCase().trim() === (lab.nome || '').toLowerCase().trim())) {
-//         todos.push(lab);
-//       }
-//     }
-//     await fs.writeFile(
-//       filePath,
-//       JSON.stringify(todos, null, 2)
-//     );
-
-// Portanto, não há limitação de 15 labs neste arquivo.

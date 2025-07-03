@@ -608,5 +608,10 @@
       "Ciências Biomédicas e da Saúde",
       "Educação"
     ]
+  },
+  {
+    "nome": "Laboratório de Biologia Molecular",
+    "descricao": "Pesquisa em genética.",
+    "area": "ciências biológicas"
   }
 ]

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>(index.html desativado)</title>
+</head>
+<body>
+  <!-- index.html desativado enquanto usamos testepoc.html -->
+</body>
+</html>
+  <header>
+    <h1>Laboratórios POC</h1>
+  </header>
+
+  <main>
+    <div class="search-container">
+      <h1>Buscar Laboratórios</h1>
+
+      <nav class="filters" aria-label="Filtrar por área">
+        <button class="filter-btn active" data-area="todas">Todas</button>
+        <button class="filter-btn" data-area="ciências exatas e da terra">Ciências Exatas e da Terra</button>
+        <button class="filter-btn" data-area="ciências humanas">Ciências Humanas</button>
+        <button class="filter-btn" data-area="ciências biológicas">Ciências Biológicas</button>
+        <button class="filter-btn" data-area="ciências da saúde">Ciências da Saúde</button>
+        <button class="filter-btn" data-area="ciências agrárias">Ciências Agrárias</button>
+        <button class="filter-btn" data-area="ciências sociais aplicadas">Ciências Sociais Aplicadas</button>
+      </nav>
+
+      <label for="search-bar" class="sr-only">Buscar laboratório</label>
+      <input type="text" id="search-bar" placeholder="Digite o nome ou palavra-chave…" autocomplete="off">
+
+      <ul id="results" aria-live="polite"></ul>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2023 POC Project</p>
+  </footer>
+  <script src="TestePOC.js"></script>
+</body>
+</html>
+    <p>© 2023 POC Project</p>
+  </footer>
+  <script src="TestePOC.js"></script>
+</body>
+</html>
+        flex-direction: column;
+        gap: 4px;
+      }
+      .filter-btn {
+        width: 100%;
+        font-size: 1rem;
+      }
+    }
+
+    header {
+      background-color: #EA4335;
+      color: #fff;
+      padding: 10px 0;
+      text-align: center;
+    }
+
+    .filters {
+      margin-bottom: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+    .filter-btn {
+      padding: 6px 14px;
+      border: none;
+      border-radius: 5px;
+      background: rgba(234,67,53,0.1);
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .filter-btn.active,
+    .filter-btn:hover {
+      background: #EA4335;
+      color: #fff;
+    }
+    .search-container {
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 24px;
+      background: rgba(255,255,255,0.97);
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      border: 2px solid #EA4335;
+    }
+    #search-bar:focus {
+      border-color: #EA4335;
+      outline: none;
+    }
+    footer {
+      background-color: #1A133D;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Laboratórios POC</h1>
+  </header>
+  <main>
+    <div class="search-container">
+      <h1>Buscar Laboratórios</h1>
+      <nav class="filters" aria-label="Filtrar por área">
+        <button class="filter-btn active" data-area="todas">Todas</button>
+        <button class="filter-btn" data-area="ciências exatas e da terra">Ciências Exatas e da Terra</button>
+        <button class="filter-btn" data-area="ciências humanas">Ciências Humanas</button>
+        <button class="filter-btn" data-area="ciências biológicas">Ciências Biológicas</button>
+        <button class="filter-btn" data-area="ciências da saúde">Ciências da Saúde</button>
+        <button class="filter-btn" data-area="ciências agrárias">Ciências Agrárias</button>
+        <button class="filter-btn" data-area="ciências sociais aplicadas">Ciências Sociais Aplicadas</button>
+      </nav>
+      <label for="search-bar" class="sr-only">Buscar laboratório</label>
+      <input type="text" id="search-bar" placeholder="Digite o nome ou palavra-chave…" autocomplete="off">
+      <ul id="results" aria-live="polite"></ul>
+    </div>
+  </main>
+  <footer>
+    <p>© 2023 POC Project</p>
+  </footer>
+  <script src="TestePOC.js"></script>
+</body>
+</html>

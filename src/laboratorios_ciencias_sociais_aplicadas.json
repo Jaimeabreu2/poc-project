@@ -288,5 +288,10 @@
       "Lutas Sociais",
       "Extensão"
     ]
+  },
+  {
+    "nome": "Laboratório de Economia",
+    "descricao": "Estudos econômicos aplicados.",
+    "area": "ciências sociais aplicadas"
   }
 ]

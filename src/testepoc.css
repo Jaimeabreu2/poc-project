@@ -1,37 +1,57 @@
-body {
-  font-family: Arial, sans-serif;
+/* reset e box‐model */
+*, *::before, *::after {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: #f4f4f9;
 }
 
-.search-container {
+/* corpo / fundo */
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('assets/imagem-agin1.png'), url('assets/imagem-agin2.png');
+  background-size: cover;
+  background-position: center;
+  background-color: #222;
+  color: #333;
+}
+
+/* header */
+header {
+  background: #007bff;
+  color: #fff;
+  padding: 1rem 0;
   text-align: center;
-  width: 100%;
-  max-width: 600px;
-  background: #fff;
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* container principal */
+.search-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 24px;
+  background: rgba(255,255,255,0.95);
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: visible;        /* garante que lista dentro não seja cortada */
+}
+
+/* filtros */
 .filters {
-  margin-bottom: 20px;
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 0.5rem;
   justify-content: center;
+  margin-bottom: 1rem;
+  position: relative;
+  z-index: 11;       /* acima da lista */
+  position: static;         /* remove qualquer posicionamento */
 }
 
 .filter-btn {
-  padding: 6px 14px;
+  padding: 0.5rem 1rem;
   border: none;
-  border-radius: 5px;
   background: #eee;
+  border-radius: 4px;
   cursor: pointer;
   transition: background 0.2s;
 }
@@ -42,41 +62,109 @@ body {
   color: #fff;
 }
 
+/* campo de busca */
 #search-bar {
   width: 100%;
-  padding: 12px;
-  font-size: 16px;
-  margin-bottom: 20px;
+  padding: 0.75rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
   border: 1px solid #ccc;
-  border-radius: 5px;
-  box-sizing: border-box;
-  transition: border-color 0.3s ease;
+  border-radius: 4px;
+  position: relative;
+  z-index: 11;       /* acima da lista */
+  position: static;         /* remove qualquer posicionamento absoluto/relative */
 }
 
-#search-bar:focus {
-  border-color: #007bff;
-  outline: none;
-}
-
+/* lista de resultados com scroll */
 #results {
   list-style: none;
-  padding: 0;
-  margin: 0;
-  max-height: none;    /* Garante que não há limitação de altura */
-  overflow: visible;   /* Garante que todos os itens fiquem visíveis */
+  max-height: 60vh;
+  overflow-y: auto;
+  margin: 2rem auto;      /* afasta do search-container */
+  max-width: 600px;
+  margin-top: 1rem;        /* distância abaixo do input */
+  width: 100%;
+  max-height: 50vh;        /* limita altura */
+  overflow-y: auto;        /* rolagem vertical */
 }
 
+/* itens da lista */
 #results li {
-  background: #fff;
-  margin: 5px 0;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background: #f9f9f9;
+  border-radius: 4px;
+  transition: background 0.3s;
+  flex-wrap: wrap;         /* permite quebra em telas estreitas */
+}
+
+#results li:nth-child(even) {
+  background: #eaeaea;
 }
 
 #results li:hover {
-  background-color: #f0f0f0;
-  transform: scale(1.02);
+  background: #ddd;
+}
+
+#results li button {
+  padding: 0.4rem 0.8rem;
+  border: none;
+  background: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* botão “Mostrar mais” herdado do JS */
+.show-more {
+  display: block;
+  margin: 0.5rem auto;
+  padding: 0.5rem 1rem;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* rodapé */
+footer {
+  background: #007bff;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* reset de posicionamento para evitar sobreposição */
+.search-container,
+.filters,
+#search-bar,
+#results {
+  position: static !important;
+  z-index: auto !important;
+}
+
+/* responsividade */
+@media (max-width: 767px) {
+  .search-container {
+    margin: 16px 8px;
+    padding: 16px;
+  }
+  .filters {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .filter-btn {
+    width: 100%;
+  }
+  #results li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }

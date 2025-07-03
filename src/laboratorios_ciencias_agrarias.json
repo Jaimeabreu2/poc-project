@@ -538,5 +538,10 @@
       "Ciências Biomédicas e da Saúde",
       "Biotecnologia"
     ]
+  },
+  {
+    "nome": "Laboratório de Agronomia",
+    "descricao": "Pesquisa em produção agrícola.",
+    "area": "ciências agrárias"
   }
 ]
