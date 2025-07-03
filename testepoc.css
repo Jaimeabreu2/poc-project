@@ -1,4 +1,4 @@
-/* Reset básico */
+/* Reset básico 
 body, html {
   margin: 0;
   padding: 0;
@@ -6,6 +6,15 @@ body, html {
   background: linear-gradient(to bottom, #E84331 0%, #181033 100%);
   min-height: 100vh;
   color: #fff;
+} */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  min-height: 100vh;
+  color: #fff;
+  background: url('src/imagemprincipal.png') no-repeat center center fixed;
+  background-size: cover;
 }
 
 header {
