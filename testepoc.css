@@ -14,7 +14,9 @@ body, html {
   min-height: 100vh;
   color: #fff;
   background: url('src/imagemprincipal.png') no-repeat center center fixed;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 header {
