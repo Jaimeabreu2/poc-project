@@ -1,7 +1,7 @@
 [
   {
     "nome": "LABORATÓRIO DE DESENVOLVIMENTO E INOVAÇÃO DA UECE (LDI)",
-    "descricao": "",
+    "descricao": "O LDI atua em diversas áreas, incluindo Acessibilidade Fabril, Realidade Aumentada, EaD acessível, Inteligência Artificial, Processamento de Linguagem Natural, Design Ágil em UX/UI, Ferramentas Colaborativas, Acessibilização da Web, Chatbots, Manipulação de Objetos 3D, Computação Vestível, E-Health e Transformação Digital (Blockchain).",
     "responsavel": "Prof. Dr. Francisco Carlos de Mattos Brito",
     "lattes": "http://lattes.cnpq.br/0649930882307115",
     "email": "fran@labldi.com.br",
@@ -28,7 +28,7 @@
   },
   {
     "nome": "LABORATÓRIO DE QUÍMICA INORGÂNICA - LQUIN",
-    "descricao": "",
+    "descricao": "O LQUIN dedica-se à síntese e caracterização de compostos orgânicos e inorgânicos com produção de metalofármacos. Estando na vanguarda da criação de compostos inéditos, vislumbrando seu potencial como biofármacos promissores.",
     "responsavel": "Profª. Drª. Solange de Oliveira Pinheiro",
     "lattes": "http://lattes.cnpq.br/9351322395472113",
     "email": "solange.pinheiro@uece.br",
@@ -56,7 +56,7 @@
   },
   {
     "nome": "LABORATÓRIO DE POLÍMEROS NATURAIS",
-    "descricao": "",
+    "descricao": "O Laboratório de Polímeros Naturais dedica-se à pesquisa inovadora com polímeros naturais de origem regional, buscando valorizar materiais locais por meio de avançados estudos químicos.O foco é o desenvolvimento de materiais funcionais para uma ampla gama de aplicações.Especializou-se na funcionalização de polissacarídeos para aumentar a eficiência na Bremoção de metais pesados e pesticidas, bem como seu uso como biocoagulantes no tratamento e purificação de água. Além disso, explora a criação de nanopartículas polissacarídicas para o encapsulamento e liberação controlada de fármacos com propriedades anti-helmínticas ou antimicrobianas, ampliando o conhecimento e as aplicações práticas dos polímeros naturais típicos do Nordeste brasileiro. Além disso, realiza análises para a determinação de metais pesados em água e pode avaliar a qualidade da água baseada em parâmetros físico-químicos, como turbidez, pH e condutividade.",
     "responsavel": "Profª. Drª. Flavia Monteiro Abreu",
     "lattes": "http://lattes.cnpq.br/7921122115673207",
     "email": "flavia.monteiro@uece.br",
@@ -79,7 +79,7 @@
   },
   {
     "nome": "LABORATÓRIO DE NANOBIOTECNOLOGIA AMBIENTAL - LaNA",
-    "descricao": "",
+    "descricao": "O LaNA dedica-se à vanguarda da pesquisa interdisciplinar, focando nas áreas de Agronegócio, Saúde e Desenvolvimento de Novos Materiais. Sua especialidade é a caracterização avançada de materiais, explorando as fronteiras da nanotecnologia para desenvolver soluções sustentáveis e inovadoras que atendam às necessidades emergentes em diversos campos. Através de técnicas de nanobiotecnologia ambiental, buscam impactar positivamente a agricultura sustentável, melhorar os cuidados de saúde e criar materiais avançados com propriedades únicas para diversas aplicações.",
     "responsavel": "Prof. Dr. Carlucio Roberto Alves",
     "lattes": "http://lattes.cnpq.br/0937331784886630",
     "email": "carlucio.alves@uece.br",
@@ -105,7 +105,7 @@
   },
   {
     "nome": "LABORATÓRIO DE CONVERSÃO ENERGÉTICA E INOVAÇÃO - LCE+",
-    "descricao": "",
+    "descricao": "O Laboratório tem como missão realizar atividades de pesquisa, desenvolvimento e extensão com foco em soluções tecnológicas sustentáveis para atender aos diversos setores da sociedade, sobretudo nas áreas: 1) Processos termoquímicos: Combustão, gaseificação, pirólise e reforma a vapor; 2) Processos biológicos: Produção de biocombustíveis de microalgas e Produção de biogás e biohidrogênio de resíduos agroenergéticos; 3) Produção de Hidrogênio renovável usando efluentes industriais; 4) Ensaios em Túnel de Vento: (i) Avaliação de perfis de pás e asas; (ii) Testes de Anemometria; (iii) Ensaios em medidores ultrassônicos e estruturas; 5) Sistemas embarcados: on board em veículos; 6) Preparação de catalisadores/adsorventes: i.e matrizes cerâmicas porosas, materiais micro e mesoporosos; 7) Avaliação de Ciclo de Vida de Produtos/Processos; 8) Desenvolvimento e modelagem de processo. Além disso, é ofertado cursos de curta duração para capacitação nas áreas supracitadas. Possuem dois projetos de extensão andamento: 1) Steam UECE e 2) Aerodesign",
     "responsavel": "Profª. Drª. Mona Lisa Moura de Oliveira",
     "lattes": "http://lattes.cnpq.br/8485796147369478",
     "email": "laceema@uece.br",
@@ -134,7 +134,7 @@
   },
   {
     "nome": "LABORATÓRIO DE COMPUTAÇÃO CIENTÍFICA - LCC",
-    "descricao": "",
+    "descricao": "O LCC dedica-se à formação avançada de alunos em áreas críticas da tecnologia da informação, com especial ênfase em Sistemas de Apoio à Decisão e Otimização Combinatória. Nosso currículo é projetado para equipar os estudantes com as habilidades necessárias para enfrentar complexos desafios contemporâneos, aplicando esses conhecimentos em uma variedade de campos impactantes. Nossa especialidade inclui aplicações práticas em:",
     "responsavel": "Prof. Dr. Marcos José Negreiros Gomes",
     "lattes": "http://lattes.cnpq.br/2712574018120569",
     "email": "marcos.negreiros@uece.br",
@@ -161,7 +161,7 @@
   },
   {
     "nome": "LABORATÓRIO DE PESQUISA E ENSINO EM MATEMÁTICA - LAPEM",
-    "descricao": "",
+    "descricao": "O LAPEM dedica-se à interseção da educação matemática e da formação docente. Com foco no desenvolvimento de metodologias e na realização de pesquisas que contribuem para a formação inicial e continuada de professores de matemática. Através de um modelo integrado de ensino, pesquisa e extensão, o LAPEM se dedica a elevar o padrão da educação matemática, tornando-a mais acessível e significativa tanto para educadores quanto para alunos.",
     "responsavel": "Prof. Me. Carlos Ian Bezerra de Melo",
     "lattes": "http://lattes.cnpq.br/8758179331371144",
     "email": "carlosian.melo@uece.br",
@@ -183,7 +183,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ENERGIAS RENOVÁVEIS - LER",
-    "descricao": "",
+    "descricao": "O LER dedica-se à pesquisa, ao ensino e à extensão no campo das energias renováveis. Com foco na investigação e desenvolvimento de tecnologias limpas e sustentáveis, abrangendo uma ampla gama de áreas: desde Combustão Industrial e Instrumentação para Combustão, passando por Combustíveis Renováveis e Hidrogênio como Vetor Energético, a Energía Solar Fotovoltaica e Turbinas Eólicas de Eixo Vertical. Trabalha para enfatizar o papel crucial das energias renováveis no desenvolvimento sustentável, incluindo análise, otimização, mapeamento e medições de sistemas de geração renovável. Mantem colaborações estratégicas com instituições nacionais e internacionais para fomentar a inovação e o avanço tecnológico no setor.",
     "responsavel": "Prof. Dr. Lutero Carmo de Lima",
     "lattes": "http://lattes.cnpq.br/9519603363578016",
     "email": "lutero.lima@uece.br",
@@ -207,7 +207,7 @@
   },
   {
     "nome": "LABORATÓRIO DE FÍSICA EXPERIMENTAL DE MECÂNICA E TERMODINÂMICA - LabFis",
-    "descricao": "",
+    "descricao": "O LabFis dedica-se ao ensino e à prática da Física, oferecendo um ambiente rico para aulas experimentais e teóricas. Possui uma equipe empenhada na preparação de materiais para projetos de extensão, enriquecendo ainda mais a experiência educacional. Os experimentos conduzidos cobrem uma vasta gama de tópicos, incluindo: * Dinâmica do encontro de objetos em Movimento Retilíneo Uniforme (MRU) com direções opostas. * Análise de alcance, incerteza e velocidade em lançamentos horizontais. * Estudo da quantidade de movimento linear em lançamentos horizontais. * Investigação sobre o Movimento Circular Uniforme (MCU) e sua combinação com o MRU. * Exploração das leis da dinâmica com veículos retropropulsionados. * Aplicação da lei de Hooke em molas helicoidais, incluindo força restauradora e associação de molas. * Estudo do efeito Doppler e as diferenças fundamentais entre calor e temperatura. * Compreensão da capacidade dos corpos de armazenar energia, equilíbrio térmico, e os métodos de condução, convecção e irradiação na transferência de calor. * Experiências com o calor específico e a capacidade térmica de sólidos e calorímetros.",
     "responsavel": "Prof. Dr. Daniel Linhares Militão Vasconcelos",
     "lattes": "http://lattes.cnpq.br/3229845524417439",
     "email": "daniel.militao@uece.br",
@@ -229,7 +229,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ESTUDOS MORFOESTRUTURAIS E PEDOLÓGICOS - LEMEP",
-    "descricao": "",
+    "descricao": "O LEMEP dedica-se à pesquisa avançada em geomorfologia e geografia física. Com foco em estudos, incluindo análises paleoambientais, geomorfologia estrutural, geodiversidade e geoconservação, além de geografia ambiental. Possuem estudos e projetos técnicos em colaboração com órgãos governamentais, contribuindo para o desenvolvimento sustentável e a preservação do meio ambiente.",
     "responsavel": "Prof. Dr. Frederico de Holanda Bastos",
     "lattes": "http://lattes.cnpq.br/1844654340759062",
     "email": "fred.holanda@uece.br",
@@ -251,7 +251,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ASTRONOMIA - LA",
-    "descricao": "",
+    "descricao": "O LA dedica-se à exploração do universo noturno através de observações astronômicas regulares e ao emprego de softwares avançados para o estudo detalhado de objetos celestes. Suas atividades incluem sessões de observação semanais conduzidas não apenas em Quixadá, mas também em diversos municípios do sertão central, proporcionando uma ampla cobertura e variedade de observações astronômicas.",
     "responsavel": "Prof. Dr. Raimundo Ivan de Oliveira Junior",
     "lattes": "http://lattes.cnpq.br/6051512309482396",
     "email": "raimundo.ivan@uece.br",
@@ -273,7 +273,7 @@
   },
   {
     "nome": "LABORATÓRIO DE MATEMÁTICA COMPUTACIONAL - LAMAC",
-    "descricao": "",
+    "descricao": "O LAMAC dedica-se ao avanço da pesquisa em áreas cruciais como Processamento de Imagens e Inteligência Computacional, com um enfoque particular no Processamento de Imagens Médicas e Processamento de Sinais. O LAMAC é um centro de inovação no desenvolvimento de software científico, explorando fronteiras da Inteligência Computacional, incluindo aprendizado profundo, processamento de imagens, computação gráfica e análise de dados. Sua abordagem interdisciplinar integra uma ampla gama de disciplinas matemáticas e suas aplicações computacionais, como Álgebra Lineal, Cálculo, Métodos Numéricos, Geometria Analítica e Matemática Discreta, fomentando uma pesquisa robusta e inovadora.",
     "responsavel": "Prof. Ph.D. Thelmo Pontes de Araujo",
     "lattes": "http://lattes.cnpq.br/3978299887398475",
     "email": "thelmo.araujo@uece.br",
@@ -296,7 +296,7 @@
   },
   {
     "nome": "LABORATÓRIO DE QUÍMICA DE PRODUTOS NATURAIS - LQPN",
-    "descricao": "",
+    "descricao": "O LQPN destina-se ao avanço da pesquisa com foco na identificação e caracterização dos componentes químicos de plantas brasileiras, especialmente aquelas oriundas do Semiárido. O laboratório visa explorar essas substâncias tanto em suas formas naturais quanto em derivados sintéticos ou encapsulados em micropartículas, com o objetivo de valorizar a biodiversidade nacional e fomentar o desenvolvimento de novos produtos fitoterápicos. Adicionalmente, conduz ensaios para avaliar o potencial farmacológico de compostos utilizando o modelo animal zebrafish (Danio rerio), uma abordagem inovadora no campo da biomedicina.",
     "responsavel": "Profª. Drª. Sônia Maria Costa Siqueira",
     "lattes": "",
     "email": "sonia.costa@uece.br",
@@ -321,7 +321,7 @@
   },
   {
     "nome": "LABORATÓRIO DE MATEMÁTICA PARA A FORMAÇÃO DE PROFESSOR - LABPROFMAT",
-    "descricao": "",
+    "descricao": "O LABPROFMAT dedica-se ao ensino de Matemática, dedicado à formação de professores através de uma abordagem prática e interativa. O laboratório contribui para uma gama diversificada de disciplinas e atividades, incluindo: Laboratório de Ensino de Álgebra (LEA) Laboratório de Ensino de Geometria (LEG) Laboratório de Ensino de Novas Tecnologias (LENT) Laboratório de Pesquisa em Educação Matemática (LPEM) Laboratório de Ensino de Materiais Didáticos Pedagógicos (LEMPD)",
     "responsavel": "Prof. Me. Acácio Lima de Freitas",
     "lattes": "http://lattes.cnpq.br/8055652273134652",
     "email": "acacio.freitas@uece.br",
@@ -343,7 +343,7 @@
   },
   {
     "nome": "LABORATÓRIO DE OTIMIZAÇÃO E GESTÃO DE INTELIGÊNCIA - LOGIN",
-    "descricao": "",
+    "descricao": "Desde sua fundação em 2006, o LOGIN dedica-se ao avanço da pesquisa e extensão nas áreas de Otimização e Gestão de Inteligência. Com foco especial em atender às necessidades de empresas do setor público e privado, o LOGIN é renomado por desenvolver soluções inovadoras em Pesquisa Operacional, aplicando ciência e tecnologia para resolver problemas complexos.",
     "responsavel": "Prof. Dr. Gerardo Valdisio Rodrigues Viana",
     "lattes": "http://lattes.cnpq.br/6262051397848744",
     "email": "valdisio.viana@uece.br",
@@ -366,7 +366,7 @@
   },
   {
     "nome": "LABORATÓRIO DE BIOQUÍMICA E BIOTECNOLOGIA - LABBIOTEC",
-    "descricao": "",
+    "descricao": "O LABBIOTEC dedica-se à pesquisa avançada sobre os produtos das abelhas, incluindo mel, própolis e pólen, além da inspeção e garantia da qualidade dos produtos apícolas. Além de capacitar os alunos com conhecimentos e habilidades práticas no estudo dos produtos apícolas do Nordeste brasileiro e suas inúmeras aplicações. O laboratório também conduz avaliações criteriosas sobre alimentos disponíveis em supermercados e feiras, assegurando sua conformidade com padrões de qualidade.",
     "responsavel": "Profª. Drª. Maria da Conceição Tavares Cavalcanti Liberato",
     "lattes": "http://lattes.cnpq.br/2153415166936745",
     "email": "conceicao.liberato@uece.br",
@@ -392,7 +392,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ANÁLISES CROMATOGRÁFICAS E ESPECTROSCÓPICAS - LACES",
-    "descricao": "",
+    "descricao": "O LACES dedica-se à caracterização estrutural de compostos orgânicos naturais e semi-sintéticos, extraídos de plantas das regiões Norte e Nordeste do Brasil. Utiliza técnicas de espectroscopia e cromatografia, destacando-se em estudos de atividades biológicas, como antioxidante, anticolinesterásica e contra o Aedes aegypti.",
     "responsavel": "Profª. Drª. Selene Maia de Morais",
     "lattes": "http://lattes.cnpq.br/9980263926363134",
     "email": "selene.morais@uece.br",
@@ -414,7 +414,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ESTUDOS DE INTERAÇÕES ENTRE AEROSOL E NUVENS- L-SACI",
-    "descricao": "",
+    "descricao": "O L-SACI se destaca na pesquisa dedicada à compreensão aprofundada dos efeitos dos aerossóis atmosféricos nas nuvens e ao seu papel fundamental nas mudanças climáticas, além de realizar investigações inovadoras para desvendar as complexas interações entre aerossóis e nuvens e as implicações desses fenômenos para os padrões climáticos em escala global.",
     "responsavel": "Prof. Dr. Gerson Paiva Almeida",
     "lattes": "http://lattes.cnpq.br/8692377832738540",
     "email": "gerson.almeida@uece.br",
@@ -436,7 +436,7 @@
   },
   {
     "nome": "LABORATÓRIO DE AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS - LADESC",
-    "descricao": "",
+    "descricao": "O LADESC realiza pesquisas e desenvolve sistemas inovadores, fundamentados em algoritmos de Inteligência Artificial, Inteligência Computacional e Tomada de Decisão. O laboratório abrange diversas áreas de expertise, incluindo Visão Computacional (CV), Processamento de Linguagem Natural (NLP), Processamento de Séries Temporais (TSP) e Tomada de Decisão (DM). Por meio de sua abordagem multidisciplinar, o LADESC busca aplicar essas tecnologias avançadas para resolver desafios complexos e contribuir para a evolução contínua da computação inteligente.",
     "responsavel": "Prof. Dr. José Everardo Bessa Maia",
     "lattes": "http://lattes.cnpq.br/3138211440230015",
     "email": "jose.maia@uece.br",
@@ -458,7 +458,7 @@
   },
   {
     "nome": "LABORATÓRIO DE QUÍMICA DA FAEC - LQCr",
-    "descricao": "",
+    "descricao": "O laboratório desenvolve aulas de ensino de química e criação de novas práticas de ensino prático de Química. Aulas teóricas para Licenciatura em Ciências Biológicas. EQUIPE Coordenação: Prof. Dr. José Carlos Vieira de Miranda (Lattes - http://lattes.cnpq.br/8178424963580175)",
     "responsavel": "Prof. Dr. José Carlos Vieira de Miranda",
     "lattes": "http://lattes.cnpq.br/8178424963580175",
     "email": "estar.miranda@uece.br",
@@ -482,7 +482,7 @@
   },
   {
     "nome": "LABORATÓRIO DE FÍSICA LUÍS CLÁUDIO - LABFIS",
-    "descricao": "",
+    "descricao": "O laboratório desenvolve atividades de ensino com aulas práticas das Disciplinas de Laboratório de Mecânica e Termodinâmica e Laboratório de Eletricidade e Óptica; Pesquisa no Desenvolvimento de Matrizes Vítreas pelo Processo Sol-Gel; Visitação de Escolas com apresentação e demonstração de atividades práticas de Física e Oficinas;Realização de minicursos e oficinas e empréstimo de materiais às feiras de ciências de escolas do município. EQUIPE Coordenação: Prof. Dr. Francisco Carlos de Oliveira (Lattes - http://lattes.cnpq.br/7973257954915065)",
     "responsavel": "Prof. Dr. Francisco Carlos de Oliveira",
     "lattes": "http://lattes.cnpq.br/7973257954915065",
     "email": "francarlos.oliveira@uece.br",
@@ -506,7 +506,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ESTUDOS ORNITOLÓGICOS - LABEO",
-    "descricao": "",
+    "descricao": "O Laboratório de Estudos Ornitológicos (LABEO) se dedica à pesquisa sobre o isolamento e caracterização de Enterobactérias (Salmonella spp e Escherichia coli) e suas implicações como zoonoses. Além disso, realizamos atividades de reabilitação e reintrodução de aves silvestres na natureza, bem como projetos de extensão voltados para aves e conservação da fauna do campus, entre outros. EQUIPE Coordenação: Prof. Dr. William Cardoso Maciel (Lattes - http://lattes.cnpq.br/6921857822264051)",
     "responsavel": "Prof. Dr. William Cardoso Maciel",
     "lattes": "http://lattes.cnpq.br/6921857822264051",
     "email": "william.cardoso@uece.br",
@@ -530,7 +530,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ENSINO E ESTUDOS EM ASTRONOMIA DA FECLI - LEEA",
-    "descricao": "",
+    "descricao": "O LEEA tem como missão principal promover atividades de ensino e extensão em Astronomia e Física na FECLI, além de oferecer suporte às aulas prático-teóricas do curso de Física. O laboratório realiza visitas a escolas e eventos em conjunto com o Planetário do curso, além de oferecer suporte aos projetos de extensão de Astronomia e Ensino de Física da FECLI. EQUIPE Coordenação: Profa. Dr. Raissa Maria Pimentel Neves (Lattes - http://lattes.cnpq.br/9764791468056770)",
     "responsavel": "Profa. Dr. Raissa Maria Pimentel Neves",
     "lattes": "http://lattes.cnpq.br/9764791468056770",
     "email": "raissa.pimentel@uece.br",
@@ -553,7 +553,7 @@
   },
   {
     "nome": "LABORATÓRIO DE INFORMÁTICA DO CCT",
-    "descricao": "",
+    "descricao": "O Laboratório de Ciências Biológicas  desempenha um papel fundamental no apoio às atividades acadêmicas e de pesquisa relacionadas ao Curso de Licenciatura Plena em Ciências Biológicas, bem como às demais disciplinas de licenciatura da FAFIDAM. Além disso, o laboratório é um recurso essencial para o desenvolvimento de projetos de pesquisa, Trabalhos de Conclusão de Curso (TCC) e projetos de extensão. Realiza mini-cursos em eventos dos cursos de licenciatura da FAFIDAM/UECE, promovendo a capacitação contínua dos professores e alunos. EQUIPE Coordenação: Profª. Drª. Zenaide Barbosa (Lattes - http://lattes.cnpq.br/6146740842577393)",
     "responsavel": "Prof. Dr. Carlos Santana",
     "lattes": "http://lattes.cnpq.br/5727625323313221",
     "email": "carlos.santana@uece.br",
@@ -578,7 +578,7 @@
   },
   {
     "nome": "LABORATÓRIO DE AULAS PRÁTICAS DE QUÍMICA  - LAPQ",
-    "descricao": "",
+    "descricao": "O LAPQ é um laboratório na UECE destinado à realização de aulas práticas de Química para diversos cursos, além de atividades de monitoria e projetos de extensão. Oferece um ambiente seguro e bem equipado para experimentos, proporcionando uma experiência educacional enriquecedora. Seu compromisso com a qualidade e a segurança garante um espaço propício para aprendizado e pesquisa. O LAPQ é um ambiente dinâmico e colaborativo, preparando os alunos para os desafios acadêmicos e profissionais. EQUIPE Coordenação: Profª. Drª. Cristiane Maria Sampaio Forte (Lattes - http://lattes.cnpq.br/3085435107003470)",
     "responsavel": "Profª. Drª. Cristiane Maria Sampaio Forte",
     "lattes": "http://lattes.cnpq.br/3085435107003470",
     "email": "cristiane.forte@uece.br",
@@ -600,7 +600,7 @@
   },
   {
     "nome": "LABORATÓRIO DE APOIO A PESQUISA E AO ENSINO - LAPIS",
-    "descricao": "",
+    "descricao": "O Laboratório de Apoio à Pesquisa e ao Ensino (LAPIS) é um espaço dedicado ao avanço do conhecimento científico e à formação de alunos no campo da modelagem numérica de tempo e clima, com especial ênfase nas Mudanças Climáticas Globais. O laboratório está envolvido em pesquisas que visam compreender e prever os padrões climáticos e as mudanças no tempo, utilizando técnicas avançadas de modelagem numérica. Seus projetos abordam questões urgentes relacionadas às Mudanças Climáticas Globais, contribuindo para o entendimento dos processos climáticos e seus impactos no planeta. Além disso, oferece suporte e orientação aos alunos do Curso de Física da UECE, proporcionando oportunidades para que desenvolvam habilidades práticas e teóricas no campo da física atmosférica e climatologia. O LAPIS é um ambiente colaborativo e estimulante, onde estudantes e pesquisadores podem se envolver em projetos científicos de relevância e impacto global, contribuindo para o avanço do conhecimento e para a busca de soluções para os desafios climáticos enfrentados pela sociedade. EQUIPE Coordenação: Prof. Dr. Augusto Cesar Barros Barbosa(Lattes - http://lattes.cnpq.br/9512651268518603)",
     "responsavel": "Prof. Dr. Augusto Cesar Barros Barbosa",
     "lattes": "http://lattes.cnpq.br/9512651268518603",
     "email": "augusto.barbosa@uece.br",
@@ -622,7 +622,7 @@
   },
   {
     "nome": "LABORATÓRIO DE PRÁTICAS DE ENSINO DE FÍSICA - LABEFIS",
-    "descricao": "",
+    "descricao": "O LABEFIS é um centro de pesquisa voltado para o aprimoramento do ensino de Física. Nosso compromisso reside na constante busca por inovação, desenvolvendo materiais didáticos e estratégias pedagógicas de vanguarda. Através de minicursos e oficinas, proporciona oportunidades para educadores aprimorarem suas habilidades, visando promover a excelência no ensino e na aprendizagem desta disciplina fundamental.",
     "responsavel": "Prof. Me. Francisco Tiago Barboza Sampaio",
     "lattes": "http://lattes.cnpq.br/2929196920425457",
     "email": "tiago.barboza@uece.br",
@@ -644,7 +644,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM ASTRONOMIA - LEPA",
-    "descricao": "",
+    "descricao": "O Laboratório de Ensino e Pesquisa em Astronomia (LEPA) é um centro dedicado à pesquisa e divulgação científica da Astronomia. No LEPA, pesquisas avançadas em Astronomia são conduzidas, explorando os mistérios do cosmos e expandindo o conhecimento sobre o universo. Além disso, o laboratório está empenhado em divulgar a Astronomia por meio de projetos de extensão, visando tornar acessível ao público em geral o fascinante mundo dos astros. Entre suas atividades, destacam-se as diversas observações do céu. Essas observações oferecem uma oportunidade única para estudantes, pesquisadores e entusiastas da Astronomia explorarem o céu noturno e apreciarem as maravilhas do universo em primeira mão. No LEPA, o objetivo principal é inspirar e educar a próxima geração de astrônomos e cientistas, enquanto compartilhamos as descobertas e maravilhas da Astronomia com o público em geral. EQUIPE Coordenação: Prof. Dr. Roberto Namor Silva Santiago (Lattes - http://lattes.cnpq.br/5794970044672730)",
     "responsavel": "Prof. Dr. Roberto Namor Silva Santiago",
     "lattes": "http://lattes.cnpq.br/5794970044672730",
     "email": "lepa@uece.br",
@@ -668,7 +668,7 @@
   },
   {
     "nome": "LABORATÓRIO DE BIOENSAIOS QUÍMICO-FARMACOLÓGICO E AMBIENTAL - LaBQFAm",
-    "descricao": "",
+    "descricao": "O Laboratório de Bioensaios Químico-Farmacológico e Ambiental (LaBQFAm) é um centro de pesquisa dedicado ao estudo e desenvolvimento de bioprodutos, com ênfase nas áreas Químico-Farmacológica e Ambiental, fazendo uso do modelo animal zebrafish. Seus esforços de pesquisa concentram-se principalmente em duas linhas principais: Avaliação do potencial farmacológico de compostos naturais e sintéticos: O laboratório investiga o potencial terapêutico de uma variedade de compostos, sejam eles de origem natural ou sintética, visando o desenvolvimento de novos fármacos e terapias para diversas condições de saúde. E os Ensaios ecotoxicológicos utilizando o modelo animal Zebrafish: Utilizando o zebrafish como modelo experimental, conduzem estudos para avaliar os impactos ambientais de substâncias químicas, contribuindo para o entendimento dos efeitos nocivos e potenciais riscos à saúde do ecossistema aquático. O LaBQFAm representa um ambiente de pesquisa dinâmico e inovador, comprometido com a promoção da ciência e da tecnologia para o avanço do conhecimento e para a busca de soluções sustentáveis em saúde e meio ambiente EQUIPE Coordenação: Profª. Drª. Jane Eire Silva Alencar de Menezes (Lattes - http://lattes.cnpq.br/5495579352462112)",
     "responsavel": "Profª. Drª. Jane Eire Silva Alencar de Menezes",
     "lattes": "http://lattes.cnpq.br/5495579352462112",
     "email": "jane.menezes@uece.br",
@@ -695,7 +695,7 @@
   },
   {
     "nome": "LABORATÓRIO DE MATEMÁTICA E ENSINO - LABMATEN",
-    "descricao": "",
+    "descricao": "O Laboratório de Matemática e Ensino (LABMATEN) é um centro dedicado a promover aprimoramentos no processo de ensino e aprendizagem da Matemática, alinhado com as demandas regionais e as necessidades educacionais contemporâneas. Seus objetivos abrangem: a) Apoiar atividades para melhorar o processo de ensino e aprendizagem da Matemática: Oferece suporte para iniciativas que visam aprimorar a qualidade do ensino de Matemática, buscando atender às especificidades e desafios locais. b) Promover pesquisas em novas metodologias de ensino de Matemática: Estimula a investigação e aplicação de abordagens inovadoras no ensino da Matemática, buscando constantemente formas mais eficazes de transmitir conceitos matemáticos complexos. c) Incentivar a interdisciplinaridade para melhorar ensino, pesquisa e extensão: Valoriza a interação entre diferentes áreas do conhecimento como uma ferramenta essencial para enriquecer o ensino, a pesquisa e as atividades de extensão relacionadas à Matemática. d) Contribuir para a capacitação dos alunos nas aplicações práticas dos conhecimentos teóricos: Prepara os alunos para aplicarem os conhecimentos matemáticos teóricos em situações práticas do mundo real, capacitando-os para suas futuras carreiras profissionais. e) Promover eventos didático-científicos para a comunidade: Organiza eventos voltados para a comunidade, como palestras, workshops e seminários, com o objetivo de disseminar o conhecimento matemático e fomentar o interesse pela disciplina. O LABMATEN é um espaço dinâmico e colaborativo, comprometido em contribuir para a excelência no ensino e na pesquisa em Matemática, além de promover sua relevância e aplicabilidade na sociedade contemporânea EQUIPE Coordenação: Profª. Drª. Ana Carolina Costa Pereira (Lattes - http://lattes.cnpq.br/1062497580478584)",
     "responsavel": "Profª. Drª. Ana Carolina Costa Pereira",
     "lattes": "http://lattes.cnpq.br/1062497580478584",
     "email": "carolina.pereira@uece.br",
@@ -717,7 +717,7 @@
   },
   {
     "nome": "LABORATÓRIO DE ENSINO DE FÍSICA - LEF",
-    "descricao": "",
+    "descricao": "O laboratório oferece aulas práticas e é usado para pesquisas e experimentos. Com uma equipe especializada e equipamentos modernos, proporciona uma experiência educacional prática e colaborativa para os alunos. EQUIPE Coordenação: Prof. Dr. Francisco Geraldo de Melo Pinheiro (Lattes - http://lattes.cnpq.br/5899681125825184)",
     "responsavel": "Prof. Dr. Francisco Geraldo de Melo Pinheiro",
     "lattes": "http://lattes.cnpq.br/5899681125825184",
     "email": "francisco.pinheiro@uece.br",
@@ -740,7 +740,7 @@
   },
   {
     "nome": "LABORATÓRIO DE BIOPROSPECÇÃO DE PRODUTOS NATURAIS E BIOTECNOLOGIA  - LBPNB",
-    "descricao": "",
+    "descricao": "O Laboratório de Bioprospecção de Produtos Naturais e Biotecnologia (LBPNB) está dedicado à pesquisa e desenvolvimento em várias áreas relacionadas à biotecnologia e à exploração de produtos naturais. Em suas pesquisas, concentram-se na prospecção química de plantas medicinais, bem como na realização de estudos biológicos, toxicológicos e farmacológicos dessas plantas, além de fitoterápicos, alimentos funcionais e nutracêuticos. Seu objetivo é descobrir novos compostos bioativos e compreender seus efeitos no corpo humano, visando contribuir para a saúde e o bem-estar da população. Além disso, adotam o zebrafish (Danio rerio) adulto como um método alternativo ao uso de roedores em testes neuro farmacológicos. Essa abordagem permite realizar pesquisas de forma ética e eficaz, ao mesmo tempo em que se reduz o uso de animais em experimentos científicos. O LBPNB é um ambiente de pesquisa dinâmico e inovador, onde cientistas, estudantes e profissionais trabalham juntos para avançar no conhecimento e na aplicação da biotecnologia e dos produtos naturais para benefício da sociedade. EQUIPE Coordenação: Prof. Dr. Francisco Ernani Alves Magalhães (Lattes - http://lattes.cnpq.br/5147244041651721)",
     "responsavel": "Prof. Dr. Francisco Ernani Alves Magalhães",
     "lattes": "http://lattes.cnpq.br/5147244041651721",
     "email": "ernani.magalhaes@uece.br",

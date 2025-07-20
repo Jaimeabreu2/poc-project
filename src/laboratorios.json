@@ -1,18 +1,18 @@
 [
   {
     "nome": "LABORATÓRIO DE ESTUDOS E PRÁTICAS DE AVALIAÇÃO PSICOLÓGICA - LEAPSI",
-    "descricao": "",
+    "descricao": "(Coordenadora: Profª. Drª. Lucila Moraes Cardoso) O Leapsi foca em pesquisas sobre as qualidades psicométricas dos métodos projetivos, além da construção e adaptação de instrumentos para populações específicas e Avaliação Terapêutica.",
     "responsavel": "Profª. Drª. Lucila Moraes Cardoso",
     "lattes": "",
     "email": "lucila.cardoso@uece.br",
-    "telefone": "",
-    "site": "",
+    "telefone": "(85) 3101-9981",
+    "site": "www.uece.br/",
     "localizacao": "Av. Dr. Silas Munguba, nº 1700, Campus do Itaperi, Bloco P, Serviço de Psicologia, 2º andar, Sala Leapsi, Fortaleza - Ce",
     "area": [
       "Ciências Humanas"
     ],
-    "natureza": "",
-    "vinculado": "",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades (CH) - Curso de Psicologia",
     "horario": "",
     "parcerias": [],
     "equipe": "",
@@ -25,18 +25,18 @@
   },
   {
     "nome": "LABORATÓRIO DE LINGUAGEM E COGNIÇÃO - LINC",
-    "descricao": "",
+    "descricao": "O LINC, dedica-se a enriquecer a experiência acadêmica dos alunos do Curso de Letras/Português da UECE, integrando teoria e prática por meio do Estágio Supervisionado em Língua Portuguesa. Uma das iniciativas é a colaboração com a EEM Adauto Bezerra, uma instituição de ensino médio pública em Fortaleza, que permite uma aplicação direta dos conhecimentos adquiridos em sala de aula em um contexto real de ensino. Além disso, estabelecem parcerias significativas com organizações como a Associação Lua Rosa, ajudando mulheres diagnosticadas com câncer de mama a ganhar confiança e autonomia, preparando-as para novas oportunidades profissionais através da educação.",
     "responsavel": "Profª. Drª. Suelene Silva Oliveira",
     "lattes": "",
     "email": "linc.extensao@uece.br",
-    "telefone": "",
-    "site": "",
+    "telefone": "(85) 3101-2030",
+    "site": "www.uece.br/",
     "localizacao": "Av. Luciano Carneiro, n° 345, Campus Fátima, térreo, Sala A-25, Fortaleza - Ce",
     "area": [
       "Ciências Humanas"
     ],
-    "natureza": "",
-    "vinculado": "",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades (CH -sede Fátima) - Curso de Letras",
     "horario": "",
     "parcerias": [],
     "equipe": "",
@@ -50,18 +50,18 @@
   },
   {
     "nome": "LABORATÓRIO DE METODOLOGIAS CRÍTICAS PARA EDUCAÇÃO INFANTIL E PRIMEIROS ANOS DO ENSINO FUNDAMENTAL - LAMEC",
-    "descricao": "",
+    "descricao": "O LAMEC dedica-se ao avanço do conhecimento na educação, com foco especial na Educação Infantil, nos primeiros anos do Ensino Fundamental, nas Políticas Públicas e na Educação de Jovens e Adultos (EJA), além de metodologias e avaliações, como o Programa de Aprendizagem na Idade Certa. Tem como propósito fomentar a formação continuada de professores das Secretarias de Educação Básica (SEB) dos municípios e desenvolver projetos de extensão que integrem pesquisa aplicada e práticas pedagógicas inovadoras.",
     "responsavel": "Profª. Drª. Maria Lenúcia de Moura",
     "lattes": "",
     "email": "lenucia.moura@uece.br",
-    "telefone": "",
-    "site": "",
+    "telefone": "(88) 3445-1036",
+    "site": "www.uece.br",
     "localizacao": "Rua José de Queiroz Pessoa, Planalto Universitário, Quixadá - CE",
     "area": [
       "Ciências Humanas"
     ],
-    "natureza": "",
-    "vinculado": "",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)",
     "horario": "",
     "parcerias": [],
     "equipe": "",
@@ -72,5 +72,1264 @@
       "Ensino Fundamental",
       "Políticas Públicas"
     ]
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DE HISTÓRIA E (DAS) ARTES - LEHA",
+    "descricao": "(Coordenadora: Profª Drª Valéria Aparecida Alves) O LEHA dedica-se à exploração profunda da intersecção entre história e arte. Através de um olhar crítico e analítico, mergulha nas biografias de artistas, nos movimentos artísticos que moldaram eras, e nas experiências estéticas que definem o nosso entendimento da beleza e da expressão. No LEHA o trabalho envolve não apenas a leitura e discussão aprofundada de referências teóricas, mas também o mapeamento, coleta, e catalogação meticulosa de fontes, constituindo assim um banco de dados rico para pesquisa futura. Realizam exercícios metodológicos rigorosos para a análise de fontes, culminando na sistematização de discussões e na disseminação do conhecimento adquirido por meio da publicação de artigos científicos em periódicos de renome.",
+    "email": "valeria.alves@uece.br",
+    "telefone": "(85) 3101-9761",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Humanidades (CH) - Curso de História / PPGHCE"
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES - LIFE CAMPUS FAFIDAM",
+    "descricao": "O LIFE dedica-se à excelência na formação inicial e continuada de professores de Educação Básica e Superior. Com o foco de impulsionar práticas pedagógicas interdisciplinares que integrem conhecimentos, tecnologias educacionais avançadas e metodologias inovadoras, visando preparar educadores altamente qualificados e adaptáveis às dinâmicas do século XXI.",
+    "email": "life_fafidam@uece.br",
+    "telefone": "(88) 3423-6962",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PESQUISAS SOBRE DIREITOS DA NATUREZA E JUSTIÇA SOCIOAMBIENTAL - LAPEJUS",
+    "descricao": "O LAPEJUS atua na compreensão e enfrentamento dos desafios ambientais contemporâneos, mapeando os riscos ambientais em áreas urbanas (capi) e comunidades locais, visando identificar e abordar potenciais ameaças à sustentabilidade. No âmbito educacional, assume um papel de destaque ao estimular a participação das crianças em iniciativas comunitárias e programas educacionais de educação ambiental, semeando alicerces para uma sociedade mais comprometida com a preservação ambiental e a justiça socioambiental.",
+    "email": "Marinina.gruska@uece.br",
+    "telefone": "(85) 3101-2030",
+    "site": "www.uece.br/lanpejus",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades (CH) - Ciências Sociais"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS AGRÁRIOS, URBANOS E POPULACIONAIS - LEAUP",
+    "descricao": "O LEAUP concentra-se na condução de pesquisas acadêmicas centradas na temática migratória,  na compreensão dos diversos aspectos desse fenômeno complexo. Atuando em estreita colaboração com a Pastoral do Migrante do Ceará, o laboratório estende suas atividades de pesquisa e extensão à comunidade de migrantes internacionais residentes em Fortaleza e em sua Região Metropolitana. Além de contribuir significativamente para a produção de conhecimento, o LEAUP desempenha um papel ativo e participativo em fóruns, onde atua como representante tanto da sociedade civil quanto institucional. Essa participação em fóruns é estratégica, visando influenciar e colaborar na elaboração de políticas públicas relacionadas à migração, tanto no âmbito municipal de Fortaleza quanto no Estado do Ceará.",
+    "email": "denise.bomtempo@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE PSICOLOGIA, EDUCAÇÃO E ESTUDOS MARXISTAS - LAPSEM",
+    "descricao": "O LAPSEM desenvolve pesquisas que articulam diversos campos, incluindo Psicologia, trabalho, arte, educação e formação humana. O laboratório engaja-se em atividades extensionistas e de monitoria, proporcionando uma ponte entre a teoria e a prática por meio de iniciativas como palestras e o CINE NUSOL, um espaço de exibição cinematográfica relacionado aos temas abordados. Além disso, o LAPSEM contribui para a produção acadêmica e disseminação de conhecimento por meio da publicação de livros e artigos científicos, consolidando-se como um centro ativo de produção intelectual.",
+    "email": "ruthm.goncalves@uece.br",
+    "telefone": "(85) 3101.2030",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades - CH"
+  },
+  {
+    "nome": "LABORATÓRIO DE LÍNGUA PORTUGUESA",
+    "descricao": "O laboratório se dedica integralmente ao avanço do ensino de língua portuguesa nas salas de aula da educação básica, sendo um catalisador para pesquisas significativas neste domínio. Além disso, concentra seus esforços em investigações relacionadas a aspectos linguísticos e literários que têm na língua portuguesa seu objeto científico central. Essa abordagem abrangente abarca desde questões pedagógicas e metodológicas até análises aprofundadas de elementos linguísticos e literários, enriquecendo a compreensão do idioma e suas manifestações na prática educacional. Além das atividades de pesquisa, o laboratório desempenha um papel crucial ao auxiliar na promoção de eventos e projetos associados ao curso de Letras Português.",
+    "email": "ariane.sampaio@uece.br",
+    "telefone": "(88) 3581.4558",
+    "site": "www.uece.br/fecli/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Vinculado ao curso de Letras da Faculdade de Educação, Ciências e Letras de Iguatu - FECLI"
+  },
+  {
+    "nome": "LABORATÓRIO DE TRADUÇÃO ESPECIALIZADA EM FILOSOFIA - LETRAFIL",
+    "email": "rocha.fragoso@uece.br",
+    "telefone": "(85) 3101-2033",
+    "site": "www.uece.br/ | https://benedictusdespinoza.pro.br/letrafil.html",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades - CH"
+  },
+  {
+    "nome": "CENTRO DE ESTUDOS DO TRABALHO E ONTOLOGIA DO SER SOCIAL - CETROS",
+    "descricao": "O Centro de Estudos do Trabalho e Ontologia do Ser Social (CETROS) é um laboratório dedicado ao ensino, pesquisa e extensão. No âmbito da pesquisa, integra o Grupo de Pesquisa do CNPq “Trabalho, Sociabilidade e Lutas Sociais”, participando em diversas Linhas de Pesquisa, tais como o Capitalismo Contemporâneo, Formação Profissional do Assistente Social, Neoliberalismo, entre outras. Além disso, é responsável pelo selo editorial Sertão, vinculado à Educação, que acolhe produções acadêmicas e artístico-culturais.",
+    "email": "epitacio.macario@uece.br",
+    "telefone": "(85) 3101.9937",
+    "site": "www.uece.br/cetros",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE RESIDÊNCIA PEDAGÓGICA - LIRP",
+    "descricao": "O Laboratório Interdisciplinar de Residência Pedagógica (LIRP) é um espaço dedicado ao desenvolvimento de estudos, materiais e à facilitação do planejamento e socialização de experiências docentes. Além disso, serve como apoio logístico e espaço de estudo para estagiários vinculados à Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC). EQUIPE Coordenação: Profª. Drª. Lidia Noemia Silva dos Santos (Lattes -  http://lattes.cnpq.br/3380009049467052)",
+    "email": "lidia.noemia@uece.br",
+    "telefone": "(88) 3445.1036",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)"
+  },
+  {
+    "nome": "LABORATÓRIO DIDÁTICO DO CURSO DE PEDAGOGIA - LADIPED",
+    "descricao": "O objetivo principal do Laboratório Didático do Curso de Pedagogia (LADIPED) é promover a Didática no ensino superior, especialmente no curso de licenciatura em Pedagogia da FACEDI. Ele faz isso integrando ensino e pesquisa, usando ateliês didáticos e planejamentos colaborativos. Suas principais atividades incluem: promover o trabalho colaborativo entre setores de estudos e currículos do curso de Pedagogia e parcerias com outros cursos da FACEDI; problematizar a Didática do ensino superior, promover estudos sobre currículos e diversidade cultural, buscar recursos para pesquisa em pedagogia universitária, impulsionar projetos que integrem ensino e pesquisa, sensibilizar o colegiado de Pedagogia para a produção científica e priorizar eventos de formação permanente na pedagogia universitária. Além disso, o LADIPED também se propõe a acompanhar e organizar estudos e debates sobre o ENADE. EQUIPE Coordenação:  Profª. Drª. Iasmin da Costa Marinho (Lattes - http://lattes.cnpq.br/9314994660443365)",
+    "email": "iasmin.costa@uece.br",
+    "telefone": "(88) 3673-7051",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação de Itapipoca (FACEDI)"
+  },
+  {
+    "nome": "LABORATÓRIO DE EDUCAÇÃO MATEMÁTICA DA FECLESC - LABOMÁTICA",
+    "descricao": "O Laboratório de Educação Matemática da FECLESC promove um ambiente dinâmico de ensino, pesquisa e extensão, envolvendo tanto estudantes de graduação em Pedagogia e Matemática quanto professores da Educação Básica em Quixadá. Suas atividades são lideradas por bolsistas de graduação em Pedagogia e Matemática, que desempenham um papel vital na formação pedagógica desses licenciandos. Além disso, estudantes desses cursos participam como cursistas, enriquecendo seus conhecimentos específicos e didáticos. EQUIPE Coordenação: Prof. Dr. Francisco Edisom Eugenio de Sousa (Lattes - http://lattes.cnpq.br/1626910802465251)",
+    "email": "francisco.eugenio@uece.br",
+    "telefone": "(88) 3445-1039",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)"
+  },
+  {
+    "nome": "LABORATÓRIO EXPERIMENTAL DE RASTREAMENTO OCULAR - LERO",
+    "descricao": "O Laboratório Experimental de Rastreamento Ocular (LERO) se destaca por suas pesquisas experimentais que exploram o processamento cognitivo na leitura de imagens de textos multimodais, além do desenvolvimento e aquisição da linguagem. Utiliza tecnologia de ponta de Rastreamento Ocular, além de investigar a tradução audiovisual acessível e a legendagem. Além disso, conduz pesquisas qualitativas focadas na avaliação da leitura de textos e materiais didáticos, assim como na formação docente, buscando estabelecer um acervo de dados para documentar investigações em andamento e/ou concluídas. Para compartilhar suas descobertas, o laboratório promove uma variedade de eventos, como seminários, colóquios, encontros, palestras, workshops e oficinas. Essas iniciativas visam discutir temas pertinentes e difundir os estudos realizados no LERO. EQUIPE Coordenação: Profª. Drª. Antonia Dilamar Araújo (Lattes - https://lattes.cnpq.br/0138358532764603)",
+    "email": "dilamar.araujo@uece.br",
+    "telefone": "(85) 3101-2032",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Humanidade (CH)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DA EDUCAÇÃO DO CAMPO - LECAMPO",
+    "descricao": "O Laboratório de Estudos da Educação do Campo (LECAMPO) é um espaço dedicado à pesquisa e à promoção da educação no contexto rural. Desenvolvemos investigações sobre diversos aspectos da educação do campo, incluindo formação docente, educação fundamental para crianças em escolas rurais, trajetórias escolares, educação popular e o papel dos movimentos sociais e das mulheres na luta pela terra, saúde e agroecologia. Além disso, apoia e participa ativamente de eventos e atividades promovidas por Movimentos Sociais na Região e mantém parcerias com grupos e instituições comprometidos com a causa da educação do campo. EQUIPE Coordenação: Profª. Drª. Sandra Maria Gadelha de Carvalho (Lattes - https://lattes.cnpq.br/0650722680863049)",
+    "email": "sandra.gadelha@uece.br",
+    "telefone": "(88) 3423-6962",
+    "site": "www.uece.br/ | laboratoriolecampo.blogspot.com.br",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (Mestrado Acadêmico Intercampi em Educação e Ensino - MAIE)"
+  },
+  {
+    "nome": "LABORATÓRIO BANDA SINFÔNICA - LBS",
+    "descricao": "O LETRAFORTE é um laboratório de pesquisa na UECE focado em diversas áreas educacionais, como formação de professores, trabalho docente, ensino de línguas e letramentos. Seu principal objetivo é investigar o letramento literário e a formação do leitor, destacando a importância da linguagem em nossas pesquisas. Além disso, busca colaborar com instituições e comunidades para promover práticas educacionais mais inclusivas e equitativas. EQUIPE Coordenação: Profª. Drª. Rozania Maria Alves de Moraes(Lattes - https://lattes.cnpq.br/0313003338626493)",
+    "email": "rozania.moraes@uece.br",
+    "telefone": "(85) 3101-2030",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidade (CH)"
+  },
+  {
+    "nome": "LABORATÓRIO DE BRINQUEDOS E BRINCADEIRAS DO CURSO DE PEDAGOGIA - LABRINQUE",
+    "descricao": "O Laboratório de Brinquedos e Brincadeiras do Curso de Pedagogia (LABRINQUE) é um espaço dedicado à promoção de atividades lúdicas e pedagógicas que valorizam o brincar como parte fundamental do desenvolvimento infantil. Suas iniciativas incluem: Atividades Lúdicas: Desenvolvemos atividades lúdicas por meio do projeto \"BRINQUEDOTECA ITINERANTE\", que leva experiências de brincadeiras e aprendizagem para crianças em diferentes contextos. Além disso, organiza rodas de leitura literária e oficinas de produção de brinquedos, proporcionando momentos de diversão e aprendizado criativo.",
+    "email": "luisa.diogenes@uece.br",
+    "telefone": "(88) 3673-7051",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Curso de Pedagogia da FACEDI"
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES - LIFE CAMPUS ITAPERI",
+    "descricao": "O LIFE (Laboratório Interdisciplinar de Formação de Educadores) da UECE é um espaço multifuncional projetado para aprimorar a formação de professores, fomentar atividades culturais e promover ações de extensão. Além disso, organiza uma variedade de eventos culturais que enriquecem o ambiente acadêmico e contribuem para a integração da comunidade. No âmbito tecnológico, mantém um moderno laboratório de informática, especialmente dedicado às disciplinas de Tecnologias da Informação e Comunicação (TICs), proporcionando aos alunos uma experiência prática e atualizada nesse campo em constante evolução. EQUIPE Coordenação: Profª.Drª.Isaíde Bandeira da Silva (Lattes - http://lattes.cnpq.br/4657180590259054)",
+    "email": "saide.bandeira@uece.br",
+    "telefone": "(85) 3101.9869",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Educação"
+  },
+  {
+    "nome": "LABORATÓRIO DE LÍNGUA E CULTURA JAPONESA - NIHONGOLAB",
+    "descricao": "O Laboratório de Língua e Cultura Japonesa (NIHONGOLAB), se dedica aos estudos avançados da língua e cultura japonesa. No NIHONGOLAB, promove-se uma variedade de atividades acadêmicas e culturais para enriquecer o conhecimento e a compreensão da comunidade sobre o Japão. Entre suas iniciativas, destacam-se a criação de Grupos de Estudo e a realização de Seminários, nos quais são convidados palestrantes externos, incluindo renomados professores universitários especializados em Estudos Japoneses de outras instituições. Esses eventos frequentemente ocorrem de forma virtual e são transmitidos através do  canal no YouTube, \"Canal do Laboratório de Estudos Japoneses da UECE - Nihongo Lab\". Além disso, realiza-se eventos especiais, como a celebração dos 30 anos do Curso de Japonês, também transmitidos pelo canal. O NIHONGOLAB promove também Seminários sobre Formação de Professores de Língua Japonesa e participa ativamente de eventos acadêmicos, como congressos e encontros de professores de língua e cultura japonesa, onde apresentamos trabalhos e compartilhamos nossas pesquisas e experiências. O laboratório está comprometido em fornecer um ambiente acadêmico estimulante e acolhedor, onde os estudiosos e entusiastas da língua e cultura japonesa possam se conectar, aprender e colaborar para o avanço do conhecimento nesta área fascinante EQUIPE Coordenação: Profª. Drª. Laura Tey Iwakami (Lattes - http://lattes.cnpq.br/6676590548758529)",
+    "email": "laura.iwakami@uece.br",
+    "telefone": "(85) 3101.2030",
+    "site": "www.uece.br/",
+    "area": "Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidade (CH)"
+  },
+  {
+    "nome": "LABORATÓRIO DE DESENVOLVIMENTO E INOVAÇÃO DA UECE (LDI)",
+    "descricao": "O LDI atua em diversas áreas, incluindo Acessibilidade Fabril, Realidade Aumentada, EaD acessível, Inteligência Artificial, Processamento de Linguagem Natural, Design Ágil em UX/UI, Ferramentas Colaborativas, Acessibilização da Web, Chatbots, Manipulação de Objetos 3D, Computação Vestível, E-Health e Transformação Digital (Blockchain).",
+    "email": "fran@labldi.com.br",
+    "telefone": "(85) 3101-9770",
+    "site": "https://www.uece.br/ldi",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) / Programa de Pós-Graduação em Ciência da Computação (PPGCC/UECE)"
+  },
+  {
+    "nome": "LABORATÓRIO DE QUÍMICA INORGÂNICA - LQUIN",
+    "descricao": "O LQUIN dedica-se à síntese e caracterização de compostos orgânicos e inorgânicos com produção de metalofármacos. Estando na vanguarda da criação de compostos inéditos, vislumbrando seu potencial como biofármacos promissores.",
+    "email": "solange.pinheiro@uece.br",
+    "telefone": "(85) 3101-9933",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia, Ciências da Saúde",
+    "natureza": "Mista",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE POLÍMEROS NATURAIS",
+    "descricao": "O Laboratório de Polímeros Naturais dedica-se à pesquisa inovadora com polímeros naturais de origem regional, buscando valorizar materiais locais por meio de avançados estudos químicos.O foco é o desenvolvimento de materiais funcionais para uma ampla gama de aplicações.Especializou-se na funcionalização de polissacarídeos para aumentar a eficiência na Bremoção de metais pesados e pesticidas, bem como seu uso como biocoagulantes no tratamento e purificação de água. Além disso, explora a criação de nanopartículas polissacarídicas para o encapsulamento e liberação controlada de fármacos com propriedades anti-helmínticas ou antimicrobianas, ampliando o conhecimento e as aplicações práticas dos polímeros naturais típicos do Nordeste brasileiro. Além disso, realiza análises para a determinação de metais pesados em água e pode avaliar a qualidade da água baseada em parâmetros físico-químicos, como turbidez, pH e condutividade.",
+    "email": "flavia.monteiro@uece.br",
+    "telefone": "(85) 3101-99-33",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciência e Tecnologia (CCT) - Curso de Pós-Graduação de Ciências Naturais / Curso de Química"
+  },
+  {
+    "nome": "LABORATÓRIO DE NANOBIOTECNOLOGIA AMBIENTAL - LaNA",
+    "descricao": "O LaNA dedica-se à vanguarda da pesquisa interdisciplinar, focando nas áreas de Agronegócio, Saúde e Desenvolvimento de Novos Materiais. Sua especialidade é a caracterização avançada de materiais, explorando as fronteiras da nanotecnologia para desenvolver soluções sustentáveis e inovadoras que atendam às necessidades emergentes em diversos campos. Através de técnicas de nanobiotecnologia ambiental, buscam impactar positivamente a agricultura sustentável, melhorar os cuidados de saúde e criar materiais avançados com propriedades únicas para diversas aplicações.",
+    "email": "carlucio.alves@uece.br",
+    "telefone": "(85) 3101 9645",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE CONVERSÃO ENERGÉTICA E INOVAÇÃO - LCE+",
+    "descricao": "O Laboratório tem como missão realizar atividades de pesquisa, desenvolvimento e extensão com foco em soluções tecnológicas sustentáveis para atender aos diversos setores da sociedade, sobretudo nas áreas: 1) Processos termoquímicos: Combustão, gaseificação, pirólise e reforma a vapor; 2) Processos biológicos: Produção de biocombustíveis de microalgas e Produção de biogás e biohidrogênio de resíduos agroenergéticos; 3) Produção de Hidrogênio renovável usando efluentes industriais; 4) Ensaios em Túnel de Vento: (i) Avaliação de perfis de pás e asas; (ii) Testes de Anemometria; (iii) Ensaios em medidores ultrassônicos e estruturas; 5) Sistemas embarcados: on board em veículos; 6) Preparação de catalisadores/adsorventes: i.e matrizes cerâmicas porosas, materiais micro e mesoporosos; 7) Avaliação de Ciclo de Vida de Produtos/Processos; 8) Desenvolvimento e modelagem de processo. Além disso, é ofertado cursos de curta duração para capacitação nas áreas supracitadas. Possuem dois projetos de extensão andamento: 1) Steam UECE e 2) Aerodesign",
+    "email": "laceema@uece.br",
+    "telefone": "(85) 3101-9902",
+    "site": "www.uece.br/lais",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE COMPUTAÇÃO CIENTÍFICA - LCC",
+    "descricao": "O LCC dedica-se à formação avançada de alunos em áreas críticas da tecnologia da informação, com especial ênfase em Sistemas de Apoio à Decisão e Otimização Combinatória. Nosso currículo é projetado para equipar os estudantes com as habilidades necessárias para enfrentar complexos desafios contemporâneos, aplicando esses conhecimentos em uma variedade de campos impactantes. Nossa especialidade inclui aplicações práticas em:",
+    "email": "marcos.negreiros@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra, Ciências Biológicas, Engenharia / Tecnologia, Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) - Bacharelado em Ciência da Computação"
+  },
+  {
+    "nome": "LABORATÓRIO DE PESQUISA E ENSINO EM MATEMÁTICA - LAPEM",
+    "descricao": "O LAPEM dedica-se à interseção da educação matemática e da formação docente. Com foco no desenvolvimento de metodologias e na realização de pesquisas que contribuem para a formação inicial e continuada de professores de matemática. Através de um modelo integrado de ensino, pesquisa e extensão, o LAPEM se dedica a elevar o padrão da educação matemática, tornando-a mais acessível e significativa tanto para educadores quanto para alunos.",
+    "email": "carlosian.melo@uece.br",
+    "telefone": "(88) 3581-4558",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras de Iguatu (FECLI) - Curso de licenciatura em Matemática"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENERGIAS RENOVÁVEIS - LER",
+    "descricao": "O LER dedica-se à pesquisa, ao ensino e à extensão no campo das energias renováveis. Com foco na investigação e desenvolvimento de tecnologias limpas e sustentáveis, abrangendo uma ampla gama de áreas: desde Combustão Industrial e Instrumentação para Combustão, passando por Combustíveis Renováveis e Hidrogênio como Vetor Energético, a Energía Solar Fotovoltaica e Turbinas Eólicas de Eixo Vertical. Trabalha para enfatizar o papel crucial das energias renováveis no desenvolvimento sustentável, incluindo análise, otimização, mapeamento e medições de sistemas de geração renovável. Mantem colaborações estratégicas com instituições nacionais e internacionais para fomentar a inovação e o avanço tecnológico no setor.",
+    "email": "lutero.lima@uece.br",
+    "telefone": "(85) 3101 9904",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT) - Curso de Física"
+  },
+  {
+    "nome": "LABORATÓRIO DE FÍSICA EXPERIMENTAL DE MECÂNICA E TERMODINÂMICA - LabFis",
+    "descricao": "O LabFis dedica-se ao ensino e à prática da Física, oferecendo um ambiente rico para aulas experimentais e teóricas. Possui uma equipe empenhada na preparação de materiais para projetos de extensão, enriquecendo ainda mais a experiência educacional. Os experimentos conduzidos cobrem uma vasta gama de tópicos, incluindo: * Dinâmica do encontro de objetos em Movimento Retilíneo Uniforme (MRU) com direções opostas. * Análise de alcance, incerteza e velocidade em lançamentos horizontais. * Estudo da quantidade de movimento linear em lançamentos horizontais. * Investigação sobre o Movimento Circular Uniforme (MCU) e sua combinação com o MRU. * Exploração das leis da dinâmica com veículos retropropulsionados. * Aplicação da lei de Hooke em molas helicoidais, incluindo força restauradora e associação de molas. * Estudo do efeito Doppler e as diferenças fundamentais entre calor e temperatura. * Compreensão da capacidade dos corpos de armazenar energia, equilíbrio térmico, e os métodos de condução, convecção e irradiação na transferência de calor. * Experiências com o calor específico e a capacidade térmica de sólidos e calorímetros.",
+    "email": "daniel.militao@uece.br",
+    "telefone": "(88) 3445-1036",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC) - curso de licenciatura em Física"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS MORFOESTRUTURAIS E PEDOLÓGICOS - LEMEP",
+    "descricao": "O LEMEP dedica-se à pesquisa avançada em geomorfologia e geografia física. Com foco em estudos, incluindo análises paleoambientais, geomorfologia estrutural, geodiversidade e geoconservação, além de geografia ambiental. Possuem estudos e projetos técnicos em colaboração com órgãos governamentais, contribuindo para o desenvolvimento sustentável e a preservação do meio ambiente.",
+    "email": "fred.holanda@uece.br",
+    "telefone": "(85) 3101-9706",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ASTRONOMIA - LA",
+    "descricao": "O LA dedica-se à exploração do universo noturno através de observações astronômicas regulares e ao emprego de softwares avançados para o estudo detalhado de objetos celestes. Suas atividades incluem sessões de observação semanais conduzidas não apenas em Quixadá, mas também em diversos municípios do sertão central, proporcionando uma ampla cobertura e variedade de observações astronômicas.",
+    "email": "raimundo.ivan@uece.br",
+    "telefone": "(88) 3445 1036",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central"
+  },
+  {
+    "nome": "LABORATÓRIO DE MATEMÁTICA COMPUTACIONAL - LAMAC",
+    "descricao": "O LAMAC dedica-se ao avanço da pesquisa em áreas cruciais como Processamento de Imagens e Inteligência Computacional, com um enfoque particular no Processamento de Imagens Médicas e Processamento de Sinais. O LAMAC é um centro de inovação no desenvolvimento de software científico, explorando fronteiras da Inteligência Computacional, incluindo aprendizado profundo, processamento de imagens, computação gráfica e análise de dados. Sua abordagem interdisciplinar integra uma ampla gama de disciplinas matemáticas e suas aplicações computacionais, como Álgebra Lineal, Cálculo, Métodos Numéricos, Geometria Analítica e Matemática Discreta, fomentando uma pesquisa robusta e inovadora.",
+    "email": "thelmo.araujo@uece.br",
+    "telefone": "(85) 3101-9776",
+    "site": "www.uece.br/// | github.com/LAMAC-UECE",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE QUÍMICA DE PRODUTOS NATURAIS - LQPN",
+    "descricao": "O LQPN destina-se ao avanço da pesquisa com foco na identificação e caracterização dos componentes químicos de plantas brasileiras, especialmente aquelas oriundas do Semiárido. O laboratório visa explorar essas substâncias tanto em suas formas naturais quanto em derivados sintéticos ou encapsulados em micropartículas, com o objetivo de valorizar a biodiversidade nacional e fomentar o desenvolvimento de novos produtos fitoterápicos. Adicionalmente, conduz ensaios para avaliar o potencial farmacológico de compostos utilizando o modelo animal zebrafish (Danio rerio), uma abordagem inovadora no campo da biomedicina.",
+    "email": "sonia.costa@uece.br",
+    "telefone": "(85) 3101-9933",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciência e Tecnologia (CCT) - Curso de  Química"
+  },
+  {
+    "nome": "LABORATÓRIO DE MATEMÁTICA PARA A FORMAÇÃO DE PROFESSOR - LABPROFMAT",
+    "descricao": "O LABPROFMAT dedica-se ao ensino de Matemática, dedicado à formação de professores através de uma abordagem prática e interativa. O laboratório contribui para uma gama diversificada de disciplinas e atividades, incluindo: Laboratório de Ensino de Álgebra (LEA) Laboratório de Ensino de Geometria (LEG) Laboratório de Ensino de Novas Tecnologias (LENT) Laboratório de Pesquisa em Educação Matemática (LPEM) Laboratório de Ensino de Materiais Didáticos Pedagógicos (LEMPD)",
+    "email": "acacio.freitas@uece.br",
+    "telefone": "(88) 3423-6963",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)"
+  },
+  {
+    "nome": "LABORATÓRIO DE OTIMIZAÇÃO E GESTÃO DE INTELIGÊNCIA - LOGIN",
+    "descricao": "Desde sua fundação em 2006, o LOGIN dedica-se ao avanço da pesquisa e extensão nas áreas de Otimização e Gestão de Inteligência. Com foco especial em atender às necessidades de empresas do setor público e privado, o LOGIN é renomado por desenvolver soluções inovadoras em Pesquisa Operacional, aplicando ciência e tecnologia para resolver problemas complexos.",
+    "email": "valdisio.viana@uece.br",
+    "telefone": "(85) 3101.9645",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT) - Curso de Computação"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOQUÍMICA E BIOTECNOLOGIA - LABBIOTEC",
+    "descricao": "O LABBIOTEC dedica-se à pesquisa avançada sobre os produtos das abelhas, incluindo mel, própolis e pólen, além da inspeção e garantia da qualidade dos produtos apícolas. Além de capacitar os alunos com conhecimentos e habilidades práticas no estudo dos produtos apícolas do Nordeste brasileiro e suas inúmeras aplicações. O laboratório também conduz avaliações criteriosas sobre alimentos disponíveis em supermercados e feiras, assegurando sua conformidade com padrões de qualidade.",
+    "email": "conceicao.liberato@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra / Ciências da Saúde / Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT) - Curso de Química"
+  },
+  {
+    "nome": "LABORATÓRIO DE ANÁLISES CROMATOGRÁFICAS E ESPECTROSCÓPICAS - LACES",
+    "descricao": "O LACES dedica-se à caracterização estrutural de compostos orgânicos naturais e semi-sintéticos, extraídos de plantas das regiões Norte e Nordeste do Brasil. Utiliza técnicas de espectroscopia e cromatografia, destacando-se em estudos de atividades biológicas, como antioxidante, anticolinesterásica e contra o Aedes aegypti.",
+    "email": "selene.morais@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br///",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS DE INTERAÇÕES ENTRE AEROSOL E NUVENS- L-SACI",
+    "descricao": "O L-SACI se destaca na pesquisa dedicada à compreensão aprofundada dos efeitos dos aerossóis atmosféricos nas nuvens e ao seu papel fundamental nas mudanças climáticas, além de realizar investigações inovadoras para desvendar as complexas interações entre aerossóis e nuvens e as implicações desses fenômenos para os padrões climáticos em escala global.",
+    "email": "gerson.almeida@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia  (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS - LADESC",
+    "descricao": "O LADESC realiza pesquisas e desenvolve sistemas inovadores, fundamentados em algoritmos de Inteligência Artificial, Inteligência Computacional e Tomada de Decisão. O laboratório abrange diversas áreas de expertise, incluindo Visão Computacional (CV), Processamento de Linguagem Natural (NLP), Processamento de Séries Temporais (TSP) e Tomada de Decisão (DM). Por meio de sua abordagem multidisciplinar, o LADESC busca aplicar essas tecnologias avançadas para resolver desafios complexos e contribuir para a evolução contínua da computação inteligente.",
+    "email": "jose.maia@uece.br",
+    "telefone": "(85) 3101-9776",
+    "site": "www.uece.br/cct/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE QUÍMICA DA FAEC - LQCr",
+    "descricao": "O laboratório desenvolve aulas de ensino de química e criação de novas práticas de ensino prático de Química. Aulas teóricas para Licenciatura em Ciências Biológicas. EQUIPE Coordenação: Prof. Dr. José Carlos Vieira de Miranda (Lattes - http://lattes.cnpq.br/8178424963580175)",
+    "email": "estar.miranda@uece.br",
+    "telefone": "(88) 3692.3513",
+    "site": "www.uece.br/faec/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação de Crateús (FAEC)"
+  },
+  {
+    "nome": "LABORATÓRIO DE GEOGRAFIA - LAGEO",
+    "descricao": "O Laboratório de Geografia e Observação Espacial (LAGEO) é um centro de pesquisa dedicado a projetos de Iniciação Científica, Extensão e atividades de Ensino. Oferecemos suporte nas pesquisas de Trabalhos de Conclusão de Curso (TCC) de estudantes de geografia, além de promover atividades extensionistas externas para observação astronômica, em parceria com municípios da Região do Baixo Jaguaribe. EQUIPE Coordenação: Prof. Dr. Francisco Sérgio de Almeida Pinheiro (Lattes -  http://lattes.cnpq.br/5025642586492707)",
+    "email": "sergio.pinheiro@uece.br",
+    "telefone": "(88) 3423-6962",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra; Ciências Agrárias; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)"
+  },
+  {
+    "nome": "LABORATÓRIO DE FÍSICA LUÍS CLÁUDIO - LABFIS",
+    "descricao": "O laboratório desenvolve atividades de ensino com aulas práticas das Disciplinas de Laboratório de Mecânica e Termodinâmica e Laboratório de Eletricidade e Óptica; Pesquisa no Desenvolvimento de Matrizes Vítreas pelo Processo Sol-Gel; Visitação de Escolas com apresentação e demonstração de atividades práticas de Física e Oficinas;Realização de minicursos e oficinas e empréstimo de materiais às feiras de ciências de escolas do município. EQUIPE Coordenação: Prof. Dr. Francisco Carlos de Oliveira (Lattes - http://lattes.cnpq.br/7973257954915065)",
+    "email": "francarlos.oliveira@uece.br",
+    "telefone": "(88) 3423-6962",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS ORNITOLÓGICOS - LABEO",
+    "descricao": "O Laboratório de Estudos Ornitológicos (LABEO) se dedica à pesquisa sobre o isolamento e caracterização de Enterobactérias (Salmonella spp e Escherichia coli) e suas implicações como zoonoses. Além disso, realizamos atividades de reabilitação e reintrodução de aves silvestres na natureza, bem como projetos de extensão voltados para aves e conservação da fauna do campus, entre outros. EQUIPE Coordenação: Prof. Dr. William Cardoso Maciel (Lattes - http://lattes.cnpq.br/6921857822264051)",
+    "email": "william.cardoso@uece.br",
+    "telefone": "(85) 3101-9860",
+    "site": "www.uece.br/ | labeo-uece.blogspot.com.br",
+    "area": "Ciências Exatas e da Terra; Ciências Biológicas, Engenharia / Tecnologia; Ciências Agrárias",
+    "natureza": "Pesquisa, Ensino e Extensão",
+    "vinculado": "Programa de Pós-Graduação em Ciências Veterinárias (PPGCV)"
+  },
+  {
+    "nome": "LABORATÓRIO DE GRAFOS E INTELIGÊNCIA COMPUTACIONAL - LAGIC",
+    "descricao": "O Laboratório de Grafos e Inteligência Computacional (LAGIC) concentra-se na pesquisa sobre a aplicação de aprendizado de máquina em grafos para análise e tomada de decisões em redes, estruturas interconectadas que se manifestam em diversos domínios de aplicação. Desenvolvemos soluções para problemas de otimização, visando escolhas estratégicas em cenários complexos. EQUIPE Coordenação: Prof. Dr. Leonardo Sampaio Rocha (Lattes - http://lattes.cnpq.br/0716671149414702)",
+    "email": "leonardo.sampaio@uece.br",
+    "telefone": "(85) 3101-9776",
+    "site": "/www.uece.br/ppgcc/",
+    "area": "Ciências Exatas",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E ESTUDOS EM ASTRONOMIA DA FECLI - LEEA",
+    "descricao": "O LEEA tem como missão principal promover atividades de ensino e extensão em Astronomia e Física na FECLI, além de oferecer suporte às aulas prático-teóricas do curso de Física. O laboratório realiza visitas a escolas e eventos em conjunto com o Planetário do curso, além de oferecer suporte aos projetos de extensão de Astronomia e Ensino de Física da FECLI. EQUIPE Coordenação: Profa. Dr. Raissa Maria Pimentel Neves (Lattes - http://lattes.cnpq.br/9764791468056770)",
+    "email": "raissa.pimentel@uece.br",
+    "telefone": "(88) 3581.4558",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras de Iguatu (FECLI)"
+  },
+  {
+    "nome": "LABORATÓRIO DE INFORMÁTICA DO CCT",
+    "descricao": "O Laboratório de Ciências Biológicas  desempenha um papel fundamental no apoio às atividades acadêmicas e de pesquisa relacionadas ao Curso de Licenciatura Plena em Ciências Biológicas, bem como às demais disciplinas de licenciatura da FAFIDAM. Além disso, o laboratório é um recurso essencial para o desenvolvimento de projetos de pesquisa, Trabalhos de Conclusão de Curso (TCC) e projetos de extensão. Realiza mini-cursos em eventos dos cursos de licenciatura da FAFIDAM/UECE, promovendo a capacitação contínua dos professores e alunos. EQUIPE Coordenação: Profª. Drª. Zenaide Barbosa (Lattes - http://lattes.cnpq.br/6146740842577393)",
+    "email": "zenaide.barbosa@uece.br",
+    "telefone": "(88) 3423.6962",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)"
+  },
+  {
+    "nome": "LABORATÓRIO DE AULAS PRÁTICAS DE QUÍMICA  - LAPQ",
+    "descricao": "O LAPQ é um laboratório na UECE destinado à realização de aulas práticas de Química para diversos cursos, além de atividades de monitoria e projetos de extensão. Oferece um ambiente seguro e bem equipado para experimentos, proporcionando uma experiência educacional enriquecedora. Seu compromisso com a qualidade e a segurança garante um espaço propício para aprendizado e pesquisa. O LAPQ é um ambiente dinâmico e colaborativo, preparando os alunos para os desafios acadêmicos e profissionais. EQUIPE Coordenação: Profª. Drª. Cristiane Maria Sampaio Forte (Lattes - http://lattes.cnpq.br/3085435107003470)",
+    "email": "cristiane.forte@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE APOIO A PESQUISA E AO ENSINO - LAPIS",
+    "descricao": "O Laboratório de Apoio à Pesquisa e ao Ensino (LAPIS) é um espaço dedicado ao avanço do conhecimento científico e à formação de alunos no campo da modelagem numérica de tempo e clima, com especial ênfase nas Mudanças Climáticas Globais. O laboratório está envolvido em pesquisas que visam compreender e prever os padrões climáticos e as mudanças no tempo, utilizando técnicas avançadas de modelagem numérica. Seus projetos abordam questões urgentes relacionadas às Mudanças Climáticas Globais, contribuindo para o entendimento dos processos climáticos e seus impactos no planeta. Além disso, oferece suporte e orientação aos alunos do Curso de Física da UECE, proporcionando oportunidades para que desenvolvam habilidades práticas e teóricas no campo da física atmosférica e climatologia. O LAPIS é um ambiente colaborativo e estimulante, onde estudantes e pesquisadores podem se envolver em projetos científicos de relevância e impacto global, contribuindo para o avanço do conhecimento e para a busca de soluções para os desafios climáticos enfrentados pela sociedade. EQUIPE Coordenação: Prof. Dr. Augusto Cesar Barros Barbosa(Lattes - http://lattes.cnpq.br/9512651268518603)",
+    "email": "augusto.barbosa@uece.br",
+    "telefone": "(85) 3101-9884",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE PRÁTICAS DE ENSINO DE FÍSICA - LABEFIS",
+    "descricao": "O LABEFIS é um centro de pesquisa voltado para o aprimoramento do ensino de Física. Nosso compromisso reside na constante busca por inovação, desenvolvendo materiais didáticos e estratégias pedagógicas de vanguarda. Através de minicursos e oficinas, proporciona oportunidades para educadores aprimorarem suas habilidades, visando promover a excelência no ensino e na aprendizagem desta disciplina fundamental.",
+    "email": "tiago.barboza@uece.br",
+    "telefone": "(88) 3581-9455",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Vinculado ao curso de Licenciatura em Física da FECLI"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM ASTRONOMIA - LEPA",
+    "descricao": "O Laboratório de Ensino e Pesquisa em Astronomia (LEPA) é um centro dedicado à pesquisa e divulgação científica da Astronomia. No LEPA, pesquisas avançadas em Astronomia são conduzidas, explorando os mistérios do cosmos e expandindo o conhecimento sobre o universo. Além disso, o laboratório está empenhado em divulgar a Astronomia por meio de projetos de extensão, visando tornar acessível ao público em geral o fascinante mundo dos astros. Entre suas atividades, destacam-se as diversas observações do céu. Essas observações oferecem uma oportunidade única para estudantes, pesquisadores e entusiastas da Astronomia explorarem o céu noturno e apreciarem as maravilhas do universo em primeira mão. No LEPA, o objetivo principal é inspirar e educar a próxima geração de astrônomos e cientistas, enquanto compartilhamos as descobertas e maravilhas da Astronomia com o público em geral. EQUIPE Coordenação: Prof. Dr. Roberto Namor Silva Santiago (Lattes - http://lattes.cnpq.br/5794970044672730)",
+    "email": "lepa@uece.br",
+    "telefone": "(85) 3101-9773",
+    "site": "https://www.uece.br/cct/laboratorios/lepa",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOENSAIOS QUÍMICO-FARMACOLÓGICO E AMBIENTAL - LaBQFAm",
+    "descricao": "O Laboratório de Bioensaios Químico-Farmacológico e Ambiental (LaBQFAm) é um centro de pesquisa dedicado ao estudo e desenvolvimento de bioprodutos, com ênfase nas áreas Químico-Farmacológica e Ambiental, fazendo uso do modelo animal zebrafish. Seus esforços de pesquisa concentram-se principalmente em duas linhas principais: Avaliação do potencial farmacológico de compostos naturais e sintéticos: O laboratório investiga o potencial terapêutico de uma variedade de compostos, sejam eles de origem natural ou sintética, visando o desenvolvimento de novos fármacos e terapias para diversas condições de saúde. E os Ensaios ecotoxicológicos utilizando o modelo animal Zebrafish: Utilizando o zebrafish como modelo experimental, conduzem estudos para avaliar os impactos ambientais de substâncias químicas, contribuindo para o entendimento dos efeitos nocivos e potenciais riscos à saúde do ecossistema aquático. O LaBQFAm representa um ambiente de pesquisa dinâmico e inovador, comprometido com a promoção da ciência e da tecnologia para o avanço do conhecimento e para a busca de soluções sustentáveis em saúde e meio ambiente EQUIPE Coordenação: Profª. Drª. Jane Eire Silva Alencar de Menezes (Lattes - http://lattes.cnpq.br/5495579352462112)",
+    "email": "jane.menezes@uece.br",
+    "telefone": "(85) 3101-9766",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE MATEMÁTICA E ENSINO - LABMATEN",
+    "descricao": "O Laboratório de Matemática e Ensino (LABMATEN) é um centro dedicado a promover aprimoramentos no processo de ensino e aprendizagem da Matemática, alinhado com as demandas regionais e as necessidades educacionais contemporâneas. Seus objetivos abrangem: a) Apoiar atividades para melhorar o processo de ensino e aprendizagem da Matemática: Oferece suporte para iniciativas que visam aprimorar a qualidade do ensino de Matemática, buscando atender às especificidades e desafios locais. b) Promover pesquisas em novas metodologias de ensino de Matemática: Estimula a investigação e aplicação de abordagens inovadoras no ensino da Matemática, buscando constantemente formas mais eficazes de transmitir conceitos matemáticos complexos. c) Incentivar a interdisciplinaridade para melhorar ensino, pesquisa e extensão: Valoriza a interação entre diferentes áreas do conhecimento como uma ferramenta essencial para enriquecer o ensino, a pesquisa e as atividades de extensão relacionadas à Matemática. d) Contribuir para a capacitação dos alunos nas aplicações práticas dos conhecimentos teóricos: Prepara os alunos para aplicarem os conhecimentos matemáticos teóricos em situações práticas do mundo real, capacitando-os para suas futuras carreiras profissionais. e) Promover eventos didático-científicos para a comunidade: Organiza eventos voltados para a comunidade, como palestras, workshops e seminários, com o objetivo de disseminar o conhecimento matemático e fomentar o interesse pela disciplina. O LABMATEN é um espaço dinâmico e colaborativo, comprometido em contribuir para a excelência no ensino e na pesquisa em Matemática, além de promover sua relevância e aplicabilidade na sociedade contemporânea EQUIPE Coordenação: Profª. Drª. Ana Carolina Costa Pereira (Lattes - http://lattes.cnpq.br/1062497580478584)",
+    "email": "carolina.pereira@uece.br",
+    "telefone": "(85) 3101-9775",
+    "site": "www.uece.br/ | https://labmatenuece.blogspot.com/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciência e Tecnologias"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO DE FÍSICA - LEF",
+    "descricao": "O laboratório oferece aulas práticas e é usado para pesquisas e experimentos. Com uma equipe especializada e equipamentos modernos, proporciona uma experiência educacional prática e colaborativa para os alunos. EQUIPE Coordenação: Prof. Dr. Francisco Geraldo de Melo Pinheiro (Lattes - http://lattes.cnpq.br/5899681125825184)",
+    "email": "francisco.pinheiro@uece.br",
+    "telefone": "(85) 3101.9770",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOPROSPECÇÃO DE PRODUTOS NATURAIS E BIOTECNOLOGIA  - LBPNB",
+    "descricao": "O Laboratório de Bioprospecção de Produtos Naturais e Biotecnologia (LBPNB) está dedicado à pesquisa e desenvolvimento em várias áreas relacionadas à biotecnologia e à exploração de produtos naturais. Em suas pesquisas, concentram-se na prospecção química de plantas medicinais, bem como na realização de estudos biológicos, toxicológicos e farmacológicos dessas plantas, além de fitoterápicos, alimentos funcionais e nutracêuticos. Seu objetivo é descobrir novos compostos bioativos e compreender seus efeitos no corpo humano, visando contribuir para a saúde e o bem-estar da população. Além disso, adotam o zebrafish (Danio rerio) adulto como um método alternativo ao uso de roedores em testes neuro farmacológicos. Essa abordagem permite realizar pesquisas de forma ética e eficaz, ao mesmo tempo em que se reduz o uso de animais em experimentos científicos. O LBPNB é um ambiente de pesquisa dinâmico e inovador, onde cientistas, estudantes e profissionais trabalham juntos para avançar no conhecimento e na aplicação da biotecnologia e dos produtos naturais para benefício da sociedade. EQUIPE Coordenação: Prof. Dr. Francisco Ernani Alves Magalhães (Lattes - http://lattes.cnpq.br/5147244041651721)",
+    "email": "ernani.magalhaes@uece.br",
+    "telefone": "(88) 3437.1772",
+    "site": "www.uece.br/",
+    "area": "Ciências Exatas e da Terra; Ciências Biológicas, Engenharia / Tecnologia; Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Educação, Ciências e Tecnologia da Região dos Inhamuns (CECITEC)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO, PESQUISA E EXTENSÃO EM BIOLÓGICAS - LEPECBIO",
+    "descricao": "O LEPECBIO promove a integração dinâmica entre ensino, pesquisa e extensão. Suas atividades educacionais englobam aulas teóricas e práticas nas áreas de Microbiologia, Biologia Celular, Biologia Molecular, Biotecnologia, Bioquímica, Imunologia, e Técnicas de Transmissão do Conhecimento Biológico. Oferecem também estágios supervisionados e desenvolvem materiais didáticos inovadores, como manuais e jogos educativos, para enriquecer o processo de aprendizagem. Em pesquisa, dedica-se ao isolamento de leveduras com potencial biotecnológico, à prospecção de agentes microbianos para controle biológico de patógenos em frutos tropicais, análises microbiológicas de águas e alimentos, e à busca por produtos químicos naturais com propriedades antimicrobianas. Na vertente de extensão oferta de cursos e minicursos em microscopia e microbiologia para professores e alunos da Educação Básica, além da formação de parcerias estratégicas com escolas e institutos educacionais para o desenvolvimento de atividades formativas complementares.",
+    "email": "jaqueline.lima@uece.br",
+    "telefone": "(88) 3691.0822",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação e Ciências Integradas de Crateús (FAEC) - Curso de Ciências Biológicas"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOQUÍMICA E EXPRESSÃO GÊNICA - LABIEX",
+    "descricao": "O LABIEX dedica-se à pesquisa pré-clínica experimental, focado em modelos experimentais de diabetes, Alzheimer, imobilização de membros e exercício físico. Especializa-se em biologia molecular, incluindo análise de expressão gênica e terapias moleculares para diabetes, além de avançados estudos ômicos como transcriptômica, proteômica e bioinformática. Realizam análises bioquímicas de enzimas, imuno-histoquímica e reação em cadeia da polimerase. No campo da Fisiologia da Reprodução, empregam biotécnicas inovadoras para maximizar o potencial reprodutivo, complementadas por pesquisas com ovócitos de diversos mamíferos no laboratório de cultura de células. Avaliam produtos naturais, como jenipapo e cana-de-açúcar, em energéticos para atletas, investigam demência e Alzheimer, além disso, estudam a cicatrização de feridas e queimaduras com o uso de matrizes 3D em bioplotters, em colaboração com o Hemoce.",
+    "email": "vania.ceccatto@uece.br",
+    "telefone": "(85) 3101.9928",
+    "site": "www.uece.br///",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas - ISCB"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA DA REPRODUÇÃO DE PEIXES - LBRP",
+    "descricao": "O LBRP dedica-se à pesquisa avançada na biologia e biotecnologia da reprodução de espécies aquáticas, incluindo peixes de água doce e marinhos, o LBRP também se debruça sobre o estudo de organismos como pepinos do mar, camarões e tartarugas marinhas. Suas principais linhas de pesquisa englobam o desenvolvimento de técnicas inovadoras para a criopreservação de sêmen, ovócitos e embriões de animais aquáticos, visando tanto a preservação de espécies ameaçadas quanto o suporte à aquicultura sustentável.",
+    "email": "sandra.salmito@uece.br",
+    "telefone": "(85) 3101-9851",
+    "site": "https://www.uece.br/nib/institucional/laboratorio-de-biotecnologia-da-reproducao-de-peixes-lbrp/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS) - curso de Ciências Biológicas"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO DO CURSO DE LICENCIATURA PLENA EM CIÊNCIAS BIOLÓGICAS",
+    "descricao": "O laboratório é um centro dinâmico de iniciação científica, extensão e monitoria, dedicado a enriquecer a experiência educacional de alunos do ensino fundamental e médio através de atividades práticas e interativas em Biologia.",
+    "email": "silvio.cesar@uece.br",
+    "telefone": "(88) 3437.1772",
+    "site": "www.uece.br///",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Educação, Ciência e Tecnologia da Região dos Inhamuns (CECITEC)"
+  },
+  {
+    "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS - LASID",
+    "descricao": "O LASID dedica-se ao desenvolvimento de sistemas avançados, tanto em hardware quanto em software, especializado em processamento de alta demanda para aplicações em computação científica, incluindo dinâmica dos fluidos computacional (CFD), análise genômica e inteligência artificial. Oferecem consultoria especializada para projetos de grande porte em infraestrutura de comunicações e desenvolvimento de software.",
+    "email": "marcial.fernandez@uece.br",
+    "telefone": "(85) 3101-9776",
+    "site": "www.uece.br/lasid",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOLOGIA ENDÓCRINA E METABOLISMO - LAFEM",
+    "descricao": "O LAFEM dedica-se ao estudo avançado dos impactos de compostos bioativos presentes em plantas e alimentos sobre a homeostase redox e a funcionalidade mitocondrial. Seu trabalho envolve uma abordagem integrada que inclui a avaliação da função mitocondrial, análise de expressão gênica e proteica, medições hormonais, e a identificação de marcadores sanguíneos relacionados à inflamação e ao estresse oxidativo.",
+    "email": "ariclecio.oliveira@uece.br",
+    "telefone": "(85) 3101-9928",
+    "site": "www.uece.br///",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas (ISCB)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM AVICULTURA INDUSTRIAL - LEPAVI",
+    "descricao": "O LEPAVI dedica-se à pesquisas em ciências da avicultura industrial, com foco em genética, nutrição, manejo e condições ambientais ideais para aves. Seu trabalho inclui avaliações comparativas de diferentes linhagens de frangos de corte e a eficácia de aditivos nutricionais específicos para aves, contribuindo para avanços significativos no setor avícola.",
+    "email": "walbens.benevides@uece.br",
+    "telefone": "(85) 3101.9862",
+    "site": "www.uece.br/// / Instagram: @geavi.favet",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia / Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE POLISSACARÍDEOS BIOATIVOS - LAPOBIO",
+    "descricao": "O LAPOBIO realiza pesquisas na área de Bioquímica, com ênfase em Bioquímica vegetal, atuando principalmente nos seguintes temas: purificação e caracterização química de polissacarídeos de algas marinhas e plantas superiores, visando a avaliação dos seus efeitos biológicos in vitro, ex vivo e in vivo. O laboratório realiza a extração, purificação por processos cromatográficos e análise química de polissacarídeos obtidos de planta, além de realizar testes destas moléculas em eventos da hemostasia (coagulação sanguínea, agregação plaquetária e em modelos de trombose).",
+    "email": "mariag.pereira@uece.br",
+    "telefone": "(88) 3445-1039/ (85) 3101-9919",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central-FECLESC"
+  },
+  {
+    "nome": "LABORATÓRIO DE ISOPODA - LABISO",
+    "descricao": "O Laboratório de Isopoda (LABISO) é um centro de pesquisa especializado na biodiversidade de crustáceos neotropicais, com um foco particular na ordem Isopoda, especialmente na subordem Oniscidea. O LABISO é reconhecido por suas contribuições significativas para o campo da biodiversidade de crustáceos.",
+    "email": "leila.souza@uece.br",
+    "telefone": "(85) 3101-9800",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA E GENÔMICA - BIOGEN",
+    "descricao": "O Laboratório de Biotecnologia e Genômica (BIOGEN) é um centro de excelência dedicado à pesquisa e desenvolvimento nas áreas de bioinformática, edição de genes, terapia gênica e avaliação da expressão gênica. Além disso, ministramos disciplinas nas áreas de biotecnologia, bioquímica e biologia molecular.",
+    "email": "flavio.saraiva@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia,  Ciências da Saúde e Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS), Curso de Ciências Biológicas"
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOFARMACOLOGIA CARDIOVASCULAR E RENAL - LAFCAR",
+    "descricao": "O LAFCAR conduz pesquisas nas áreas de Fisiologia, Farmacologia, Segurança Farmacológica e Toxicologia, bem como Análises Bioquímicas. O laboratório, ao integrar métodos de pesquisa inovadores, busca contribuir significativamente para o entendimento e aprimoramento desses campos, visando benefícios tanto para a comunidade científica quanto para a sociedade em geral.",
+    "email": "nilberto.nascimento@uece.br",
+    "telefone": "(85) 3101-9836",
+    "site": "https://www.uece.br/iscb/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas - ISCB"
+  },
+  {
+    "nome": "LABORATÓRIO DE PRÁTICAS DE ENSINO EM MICROBIOLOGIA - LABPEM",
+    "descricao": "O LAURA é um laboratório focado em pesquisas de inteligência computacional, abrangendo diversas áreas como aprendizado de máquina, reconhecimento de padrões, mineração de dados, processamento de sinais, representação do conhecimento, arquiteturas cognitivas de agentes artificiais inteligentes e organizações de agentes, além de oferecer suporte à tomada de decisão. Desenvolvemos soluções de inteligência artificial para empresas e institutos de ciência e tecnologia. EQUIPE Coordenação: Profª. Drª. Ana Luiza Bessa de Paula Barros (Lattes - http://lattes.cnpq.br/4504336463519520)",
+    "email": "analuiza.barros@uece.br",
+    "telefone": "(85) 3101-9776",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ELETROFISIOLOGIA - LEF",
+    "descricao": "Os grupos de estudos focam principalmente nas alterações na eletrofisiologia neuronal relacionadas a doenças degenerativas como o diabetes, com ênfase nos canais iônicos. Eles investigam o sistema sensorial somático e o nervoso autônomo nesse contexto, mostrando alterações na condução nervosa e em outras propriedades em modelos murinos de diabetes. Além disso, estudam o efeito de óleos essenciais de plantas medicinais nordestinas, como a canela de cunhã, marmeleiro vermelho, colônia, alfavaca e menta rasteira, demonstrando sua eficácia farmacológica, analgésica e anti-inflamatória, com baixa toxicidade. Esses estudos destacam a importância das plantas do Nordeste e contribuem para a formação de recursos humanos. O grupo também ministra aulas práticas de Biofísica para diversos cursos de graduação na UECE. EQUIPE Coordenação: Profª. Drª. Kerly Shamyra da Silva Alves (Lattes - http://lattes.cnpq.br/7139414606610950)/ Prof. Dr. José Henrique Leal Cardoso (prof. Emérito) (Lattes - http://lattes.cnpq.br/7139414606610950)",
+    "email": "kerly.shamyra@uece.br",
+    "telefone": "(85) 3101-9814",
+    "site": "http://uece.br/lef",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Pesquisa",
+    "vinculado": "Instituto Superior de Ciências Biomédicas/ Programa de Pós-Graduação em Ciências Fisiológicas"
+  },
+  {
+    "nome": "LABORATÓRIO DE BOTÂNICA - LABOTAN",
+    "descricao": "O Laboratório de Botânica (LABOTAN) tem se dedicado nos últimos anos a uma variedade de pesquisas e projetos abrangentes. Suas áreas de foco incluem estudos florísticos no Parque do Cocó, com especial atenção para as famílias Fabaceae, Poaceae e Cyperaceae, bem como análises detalhadas da anatomia vegetal, com ênfase no escapo e plântulas de Poaceae. Além disso, o laboratório está envolvido em projetos de arborização urbana em cidades do interior do Ceará, em colaboração com a EAD/UAB/UECE. Possui expertise em Etnobotânica e métodos de ensino ativo para Botânica. EQUIPE Coordenação: Profª. Drª. Roselita Maria de Souza Mendes (Lattes - http://lattes.cnpq.br/7335063453695874)",
+    "email": "roselita.mendes@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ORNITOLOGIA E SISTEMÁTICA ANIMAL - LORNISA",
+    "descricao": "O LORNISA se dedica ao desenvolvimento de pesquisas de cunho ecológico, abrangendo a fauna, a flora e as complexas interações que permeiam os ecossistemas. Suas atividades incluem o levantamento da fauna em todo o estado do Ceará e o tombamento de material biológico, em estreita colaboração com o Museu de História Natural Dias da Rocha (MHNCE). Além disso, oferece apoio às atividades acadêmicas do Curso de Biologia, especialmente nas disciplinas de Ecologia, Ornitologia e Sistemática Animal, fornecendo suporte em ensino e em atividades de campo para os levantamentos de fauna no semiárido e no litoral. EQUIPE Coordenação: Prof Dr Luís Gonzaga Sales Júnior  (Lattes - http://lattes.cnpq.br/4467354053813520 )",
+    "email": "luis.gonzaga@uece.br",
+    "telefone": "(85) 3001-1816",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ENTOMOLOGIA - LABENT",
+    "descricao": "O Laboratório de Entomologia (LABENT) se dedica à pesquisa em três eixos complementares, utilizando insetos sociais, especialmente formigas, como modelos experimentais. Estes eixos incluem: Padrões de Biodiversidade das Comunidades de Formigas na Caatinga: Investigação de inventários, estruturas de comunidades e outros aspectos relacionados à diversidade de formigas neste bioma. História Natural, Comportamento e Ecologia de Espécies Nativas de Formigas da Caatinga: Estudo aprofundado do comportamento, ecologia e história natural das formigas nativas da região. Ecologia Química das Formigas da Caatinga: Análise dos semioquímicos e seus papéis na regulação dos comportamentos sociais das formigas, incluindo a composição química, atividades biológicas e fontes de produção desses semioquímicos, como venenos. O LABENT é detentor de uma valiosa coleção de formigas, composta por mais de 400 espécies, principalmente do estado do Ceará. Essa coleção, acumulada desde 2001 por meio de diversos projetos de pesquisa, serve como um recurso vital para estudos taxonômicos e para futuras pesquisas sobre a biodiversidade dos ecossistemas cearenses e nordestinos em geral. EQUIPE Coordenação: Prof. Dr. Yves Patric Quinet (Lattes - http://lattes.cnpq.br/0636337052720563)",
+    "email": "yves.quinet@uece.br",
+    "telefone": "(85) 3101-9749",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Pesquisa",
+    "vinculado": "Vinculado ao Instituto Superior de Ciências Biomédicas (ISCB)"
+  },
+  {
+    "nome": "LABORATÓRIO DE CIÊNCIAS DA NATUREZA - LACIN",
+    "descricao": "O Laboratório de Ciências da Natureza (LACIN) dedica-se à pesquisa especializada na purificação de proteínas extraídas de espécies vegetais nativas do Semiárido nordestino. Seu foco está na caracterização detalhada dessas proteínas e na exploração de seu potencial em aplicações biotecnológicas. EQUIPE Coordenação: Prof. Dr. Bruno Lopes de Sousa (Lattes - http://lattes.cnpq.br/4253694407886114)",
+    "email": "brunolopes.sousa@uece.br",
+    "telefone": "(88) 3423.6962",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM)"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOTECNOLOGIA E BIOLOGIA MOLECULAR - LBBM",
+    "descricao": "O Laboratório de Biotecnologia e Biologia Molecular (LBBM) destaca-se nacionalmente por suas pesquisas pioneiras na produção de proteínas recombinantes em sistemas vegetais, com ênfase no desenvolvimento de diagnósticos e vacinas para Doenças Tropicais Negligenciadas. Além disso, o LBBM investiga o potencial fitoquímico e biológico de plantas do bioma Caatinga, realizando a extração, purificação e caracterização de metabólitos secundários com aplicação no tratamento de Doenças Crônicas Não Transmissíveis (DCNTs). O laboratório também avalia os efeitos biológicos de moléculas sintéticas em modelos in vitro e in vivo.",
+    "email": "izabel.guedes@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia;Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde"
+  },
+  {
+    "nome": "LABORATÓRIO DE FORMAÇÃO DE PROFESSORES - LAFORP",
+    "descricao": "O Laboratório de Formação de Professores (LAFORP) concentra-se no aprimoramento do ensino e aprendizagem de Ciências e Biologia, além da formação inicial e contínua de professores para o campo da Educação em Ciências Biológicas. Explora a Pedagogia Sistêmica como uma abordagem integral para o desenvolvimento profissional dos educadores. Suas atividades incluem a organização do MONOBIO e do ENESSUP, eventos que proporcionam a apresentação dos trabalhos de conclusão de curso e a troca de experiências de estágio, respectivamente EQUIPE Coordenação: Profª. Drª.Jeanne Barros Leal de Pontes Medeiros (Lattes - http://lattes.cnpq.br/0916448786695904)",
+    "email": "jeanne.pontes@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "https://www.uece.br/ccs/laforp/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE PALEONTOLOGIA - LABPALEO",
+    "descricao": "O Laboratório de Paleontologia (LABPALEO) dedica-se ao emprego de metodologias ativas no ensino dessa disciplina fascinante, buscando inovar constantemente no processo de aprendizagem. Uma de suas principais atividades é a organização da coleção de fósseis do LABPALEO, visando seu uso didático e aprimoramento do conhecimento paleontológico. EQUIPE Coordenação: Prof. Dr. Valberto Barbosa Porto (Lattes -  http://lattes.cnpq.br/6301137308237185)",
+    "email": "valberto.porto@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO INTEGRADO DE ENSINO, BOTÂNICA E ECOLOGIA - LIEBE",
+    "descricao": "O LIEBE é dedicado a diversas áreas de pesquisa e prática, abrangendo biologia e ciências, com um foco especial na botânica e ecologia do Sertão Central.",
+    "email": "vaneicia.gomes@uece.br",
+    "telefone": "(88) 3445-1036 / (88) 3445-1039",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central"
+  },
+  {
+    "nome": "LABORATÓRIO DE ECOLOGIA - LABOECO",
+    "descricao": "O LABOECO é um laboratório de pesquisa da UECE focado em ecologia, especialmente nos ecossistemas da Caatinga. Suas áreas de pesquisa incluem bioprospecção de plantas da Caatinga, ecologia de halófitas, invasões biológicas e alelopatia. O laboratório busca entender a biodiversidade local, promover seu uso sustentável e contribuir para estratégias de conservação. Com uma equipe dedicada e comprometida com a excelência científica, o LABOECO é um ambiente colaborativo e aberto à participação de estudantes, pesquisadores e parceiros interessados em contribuir para o avanço da ecologia e da conservação ambiental. EQUIPE Coordenação: Prof. Dr. Oriel Herrera Bonilla(Lattes - https://lattes.cnpq.br/1987220130978704)",
+    "email": "oriel.herrera@uece.br",
+    "telefone": "(85) 3101-9952",
+    "site": "http://uece.br/laboec",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências Agrárias",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOLOGIA CELULAR E BIOENERGÉTICA - LABIOCEL",
+    "descricao": "O Laboratório de Biologia Celular e Bioenergética (LABIOCEL) é um centro de pesquisa na UECE dedicado à investigação de diversos temas relacionados à biologia celular, bioenergética e educação em biologia. Seu trabalho abrange várias linhas de pesquisa, incluindo: 1.   Citotoxicidade e Alelopatia de Plantas Regionais: Investiga os efeitos citotóxicos e alelopáticos de plantas regionais utilizadas como fitoterápicos, contribuindo para o conhecimento e a valorização da biodiversidade local. 2.   Efeitos de Estresses Osmóticos, Hídricos e Oxidativos em Colheitas da Região Nordeste: Estuda os efeitos dos estresses osmóticos, hídricos e oxidativos em culturas agrícolas próprias da região Nordeste, visando desenvolver estratégias de manejo e adaptação às condições ambientais adversas. 3.   Ensino e Aprendizagem em Biologia: Investiga abordagens e estratégias teórico-metodológicas relacionadas ao ensino e à aprendizagem de Biologia no contexto do ensino básico. O objetivo do laboratório é promover práticas pedagógicas inovadoras e eficazes para a educação científica. 4.   Desenvolvimento de Pesquisas em Diversos Temas: O laboratório também se dedica a pesquisas em temas como biodiversidade, ecologia, educação ambiental, botânica, espaços não escolares no ensino de Biologia, novas práticas e estratégias pedagógicas, além da produção e avaliação de recursos didáticos-pedagógicos para o ensino de Biologia.",
+    "email": "maria.aragao@uece.br",
+    "telefone": "(85) 3101-9996",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia;Ciências Humanas,",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ECOFISIOLOGIA VEGETAL - ECOFISIO",
+    "descricao": "O Laboratório de Ecofisiologia Vegetal (ECOFISIO) é um centro de pesquisa da UECE dedicado ao estudo da fisiologia das plantas, com especial atenção às espécies nativas. Seu foco principal está na compreensão dos processos fisiológicos que regem o crescimento, desenvolvimento e adaptação das plantas em seus ambientes naturais. Suas atividades abrangem uma variedade de áreas, incluindo estudos detalhados sobre fenologia, fisiologia de sementes e o comportamento pós-colheita de frutos nativos. Além disso, está engajado na pesquisa de Plantas Alimentícias Não Convencionais (PANCs) e plantas bioativas, explorando seu potencial nutricional e medicinal. O ECOFISIO desempenha um papel crucial no ensino de botânica, fornecendo aos estudantes uma base sólida em fisiologia vegetal e promovendo a compreensão da importância das plantas em nosso ambiente. EQUIPE Coordenação: Prof. Dr. Eliseu  Marlônio  Pereira de Lucena(Lattes - http://lattes.cnpq.br/2639402429072222)",
+    "email": "eliseu.lucena@uece.br",
+    "telefone": "(85) 3101-9737",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOFARMACOLOGIA DA INFLAMAÇÃO - LAFFIN",
+    "descricao": "O MHNCE-HER é um espaço de pesquisa e preservação da diversidade vegetal. Realiza estudos abrangentes, incluindo taxonomia vegetal, florística, fitossociologia, fitogeografia, morfologia e anatomia vegetal. Além disso, suas atividades se estendem para a ecofisiologia vegetal, ecologia vegetal e etnobotânica. Também desempenhamos um papel essencial no ensino em botânica. Seu herbário abriga uma extensa coleção de espécimes botânicos, que servem como uma importante fonte de dados para pesquisas científicas e contribuem para a conservação da flora regional. EQUIPE Coordenação: Prof. Dr. Eliseu Marlônio Pereira de Lucena (Lattes - http://lattes.cnpq.br/ 2639402429072222)",
+    "email": "eliseu.lucena@uece.br",
+    "telefone": "(85) 3101-9737",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas / Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOLOGIA DA FACEDI - LABIO",
+    "descricao": "O LABIO é um espaço dinâmico e essencial para o enriquecimento da formação acadêmica dos estudantes. Nele, as atividades de ensino, pesquisa e extensão se entrelaçam, proporcionando uma experiência educativa completa. O laboratório oferece aulas práticas não apenas para os alunos de Licenciatura em Ciências Biológicas, mas também para os de outros cursos da FACEDI. Além disso, o laboratório é o cenário de cursos, oficinas e palestras que abordam projetos de ensino, pesquisa e extensão, fornecendo uma formação complementar valiosa em áreas como biotecnologia, bioquímica e genética. EQUIPE Coordenação: Profª. Drª. Luciana dos Santos Dias de Oliveira (Lattes - http://lattes.cnpq.br/3252069686726606)",
+    "email": "luciana.dias@uece.br",
+    "telefone": "(88) 3673.7051",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia",
+    "natureza": "Misto",
+    "vinculado": "Centro de Educação (CED)"
+  },
+  {
+    "nome": "LABORATÓRIO INTERDISCIPLINAR DE FORMAÇÃO DE EDUCADORES -",
+    "descricao": "No Laboratório Interdisciplinar de Formação de Educadores (LIFE), está comprometidos em promover atividades e pesquisas de vanguarda no campo do ensino e da educação, alinhadas com as diversas temáticas abordadas pelos cursos oferecidos pela FAEC. Seu escopo de trabalho inclui áreas como o ensino de zoologia, o uso de tecnologias na educação, e a promoção da educação inclusiva, entre outros temas relevantes. No LIFE, é oferecido um amplo suporte para a realização de práticas pedagógicas e experimentais, abrangendo todos os cursos regulares e presenciais oferecidos pela FAEC/UECE. Sua equipe está disponível para orientar e auxiliar professores e alunos na concepção e execução de atividades laboratoriais e pedagógicas, garantindo uma experiência de aprendizado enriquecedora e inovadora. O laboratório está empenhado em proporcionar um ambiente colaborativo e estimulante, onde a excelência acadêmica e a inovação pedagógica sejam cultivadas e incentivadas. No LIFE, busca-se constantemente contribuir para o aprimoramento da formação de educadores, preparando-os para enfrentar os desafios do mundo contemporâneo com criatividade, competência e compromisso com a qualidade educacional. EQUIPE Coordenação: Profª. Drª. Shirliane de Araújo Sousa (Lattes -  http://lattes.cnpq.br/2200714446070634)",
+    "email": "shirliane.araujo@uece.br",
+    "telefone": "(88) 3692.3513",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Educação de Crateús (FAEC)"
+  },
+  {
+    "nome": "LABORATÓRIO DE MICROBIOLOGIA - LAMIC",
+    "descricao": "O Laboratório de Microbiologia (LAMIC) é um espaço dedicado à pesquisa em Microbiologia, com especial ênfase na Qualidade do Ar Interno, particularmente em ambientes urbanos. Seu principal foco de investigação é a Aerobiologia Fúngica, onde explora a presença e o impacto dos fungos no ar que respiramos, visando uma compreensão mais aprofundada dos riscos à saúde e das estratégias de mitigação.Além disso, o LAMIC realiza pesquisas no campo do Repositório de Material Didático, buscando desenvolver e aprimorar recursos educacionais inovadores para o ensino de Microbiologia e disciplinas afins. Sua equipe está constantemente empenhada em produzir materiais didáticos de qualidade, que promovam uma aprendizagem eficaz e envolvente para estudantes e profissionais da área.O laboratório conta com uma infraestrutura simples e uma equipe dedicada, pronta para conduzir pesquisas de alta qualidade e oferecer suporte acadêmico e técnico em Microbiologia. Está comprometidos em contribuir para avanços no campo da Qualidade do Ar Interno e Ensino de Microbiologia, tanto em termos de pesquisa científica quanto de educação, promovendo um entendimento mais profundo e abrangente do mundo microbiano que nos rodeia.",
+    "email": "lydia.pantoja@uece.br",
+    "telefone": "(85) 3101-9928",
+    "site": "www.uece.br/",
+    "area": "Ciências Biológicas, Engenharia / Tecnologia; Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE SAÚDE COLETIVA E INOVAÇÃO - LASCI",
+    "descricao": "O Lasci agrega pesquisadores, estudantes e trabalhadores com foco no aprofundamento da discussão da temática da Atenção Primária à Saúde (APS) desde sua implantação assim como de suas ações, serviços e fluxos que possam atender as necessidades da população, de forma a reconhecer as produções e os caminhos para (re)pensar essa produção pela via coletiva dos espaços menores, muitas vezes (in)visibilizados e inaudíveis na escuta, entendendo as forças que habitam essa diversidade de lugares e operam atos fundamentais no campo micropolítico. Neste sentido, promove a construção de pesquisas relevantes e inovadoras para o sistema de saúde, visando a melhora da formação em saúde coletiva e enfermagem. E com articulação da extensão, visa aproximar a universidade dos territórios por ela influenciados, contribuindo com a melhoria da qualidade de vida da população por meio do fortalecimento das redes de atenção à saúde.",
+    "email": "grupofrida@uece.br",
+    "telefone": "(85) 3101-9826",
+    "site": "www.uece.br///",
+    "area": "Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde (CCS) - Programa de Pós-graduação em Saúde Coletiva"
+  },
+  {
+    "nome": "LABORATÓRIO DE CROMOLOGIA, COR, LUZ E ARTE NA SAÚDE - LabCrom",
+    "descricao": "O LabCrom dedica-se ao ensino, à pesquisa e à extensão no campo da Cromologia, a ciência que explora os fenômenos da luz e da cor. Suas atividades se concentram em três eixos principais: Saúde, Arte e Cultura. O laboratório é pioneiro na elaboração de ferramentas didáticas para o ensino da luz e da cor, além de desenvolver tintas de baixo custo com o objetivo de tornar a arte mais acessível em ambientes educacionais. Investigam também os impactos da luz e da cor no bem-estar humano, buscando contribuições significativas para a área da saúde.",
+    "email": "manye.solari@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br///",
+    "area": "Ciências da Saúde / Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Ciências da Saúde (CCS) - Curso de Terapia Ocupacional"
+  },
+  {
+    "nome": "LABORATÓRIO DE BIOQUÍMICA HUMANA",
+    "descricao": "O LAGIS subsidia a gestão do cuidado em saúde, desenvolvendo pesquisas de interesses dos gestores da saúde e da população. O laboratório realiza cursos de pesquisa para os profissionais de saúde, com divulgação de temas relevantes desenvolvidos por alunos e docentes da UECE, com relevância científica presencial ou remotamente, por meio da tecnologia da informação e comunicação.",
+    "email": "webradio.lagis@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "https://www.uece.br/ccs/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde - CCS"
+  },
+  {
+    "nome": "LABORATÓRIO DE TOXINOLOGIA E FARMACOLOGIA MOLECULAR - LABTOX",
+    "descricao": "O LABTOX desenvolve analgésicos destinados ao tratamento de dores crônicas e neuropáticas. Sua pesquisa visa criar soluções inovadoras e eficazes para aliviar o desconforto associado a essas condições, proporcionando assim melhorias significativas na qualidade de vida dos pacientes. Com um compromisso sólido com a inovação farmacêutica, o laboratório busca contribuir para avanços significativos no campo da gestão da dor, visando um impacto positivo e duradouro na saúde e bem-estar das pessoas.",
+    "email": "krishnamurti.carvalho@uece.br",
+    "telefone": "(85) 3101.9928",
+    "site": "https://www.uece.br/iscb/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Instituto Superior De Ciências Biomédicas - ISCB"
+  },
+  {
+    "nome": "LABORATÓRIO DE INOVAÇÃO EM SAÚDE DA MULHER, CRIANÇA E ADOLESCENTE - INOVAS",
+    "descricao": "O laboratório está focado no desenvolvimento de habilidades de comunicação entre médicos, pacientes, famílias e comunidades, bem como na prevenção e controle do Aedes Aegypti. Além disso, oferece formação permanente em autocuidado para pacientes com doenças crônicas e se dedica à saúde em áreas indígenas. Uma das principais atividades é a gestão de banco de dados do Consórcio Internacional de Pesquisa em Avaliação do Risco, Gestão e Vigilância de Dengue. Essas iniciativas visam promover o bem-estar da comunidade e contribuir para avanços significativos na área da saúde. EQUIPE Coordenação: Prof. Dr. Andrea Caprara (Lattes -  http://lattes.cnpq.br/1140467350071168)",
+    "email": "andrea.caprara@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE EPIDEMIOLOGIA E SAÚDE PÚBLICA – LABESP",
+    "descricao": "O LabESP é um centro dedicado à realização de estudos epidemiológicos voltados principalmente para a Atenção Básica em saúde, visando desenvolver políticas e intervenções que promovam o bem-estar da população. Tem como compromisso conduzir pesquisas científicas de ponta em Epidemiologia e Saúde Pública, bem como padronizar técnicas e métodos epidemiológicos aplicáveis na esfera da Saúde Pública. Além disso, o laboratório serve como campo de formação acadêmica, acolhendo estudantes de graduação e pós-graduação em programas de iniciação científica, mestrado e doutorado. O laboratório também se dedica à divulgação de conhecimento científico atualizado em Epidemiologia e Saúde Pública, tanto para estudantes quanto para profissionais da área de saúde. EQUIPE Coordenação: Prof. Dr. Marcelo Gurgel Carlos da Silva (Lattes - http://lattes.cnpq.br/4246978868948407)",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde (CCS), Curso de Medicina"
+  },
+  {
+    "nome": "LABORATÓRIO DE REVISÃO SISTEMÁTICA - LABREV",
+    "descricao": "O Laboratório de Revisão Sistemática (LABREV) é um centro de excelência dedicado à pesquisa nas áreas da saúde, com foco em doenças crônicas, epidemiologia das doenças renais, hipertensão e condições de saúde da população. Além disso, investiga a relação entre atividade física, práticas esportivas e a saúde da população, abrangendo estudantes, adolescentes e adultos. Suas pesquisas incluem a síntese de evidências através de Revisões Sistemáticas, Revisões de Escopo e outros tipos de síntese de evidências. Também realiza atividades de educação em saúde e cursos de formação permanente em Métodos de Síntese de Evidências. EQUIPE Coordenação: Profª. Drª. Paula Frassinetti Castelo Branco Camurça Fernandes (Lattes - http://lattes.cnpq.br/9142674624906727)",
+    "email": "paula.fernandes@uece.br",
+    "telefone": "(85) 3101-9826 ou 3101-9793",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde, Curso de Medicina"
+  },
+  {
+    "nome": "LABORATÓRIO DE ANÁLISE DE ALIMENTOS E MICRONUTRIENTES - LAAM",
+    "descricao": "O Laboratório de Análise e Microbiologia (LAMICRO) desempenha um papel multifacetado, servindo como um centro de diagnóstico de infecções fúngicas em animais, facilitando a realização de aulas práticas das disciplinas de Microbiologia Veterinária e servindo como um hub de pesquisa dedicado ao estudo de fungos patogênicos em animais. EQUIPE Coordenação: Profª. Drª. Adriana De Queiroz Pinheiro (Lattes - http://lattes.cnpq.br/7370477370853508)",
+    "email": "adriana.queiroz@uece.br",
+    "telefone": "(85) 3101-9849",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATORIO DE ANALISE E MICROBIOLOGIA - LAMICRO",
+    "area": "Ciências da Saúde"
+  },
+  {
+    "nome": "LABORATÓRIO DE SEGURANÇA ALIMENTAR NUTRICIONAL - LABSAN",
+    "descricao": "O Laboratório de Segurança Alimentar e Nutricional (LABSAN) é um centro de excelência dedicado a atividades práticas e de pesquisa nas graduações e pós-graduações Lato e Stricto Sensu, além de oferecer cursos de extensão universitária na área de controle de qualidade de alimentos e segurança alimentar e nutricional. Seu foco principal reside na realização de análises microbiológicas de alimentos, garantindo a qualidade e a segurança dos produtos consumidos pela população. EQUIPE Coordenação: Profª. Drª. Derlange Belizario Diniz (Lattes - https://lattes.cnpq.br/4513443931044151)",
+    "email": "labsan.ccs@uece.br",
+    "telefone": "(85) 31019819",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE CRONICIDADES, TECNOLOGIAS E INOVAÇÃO - LACTI",
+    "email": "lacti@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "http: //grupecce.blogspot.com",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Vinculado ao Centro de Ciências da Saúde"
+  },
+  {
+    "nome": "LABORATÓRIO DE AVALIAÇÃO NUTRICIONAL - LANUT",
+    "descricao": "O Laboratório de Avaliação Nutricional (LANUT) é um espaço dedicado ao ensino e à pesquisa, vinculado ao curso de Nutrição da UECE. Ele desempenha um papel fundamental no desenvolvimento das aulas práticas da disciplina de avaliação nutricional, oferecida no quinto período do curso. No LANUT, os alunos têm a oportunidade de realizar atividades práticas, incluindo a demonstração e o treinamento de medidas antropométricas e a investigação do consumo alimentar. Essas práticas visam capacitar os estudantes para o diagnóstico do estado nutricional de indivíduos e populações, contribuindo para sua formação acadêmica e profissional. Além de sua função primordial como laboratório de ensino, o LANUT também é um ambiente propício para atividades de pesquisa, sendo realizado desde treinamentos de entrevistadores até a coleta de dados, utilizando materiais específicos disponibilizados para esses fins. Essa integração entre ensino e pesquisa enriquece a experiência dos alunos e promove a produção científica na área da nutrição. O Laboratório também está aberto para atividades de estágio e extensão, mediante solicitação de professores do curso, proporcionando oportunidades adicionais de aprendizado e aplicação prática do conhecimento adquirido em sala de aula. EQUIPE Coordenação: Prof. Dra. Nara de Andrade Parente (Lattes - http://lattes.cnpq.br/2686705981942582)",
+    "email": "nara.andrade@uece.br",
+    "telefone": "(85) 3101-9813",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde",
+    "natureza": "Ensino",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE METODOLOGIA DA PESQUISA EM SAÚDE E ENFERMAGEM",
+    "descricao": "O Núcleo de Ensino e Pesquisa em Alimentação Coletiva (NEPAC) é um centro de excelência na promoção de debates, estudos e ações voltadas para a área de alimentação coletiva. Seu objetivo é fomentar discussões sobre a importância e abrangência da atuação nesse campo, envolvendo docentes, discentes, profissionais de nutrição e áreas afins. Produção de Estudos e Diagnósticos: Realiza estudos e diagnósticos para compreender melhor os desafios e oportunidades na área de alimentação coletiva, contribuindo para o desenvolvimento de políticas e práticas mais eficazes. Divulgação de Trabalhos Acadêmicos: Cria condições para que os trabalhos acadêmicos produzidos na área sejam divulgados, visando contribuir para o avanço do conhecimento e a implementação de políticas de alimentação coletiva.",
+    "email": "clarice.araujo@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE SEGURIDADE SOCIAL E SERVIÇO SOCIAL - LASSOSS",
+    "descricao": "O Laboratório de Seguridade Social e Serviço Social (LASSOSS) da UECE é um centro de pesquisa dedicado ao estudo das políticas e práticas de saúde, participação e movimentos sociais, bem como às questões relacionadas à previdência, trabalho e serviço social. Além disso, investigamos a questão social, a assistência e as políticas sociais, buscando compreender suas dinâmicas e impactos na sociedade contemporânea.",
+    "email": "virginia.assuncao@uece.br",
+    "telefone": "(85) 3101-9757",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde; Ciências Sociais; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO GENÉTICA MÉDICA - LAGEM",
+    "descricao": "O Laboratório de Genética Médica (LAGEM) é um centro de excelência especializado em pesquisas avançadas em células-tronco e genética molecular. Suas atividades incluem a análise de proteínas e a investigação de novas doenças genéticas, com o apoio de um Banco de DNA. Seu objetivo é contribuir para o avanço do conhecimento e diagnóstico preciso de condições genéticas, visando o desenvolvimento de tratamentos mais eficazes e personalizados para melhorar a saúde e qualidade de vida das pessoas. EQUIPE Coordenação: Profª. Drª. Maria Denise Fernandes Carvalho de Andrade (Lattes -  http://lattes.cnpq.br/1093806094902957)",
+    "email": "denise.carvalho@uece.br",
+    "telefone": "(85) 3101-9928",
+    "site": "https://www.uece.br/ppgcf/salas-e-laboratorios/laboratorio-de-genetica-medica/",
+    "area": "Ciências da Saúde",
+    "natureza": "Misto",
+    "vinculado": "Instituto de Ciências Biomédicas"
+  },
+  {
+    "nome": "LABORATÓRIO DE PRÁTICAS COLETIVAS EM  SAÚDE - LAPRACS",
+    "descricao": "O LAPRACS é um espaço dedicado ao ensino, pesquisa e extensão na área da saúde. Em termos de extensão, desenvolve-se projetos como a web rádio AJIR (Associação dos Jovens de Irajá) e o Ambulatório de Saúde Mental e Coletiva. Na área de pesquisa, atua em um projeto financiado pelo CNPq, em parceria com a UERJ, que investiga a relação entre COVID-19 e a Enfermagem em nível nacional. Além disso, conduz diversas outras pesquisas provenientes de projetos de mestrado e doutorado dos alunos. EQUIPE Coordenação: Profª. Drª. Lucilane Maria Sales da Silva (Lattes -  http://lattes.cnpq.br/0607966051343374 )",
+    "email": "lucilane.sales@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências da Saúde; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Vinculado ao Centro de Ciências da Saúde curso de Enfermagem"
+  },
+  {
+    "nome": "LABORATÓRIO DE SOCIEDADES, SUBJETIVIDADES E HUMANISMO - LASSU",
+    "descricao": "O Lassu tem como foco pesquisas e ações sobre a sociedade e a construção de subjetividades por meio da compreensão de Psicologias com base em correntes Humanistas e atualmente tem centralizado suas ações na temática da violência contra mulher. Atualmente, o laboratório está envolvido em projetos que incluem: A.        Extensão de Plantão Psicológico com Mulheres Vítimas de Violência: Oferece apoio psicológico a mulheres que enfrentam situações de violência doméstica e de gênero. B.        Grupo Psicoeducativo com",
+    "email": "layza.mendes@uece.br",
+    "telefone": "(85) 3101.9987",
+    "site": "www.uece.br/ch/",
+    "area": "Ciências da Saúde, Ciências Sociais, Ciências Humanas",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades - CH"
+  },
+  {
+    "nome": "LABORATÓRIO DE DIETÉTICA E ANÁLISE SENSORIAL - LADAS",
+    "descricao": "A UPTBI realiza estudos com células-tronco mesenquimais e vesículas extracelulares, além de desenvolver pesquisas inovadoras para aprimorar a criopreservação e o cultivo de tecido ovariano e testicular de animais domésticos. Essas iniciativas são fundamentais para a conservação de espécies, a reprodução assistida em medicina veterinária e oferecem valiosos insights para a medicina humana, destacando o compromisso da UPTBI com a inovação e a excelência científica. EQUIPE Coordenação: Profa. Dra. Ana Paula Ribeiro Rodrigues (Lattes - http://lattes.cnpq.br/0071340809284453)",
+    "email": "anapaularibeirorodrigues@gmail.com |  uptbi@uece.br",
+    "telefone": "(85) 3101-9855",
+    "site": "www.uece.br/",
+    "area": "Ciência da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Faculdade de Veterinária (FAVET) e Programa de Doutorado em Biotecnologia – Rede Nordeste de Biotecnologia (RENORBIO)"
+  },
+  {
+    "nome": "LABORATÓRIO DE FISIOLOGIA E CONTROLE DA REPRODUÇÃO - LFCR",
+    "descricao": "O LFCR está na vanguarda da biotecnologia da reprodução animal. Possui o compromisso de avançar no conhecimento e nas técnicas de reprodução, focando em uma ampla gama de espécies, incluindo caprinos, ovinos, bovinos, bubalinos e cervídeos. Por meio de pesquisas inovadoras e tecnologias avançadas, o laboratório busca soluções eficazes para otimizar a reprodução dessas espécies, contribuindo para a sustentabilidade e eficiência da pecuária. Além das atividades de pesquisa, o LFCR está comprometido com a extensão rural, oferecendo suporte e transferindo conhecimento técnico aos pecuaristas no Estado do Ceará, fomentando práticas de reprodução mais eficientes e sustentáveis.",
+    "email": "vicennte.freitas@uece.br",
+    "telefone": "(85) 3101-9861",
+    "site": "https://www.uece.br/favet/lfcr/",
+    "area": "Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM APLICADO À REPRODUÇÃO - LADIAR",
+    "descricao": "O LADIAR dedica-se à aplicação da ultrassonografia para transplante ovariano no campo da reprodução animal. Sua especialidade inclui a realização de exames ultrassonográficos em uma vasta gama de animais, com um enfoque particular nos silvestres, contribuindo assim para avanços significativos no diagnóstico e tratamento reprodutivo.",
+    "email": "darcio.teixeira@uece.br",
+    "telefone": "(85) 3101-9855",
+    "site": "www.uece.br/",
+    "area": "Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO UNIVERSITÁRIO DE EDUCAÇÃO POPULAR, TRABALHO E MOVIMENTOS SOCIAIS - LUTEMOS",
+    "descricao": "O LUTEMOS dedica-se à investigação e ao desenvolvimento de iniciativas nas áreas de Educação do Campo, Educação Popular, Agroecologia, Questão Agrária, Trabalho e Movimentos Sociais. O laboratório também se empenha em projetos de extensão universitária e de iniciação artística, visando contribuir significativamente para a transformação social e o desenvolvimento sustentável das comunidades com as quais interage.",
+    "email": "celio.coutinho@uece.br",
+    "telefone": "(88) 3673-7051",
+    "site": "www.uece.br///",
+    "area": "Ciências Agrárias / Ciências Sociais / Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação de Itapipoca (FACEDI) - Curso de Pedagogia"
+  },
+  {
+    "nome": "LABORATÓRIO DE DOENÇAS INFECCIOSAS VETERINÁRIAS - LDIV",
+    "descricao": "O Laboratório de Doenças Infecciosas Veterinárias (LDIV) concentra-se na pesquisa relacionada às doenças infecciosas que afetam animais domésticos, com especialização na imunopatologia dessas enfermidades. Destaca-se a preparação de um projeto de extensão voltado para o atendimento e suporte diagnóstico e terapêutico de cães com Leishmaniose Canina, com início programado para o período letivo de 2024.2. EQUIPE Coordenação: Prof. Dr. Tiago Cunha Ferreira (Lattes - http://lattes.cnpq.br/3385394377627779)",
+    "email": "tiago.cunha@uece.br",
+    "telefone": "(85) 3101-9833",
+    "site": "www.uece.br/favet",
+    "area": "Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE GENÉTICA E REPRODUÇÃO EM PEIXES DULCIAQUÍCOLAS - LAGEPE",
+    "descricao": "O laboratório de Genética e Reprodução em Peixes Dulciaquícolas (LaGePe) desenvolve ensino, pesquisa e extensão em águas continentais e em temas socioculturais e de meio ambiente. Divulga resultados de estudos desenvolvidos e de eventos realizados, além de proporcionar orientações temáticas.",
+    "email": "fjarbas.sousa@uece.br",
+    "telefone": "(85) 3101.9855",
+    "site": "www.uece.br/favet | www.lagepeuece.wixsite.com/cursoead",
+    "area": "Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE VIROLOGIA - LABOVIR",
+    "descricao": "O Laboratório de Virologia (LABOVIR) se dedica à pesquisa em virologia, cultivo celular e testes sorológicos, com enfoque em sanidade animal. Suas áreas de estudo incluem Lentivirus de Pequenos Ruminantes, Vírus Rábico e outras viroses relevantes. EQUIPE Coordenação: Maria Fátima da Silva Teixeira (Lattes - http://lattes.cnpq.br/4216072021707913)",
+    "email": "maria.teixeira@uece.br",
+    "telefone": "(85) 3101-9849",
+    "site": "www.uece.br/",
+    "area": "Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE NUTRIÇÃO E PRODUÇÃO DE RUMINANTES - LANUPRUMI",
+    "descricao": "O LANUPRUMI atua com a Nutrição aplicada à reprodução e qualidade dos produtos de origem animal em ruminantes e com atividades de ensino prático na Fazenda Guaiúba EQUIPE Coordenação: Prof. Dr. Davide Rondina (Lattes - http://lattes.cnpq.br/3339176232763386)",
+    "email": "davide.rondina@uece.br",
+    "telefone": "(85) 3101-9858",
+    "site": "https://www.uece.br/ppgcv/pesquisa/laboratorios/",
+    "area": "Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária"
+  },
+  {
+    "nome": "LABORATÓRIO DE CARCINICULTURA - LACAR",
+    "descricao": "O Laboratório de Carcinicultura (LACAR) dedica-se à pesquisa abrangente sobre a biologia e a reprodução de espécies de camarões de água doce, visando contribuir significativamente para o avanço da aquicultura e carcinicultura. Além disso, o LACAR oferece serviços de consultoria especializada em projetos relacionados a essas áreas. EQUIPE Coordenação: Profª. Drª. Célia Maria de Souza Sampaio (Lattes - http://lattes.cnpq.br/1035726257871530)",
+    "email": "celia.sampaio@uece.br",
+    "telefone": "(85) 3101-9927",
+    "site": "www.uece.br/",
+    "area": "Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Vinculado ao Instituto Superior de Ciências Biomédicas - ISCB"
+  },
+  {
+    "nome": "LABORATÓRIO DE DOENÇAS PARASITÁRIAS - LABODOPAR",
+    "descricao": "O Laboratório de Doenças Parasitárias (Labodopar) tem como principal objetivo promover a qualificação de estudantes, formação de recursos humanos e desenvolvimento de atividades de pesquisa. Por meio de projetos de iniciação científica, mestrado e doutorado, o Labodopar concentra seus esforços no estudo e na busca por soluções eficazes contra doenças parasitárias. Além disso, o laboratório dedica-se ao desenvolvimento de produtos com atividade anti-helmíntica, visando contribuir para o combate a essas enfermidades que afetam tanto humanos quanto animais. EQUIPE Coordenação: Profª. Drª. Lorena Mayana Beserra de Oliveira (Lattes - http://lattes.cnpq.br/9305995059652988)",
+    "email": "lorena.mayana@uece.br",
+    "telefone": "(85) 3101-9853",
+    "site": "www.uece.br/labodopar_novo",
+    "area": "Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Programa de Pós-Graduação em Ciências Veterinárias (PPGCV)"
+  },
+  {
+    "nome": "LABORATÓRIO ANATOMIA VETERINÁRIA",
+    "descricao": "O Laboratório de Anatomia Veterinária da UECE é um espaço dedicado ao ensino prático na área de anatomia para estudantes de graduação em Medicina Veterinária. Suas atividades estão focadas em proporcionar aos alunos uma compreensão detalhada da anatomia animal, fundamental para sua formação profissional. Utiliza cadáveres para as aulas práticas, garantindo o aprendizado dos estudantes. Está aberto a colaborações que possam complementar nossas práticas educacionais e contribuir para o desenvolvimento dos futuros profissionais veterinários. EQUIPE Coordenação: Prof. Dr. Cezar Walter(Lattes -",
+    "email": "azevedo.freita@uece.br",
+    "telefone": "(85) 3101-9855",
+    "site": "www.uece.br/",
+    "area": "Ciências Agrárias",
+    "natureza": "Ensino",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE TECNOLOGIA DO SÊMEN DE CAPRINOS E OVINOS - LTSCO",
+    "descricao": "O Laboratório de Tecnologia do Sêmen de Caprinos e Ovinos (LTSCO) é um centro de excelência dedicado à geração de tecnologias inovadoras nas áreas de diluição e conservação de sêmen resfriado e congelado, além de especializar-se em inseminação artificial.",
+    "email": "ppgbiotec.uece@uece.br",
+    "telefone": "(85) 3101-9854",
+    "site": "https://www.uece.br/nib/",
+    "area": "Ciências Agrárias",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE REPRODUÇÃO DE CARNÍVOROS - LRC",
+    "descricao": "O Laboratório de Reprodução de Carnívoros (LRC) é um centro de pesquisa dedicado à conservação e estudo dos aspectos reprodutivos de carnívoros domésticos. Em suas instalações, são realizadas pesquisas abrangentes sobre a conservação das gônadas masculinas de carnívoros domésticos, investigando métodos e estratégias para preservar a saúde reprodutiva desses animais. Além disso, os estudos do laboratório se estendem ao entendimento das neoplasias mamárias em cadelas e ao exame detalhado das placentas caninas, contribuindo para a compreensão desses importantes aspectos da reprodução animal. O LRC desempenha um papel fundamental na formação de recursos humanos na área da medicina veterinária, oferecendo oportunidades de aprendizado e pesquisa para estudantes e profissionais interessados em aprimorar seus conhecimentos sobre reprodução animal. Sua equipe está comprometida em fornecer orientação e suporte acadêmico para o desenvolvimento de habilidades e competências necessárias para a prática veterinária responsável e eficaz. EQUIPE Coordenação: Profª. Drª. Lúcia Daniel Machado da Silva (Lattes - http://lattes.cnpq.br/3610262531647532)",
+    "email": "lucia.daniel@uece.br",
+    "telefone": "(85) 3101.9855",
+    "site": "http://uece.br/nib",
+    "area": "Ciências Agrárias",
+    "natureza": "Pesquisa",
+    "vinculado": "Faculdade de Veterinária (FAVET)"
+  },
+  {
+    "nome": "LABORATÓRIO DE INTERAÇÃO INSETO PLANTA - LABIIP",
+    "descricao": "O Laboratório de Interação Inseto Planta (LABIIP) é um centro dedicado à pesquisa sobre a diversidade de insetos e suas interações com plantas. Colabora com informações valiosas para produtores rurais, auxiliando-os em suas práticas agrícolas. Realiza-se pesquisas abrangentes sobre insetos, com foco especial na ordem Thysanoptera, além de estudar outras ordens de insetos. O laboratório também se dedica ao diagnóstico de insetos pragas no campo, fornecendo dados essenciais para o manejo integrado de pragas. Seu objetivo é contribuir para o entendimento e manejo eficaz das interações entre insetos e plantas, promovendo práticas agrícolas sustentáveis e a preservação da biodiversidade.",
+    "email": "maria.goretti@uece.br",
+    "telefone": "(85) 3101-9920",
+    "site": "www.uece.br/",
+    "area": "Ciências Agrárias; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Ciências da Saúde (CCS)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDO E PESQUISA EM DIREITOS HUMANOS, CIDADANIA E ÉTICA - LABVIDA",
+    "descricao": "O LABVIDA é um polo dinâmico de pesquisa, ensino e extensão dedicado à promoção dos Direitos Humanos, ao fortalecimento da cidadania e ao desenvolvimento de uma ética social inclusiva. Suas principais linhas de ação incluem:",
+    "email": "labvida@uece.br",
+    "telefone": "(85) 3101-9944",
+    "site": "https://www.uece.br/cesa/labvida/",
+    "area": "Ciências Sociais / Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO DE HUMANIZAÇÃO DA ATENÇÃO EM SAÚDE  - LHUAS",
+    "descricao": "O LHUAS desenvolve informações embasadas em evidências científicas destinadas ao Mundo do Trabalho, enfrentando os desafios das desregulamentações neoliberais. Além disso, desempenha um papel crucial nas tomadas de decisão do Sistema Único de Saúde (SUS), contribuindo para aprimorar as políticas públicas de saúde. O laboratório dedica-se ativamente ao apoio e formação de profissionais em diferentes níveis acadêmicos, incluindo graduandos, especializandos, mestrandos, doutorandos e pós-doutorandos. Sua missão inclui a publicação regular de artigos em revistas qualis, a elaboração de manuais de serviço e a produção de um livro a cada dois anos, muitas vezes em colaboração com instituições renomadas, como o Instituto Vandick Ponte e a Editora da UECE.",
+    "email": "jose.sampaio@uece.br",
+    "telefone": "(85) 31019826",
+    "site": "www.uece.br/ccs/",
+    "area": "Ciências Sociais e Ciências da Saúde",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências da Saúde (CCS) - Curso de Medicina"
+  },
+  {
+    "nome": "LABORATÓRIO GESTÃO DA RESPONSABILIDADE SOCIOAMBIENTAL E DA SUSTENTABILIDADE - LABSUS",
+    "email": "max.maranhao@uece.br",
+    "telefone": "(85) 3101.2030",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Misto",
+    "vinculado": "Centro de Humanidades - CH"
+  },
+  {
+    "nome": "LABORATÓRIO DE GESTÃO DE PEQUENOS E MÉDIOS NEGÓCIOS - GEPEN",
+    "descricao": "O GEPEN conduz pesquisas e projetos especializados voltados para a gestão de pequenos e médios negócios, destacando-se na realização de diagnósticos abrangentes nas áreas de produção e mercado.",
+    "email": "roberto.pinto@uece.br",
+    "telefone": "(85) 3101-9940",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados - CESA"
+  },
+  {
+    "nome": "LABORATÓRIO DE POPULARIZAÇÃO DA CIÊNCIA E TECNOLOGIAS NAS ÁREAS DE CIÊNCIAS SOCIAIS E HUMANAS - LABPOP",
+    "descricao": "O LABPOP é um espaço dedicado à promoção da popularização da ciência e das tecnologias sociais, especialmente nas áreas de ciências sociais e humanas. Desenvolvemos atividades mistas de ensino, pesquisa e extensão, com um foco específico nas políticas públicas sociais e nas diversas expressões da questão social. Nosso objetivo é criar e desenvolver linguagens e metodologias que facilitem a compreensão e o acesso ao conhecimento científico, direcionando nossos esforços para os segmentos sociais mais vulneráveis, como jovens em situação de marginalização urbana, migrantes e refugiados. Realizamos uma variedade de eventos, incluindo seminários, colóquios e rodas de diálogo, tanto para os públicos internos quanto externos da UECE. Damos prioridade a públicos em condições de pobreza multidimensional e vulnerabilidade social, incluindo imigrantes e refugiados, buscando abordar questões relacionadas aos direitos humanos e violências. EQUIPE Coordenação: Profª. Drª. Leila Maria Passos de Souza Bezerra (Lattes - http://lattes.cnpq.br/8541436750893797)",
+    "email": "leila.passos@uece.br",
+    "telefone": "(85) 3101.9937",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais;Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PESQUISAS EM AFROBRASILIDADE, GÊNERO E FAMÍLIA - NUAFRO",
+    "descricao": "O Laboratório de Estudos e Pesquisas em Afrobrasilidade, Gênero e Família (Nuafro), da Universidade Estadual do Ceará (UECE), é um centro acadêmico dedicado à investigação e análise de temas relacionados à afrodescendência, gênero e estrutura familiar. Atua na organização do Seminário Afro Cearensidade, um espaço de debate e reflexão sobre questões afro-brasileiras. EQUIPE Coordenação: Profª. Drª. Zelma Madeira  (Lattes - http://lattes.cnpq.br/0970256533512101)",
+    "email": "aparecida.souza@aluno.uece.br",
+    "telefone": "(85) 3101-9937",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Estudos Sociais Aplicados"
+  },
+  {
+    "nome": "LABORATÓRIO DE PESQUISAS SOBRE POLÍTICAS SOCIAIS DO SERTÃO CENTRAL - LAPPS",
+    "descricao": "O Laboratório de Pesquisas sobre Políticas Sociais do Sertão Central (LAPPS) dedica-se à investigação de questões sócio-políticas que impactam a formação docente e a sociedade em geral. Promove cursos, palestras, debates, encontros e outras atividades correlatas, visando a análise crítica e a reflexão sobre os desafios sociais e políticos enfrentados pela região. EQUIPE Coordenação: Prof. Dr. Deribaldo Santos (Lattes -  http://lattes.cnpq.br/1317529947912305)",
+    "email": "deribaldo.santos@uece.br",
+    "telefone": "(88) 3445.1036",
+    "site": "https://www.uece.br/feclesc/laboratorio/lapps/",
+    "area": "Ciências Sociais; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)"
+  },
+  {
+    "nome": "LABORATÓRIO DE PESQUISAS E ESTUDOS EM SERVIÇO SOCIAL - LAPESS",
+    "descricao": "O Laboratório de Pesquisas e Estudos em Serviço Social (LAPESS) é um centro de excelência dedicado à promoção de atividades de ensino, pesquisa e extensão nas áreas cruciais do Serviço Social. Concentra seus esforços no estudo das interseções entre Estado e sociedade, na análise da “questão social”, na formação profissional e nas teorias críticas que fundamentam a prática do assistente social. No âmbito do ensino, desenvolve uma variedade de atividades, incluindo grupos de estudo, círculos de debates, palestras, além de ministrar aulas tanto na graduação quanto na pós-graduação.No campo da pesquisa, elabora, acompanha e executa projetos relevantes para nossos interesses, construindo um banco de dados robusto sobre as temáticas investigadas. Na extensão, garante um diálogo fecundo entre universidade e sociedade, promovendo uma série de eventos como seminários, encontros, cursos, palestras e oficinas, que funcionam como espaços de divulgação e socialização das atividades do grupo, sempre garantindo o tripé ensino, pesquisa e extensão.",
+    "email": "lapess@uece.br",
+    "telefone": "(85) 3101-9937",
+    "site": "http//uece.br/lapess/",
+    "area": "Ciências Sociais",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO OBSERVATÓRIO DE FINANÇAS E ORÇAMENTO PÚBLICO - OBFIO",
+    "descricao": "O Observatório das Nacionalidades (ON) é um centro de excelência dedicado à pesquisa multidisciplinar. Seus projetos de pesquisa abrangem três linhas fundamentais: nacionalismos e internacionalismos, forças armadas e pensamento militar, além da construção da identidade nacional brasileira. É responsável pela editoração da renomada revista acadêmica trimestral Tensões Mundiais, classificada como A2, que serve como plataforma para a disseminação do conhecimento produzido em  pesquisas e contribui para o debate acadêmico internacional. Além disso, promove uma série de atividades acadêmicas, tais como encontros, seminários, minicursos e outros eventos, que visam fomentar o diálogo e a troca de ideias entre estudiosos, pesquisadores e interessados nas temáticas abordadas pelo ON. EQUIPE Coordenação: Profª. Drª. Natalia Montebello(Lattes -  https://lattes.cnpq.br/2677023420205664)",
+    "email": "natalia.montebello@uece.br",
+    "telefone": "(85) 3101-9908",
+    "site": "https://www.uece.br/nacionalidades/institucional/conheca-o-observatorio/",
+    "area": "Ciências Sociais",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Humanidade (CH)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS URBANOS E DA CIDADE - LEURC",
+    "descricao": "O Laboratório de Estudos Urbanos e da Cidade (LEURC) dedica-se há aproximadamente duas décadas à pesquisa sobre a cidade e o fenômeno urbano no contexto da ciência geográfica. Suas investigações são fundamentadas em uma abordagem geográfica crítica e empiricamente embasada, com foco primordial na urbanização dentro do território cearense. O laboratório explora as múltiplas facetas desse processo, desde a dinâmica da Região Metropolitana de Fortaleza (RMF) até as particularidades das cidades médias, ampliando seu escopo para abranger a rede urbana da Região Nordeste. Como parte integrante do Observatório Nacional de Monitoramento e Avaliação de Dinâmicas Imobiliárias e Fundiárias (ONDI), colabora ativamente no levantamento e análise de dados relacionados à habitação, ao financiamento imobiliário e aos estudos específicos sobre o mercado imobiliário local. Esta parceria fortalece seus esforços em compreender as transformações urbanas e suas implicações socioeconômicas, fornecendo uma base sólida para intervenções e políticas públicas voltadas ao desenvolvimento urbano sustentável. EQUIPE Coordenação: Prof. Dr. Wagner Vinicius Amorin(Lattes - http://lattes.cnpq.br/2836208805454597)",
+    "email": "wagner.amorin@uece.br",
+    "telefone": "(85) 3101-9964",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Ciências e Tecnologia (CCT)"
+  },
+  {
+    "nome": "LABORATÓRIO DE PESQUISAS SOBRE COMPORTAMENTO DO CONSUMIDOR E NOVAS TECNOLOGIAS - CONSUMOTEC",
+    "descricao": "O Laboratório de Pesquisas sobre Comportamento do Consumidor e Novas Tecnologias (ConsumoTec) se dedica a uma investigação aprofundada do comportamento do consumidor, abrangendo tanto o ambiente offline quanto o online. O foco principal reside na compreensão dos conceitos e funcionalidades das mídias sociais quando utilizadas pelos consumidores, bem como na exploração de teorias relacionadas ao processo de decisão de compra, integrando novos elementos e atributos do ambiente digital. Por meio de estudos quantitativos e qualitativos, o laboratório busca enriquecer o conhecimento sobre os temas mencionados, confrontando as descobertas com a literatura existente. Essa abordagem permite uma análise mais profunda e contextualizada do comportamento do consumidor na era digital, fornecendo insights valiosos para a área de Ciências Sociais Aplicadas e Administração. EQUIPE Coordenação: Profª. Drª. Danielle Miranda de Oliveira Arruda Gomes (Lattes - http://lattes.cnpq.br/7514737354542371)",
+    "email": "danielle.gomes@uece.br",
+    "telefone": "(85) 3101.9937",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ECONOMIA E INOVAÇÃO AZUL - BLUELAB",
+    "descricao": "O Laboratório de Economia e Inovação Azul (BLUELAB) é um centro de excelência dedicado à pesquisa e estudos na área da Economia do Mar, abrangendo temas como Sustentabilidade, Vulnerabilidade, Políticas Públicas e Inovação. Realiza-se pesquisas abrangentes e estudos de impacto socioeconômico e ambiental, visando compreender as interações entre a economia e o ambiente marinho. Seu objetivo é contribuir para o desenvolvimento de políticas públicas eficazes e para a promoção da sustentabilidade dos recursos marinhos, considerando também a dimensão da inovação para impulsionar o crescimento econômico de maneira sustentável. O BLUELAB, está comprometido em fornecer análises de alta qualidade e soluções inovadoras para os desafios enfrentados pela economia azul, visando a proteção dos ecossistemas marinhos e o bem-estar das comunidades costeiras. EQUIPE Coordenação: Prof. Dr. Samuel Façanha Câmara (Lattes - http://lattes.cnpq.br/1866170681539702)",
+    "email": "samuel.camara@uece.br",
+    "telefone": "(85) 3101-9940",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO DE GESTÃO INTELIGENTE DE CIDADES - LAGIC",
+    "descricao": "O Laboratório de Gestão Inteligente de Cidades (LAGIC) é um centro de pesquisa dedicado ao estudo e desenvolvimento de soluções inovadoras para os desafios urbanos. Suas pesquisas abrangem diversos aspectos relacionados às cidades, incluindo desenvolvimento urbano, gerenciamento de projetos financiados por subsídios governamentais e questões socioeconômicas. Além disso, dedica-se à ideação, organização e execução de projetos de extensão, com foco especial na melhoria da qualidade de vida nas áreas urbanas. EQUIPE Coordenação: Hermano José Batista de Carvalho (Lattes - CV: http://lattes.cnpq.br/1475501500079475)",
+    "email": "hermano.carvalho@uece.br",
+    "telefone": "(85) 3101.9937",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO DE MÉTODOS QUANTITATIVOS EM CIÊNCIAS SOCIAIS APLICADAS - LMQ",
+    "descricao": "O Laboratório LADMPUB é um espaço multifuncional que oferece uma variedade de serviços, incluindo visitas técnicas, elaboração de artigos e estudos, bem como organização de eventos. Seu objetivo é proporcionar um ambiente colaborativo e produtivo para a realização de atividades acadêmicas e profissionais, promovendo a troca de conhecimento e experiências entre os participantes.",
+    "email": "samuel.castelo@uece.br",
+    "telefone": "(85) 3101.9937",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ESTUDOS E PESQUISAS EM SERVIÇO SOCIAL - LAPESS",
+    "descricao": "O Laboratório de Estudos e Pesquisas em Serviço Social (LAPESS) é um espaço dedicado à promoção de grupos de estudo, pesquisas e atividades de extensão voltadas para temas como Serviço Social, Trabalho, Questão Social, Políticas Públicas e realidade brasileira. Realiza-se estudos aprofundados e colaborativos, bem como produções bibliográficas coletivas, visando contribuir para o avanço do conhecimento e para o desenvolvimento de abordagens inovadoras na área do Serviço Social e áreas correlatas. EQUIPE Coordenação: Profª. Drª. Cristiane Porfirio (Lattes - http://lattes.cnpq.br/9564224747396486)",
+    "email": "samilly.moreira@uece.br",
+    "telefone": "(85) 3101.9800",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais",
+    "natureza": "Misto",
+    "vinculado": "Centro de Estudos Sociais Aplicados (CESA)"
+  },
+  {
+    "nome": "LABORATÓRIO DE ARQUEOLOGIA E SEMIÓTICA DO CEARÁ - LARSE",
+    "descricao": "O Laboratório de Arqueologia e Semiótica do Ceará (LARSE) é um centro de excelência dedicado à pesquisa nas áreas de arqueologia e etnologia indígena. Seu objetivo principal é investigar e compreender a história e a cultura das sociedades antigas e contemporâneas da região. Atualmente, está concentrando seus esforços em um projeto arqueológico abrangente nas regiões de Solonópoles e Quixeramobim, no estado do Ceará. Este projeto envolve escavações, análises laboratoriais, estudos de campo e investigações etnográficas, visando reconstruir o passado e compreender as práticas culturais das populações que habitaram essas áreas ao longo do tempo. Além disso, o LARSE também promove a preservação do patrimônio arqueológico e cultural da região, por meio de ações de educação patrimonial e divulgação científica. O laboratório serve como um espaço de aprendizado e troca de conhecimentos, reunindo pesquisadores, estudantes e comunidades locais interessadas em explorar e valorizar o rico legado histórico e cultural do Ceará. EQUIPE Coordenação: Profª. Drª.. Marcélia Marques (Lattes - http://lattes.cnpq.br/7678754835082369)",
+    "email": "marcelia.marques@uece.br",
+    "telefone": "(88) 3445.1036",
+    "site": "www.uece.br/",
+    "area": "Ciências Sociais; Ciências Humanas, Lingüística, Letras e Artes",
+    "natureza": "Misto",
+    "vinculado": "Vinculado ao Colegiado de História e da Universidade Estadual do Ceará"
+  },
+  {
+    "nome": "LABORATÓRIO DE NEGÓCIOS, GESTÃO E INOVAÇÃO VOLTADOS AO TURISMO RELIGIOSO",
+    "descricao": "O JEPTRA dedica-se à pesquisa e análise crítica das políticas educacionais, com ênfase nas transformações impulsionadas pela dinâmica de atuação do Estado e as exigências do mercado de trabalho. Com foco em desvendar os múltiplos aspectos e impactos dessas políticas, especialmente no que tange à formação docente, currículo, didática, metodologias e avaliação educacional no Brasil. Além disso, trabalha as políticas públicas voltadas para as juventudes, contribuindo para a formação contínua de assistentes sociais por meio de grupos de estudo e pesquisa.",
+    "email": "rejane.bezerra@uece.br",
+    "telefone": "(85) 3101-9758",
+    "site": "www.uece.br///",
+    "area": "Ciências Sociais",
+    "natureza": "Pesquisa",
+    "vinculado": "Centro de Estudos Sociais Aplicados - CESA"
   }
 ]

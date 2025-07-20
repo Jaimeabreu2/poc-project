@@ -1,170 +1,317 @@
+/* cores personalizadas */
+:root {
+  /* escala de cores e espaçamentos */
+  --primary: #4A90E2;
+  --primary-light: #E6F2FF;
+  --bg-gradient: linear-gradient(135deg, #f0f4f8, #e8ecf0);
+  --text: #333;
+  --muted: #666;
+  --radius: 8px;
+  --spacing-sm: 0.5rem;
+  --spacing: 1rem;
+  --spacing-lg: 2rem;
+}
+
 /* reset e box‐model */
-*, *::before, *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+*, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
+
+/* acessibilidade: tela apenas para leitores */
+.sr-only {
+  position:absolute; width:1px; height:1px;
+  padding:0; margin:-1px; overflow:hidden;
+  clip:rect(0,0,0,0); border:0;
 }
 
 /* corpo / fundo */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+/* elimina margens brancas e garante cobertura full‐screen */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* fundo principal: imagem‐agin1 cobre toda a página */
 body {
-  font-family: Arial, sans-serif;
-  background-image: url('assets/imagem-agin1.png'), url('assets/imagem-agin2.png');
-  background-size: cover;
-  background-position: center;
-  background-color: #222;
-  color: #333;
+  background: url("assets/imagem-agin1.png") center/cover no-repeat fixed;
+  color: var(--text);
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
 }
 
-/* header */
+/* primeira seção hero */
 header {
-  background: #007bff;
-  color: #fff;
-  padding: 1rem 0;
-  text-align: center;
+  background:
+    linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url("assets/imagem-agin1.png") center/cover no-repeat;
+  width: 100%;
+  aspect-ratio: 16/9;                  /* mantém proporção */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* container principal */
+/* título centralizado na hero */
+header h1 {
+  color: var(--txt-light);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+}
+
+/* nova seção com segunda imagem e buscador centralizado */
+.hero-search {
+  height: auto;           /* deixa o container do buscador com altura flexível */
+  padding: 4rem 0;        /* ajusta espaço vertical */
+  background:
+    linear-gradient(to top, rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url("assets/imagem-agin2.png") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;  /* garante centralização */
+  position: relative;
+}
+
+/* buscador sobre a hero-search */
 .search-container {
-  max-width: 600px;
-  margin: 40px auto;
-  padding: 24px;
-  background: rgba(255,255,255,0.95);
-  border: 2px solid #007bff;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  overflow: visible;        /* garante que lista dentro não seja cortada */
+  background: rgba(255, 255, 255, 0.6);   /* buscador semitransparente */
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: var(--spacing-lg);
+  margin-bottom: var(--spacing-lg);
+  position: sticky;
+  top: var(--spacing);
+  z-index: 10;
 }
 
-/* filtros */
+/* título da busca */
+.search-container h2 {
+  margin-bottom: var(--spacing);
+  font-size: 1.5rem;
+  color: var(--primary);
+  color: #0056b3;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+/* filtros com rolagem horizontal em mobile */
 .filters {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing);
+}
+.filters::-webkit-scrollbar {
+  height: 6px;
+}
+.filters::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 3px;
+}
+
+/* botões de filtro estilo pill */
+.filter-btn {
+  flex: 0 0 auto;
+  padding: var(--spacing-sm) var(--spacing);
+  border: 1px solid var(--primary);
+  background: var(--primary-light);
+  color: var(--primary);
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+.filter-btn.active,
+.filter-btn:hover {
+  background: var(--primary);
+  color: #fff;
+}
+
+/* input de busca atraente */
+#search-bar {
+  width: 100%;
+  padding: var(--spacing-sm) var(--spacing);
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: var(--radius);
+  margin-top: var(--spacing);
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+#search-bar:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(74,144,226,0.2);
+}
+
+/* lista de resultados em grid responsivo */
+#results {
+  display: block;                           /* lista vertical */
+  list-style: none;
+  margin: 0;
+  padding: 1rem;
+  max-height: 60vh;                         /* altura fixa para scroll */
+  overflow-y: auto;                         /* scroll vertical */
+  background: rgba(255,255,255,0.5);        /* leve transparência */
+  
+/* scrollbar fino */
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0,0,0,0.2) transparent;
+}
+#results::-webkit-scrollbar {
+  width: 6px;
+}
+#results::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.2);
+  border-radius: 3px;
+}
+
+/* cartões dos laboratórios */
+.lab-card {
+  background: rgba(255,255,255,0.8); /* mantém card semitransparente sobre lista */
+  margin-bottom: var(--spacing);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.lab-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+.lab-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+.lab-card h3 {
+  font-size: 1.1rem;
+  color: var(--primary);
+  margin: var(--spacing) var(--spacing) 0;
+}
+.lab-card p {
+  flex-grow: 1;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: var(--spacing) var(--spacing) 0;
+}
+.lab-card a {
+  display: inline-block;
+  margin: var(--spacing) var(--spacing) var(--spacing) var(--spacing);
+  color: var(--primary);
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+.lab-card a:hover {
+  color: darken(var(--primary),10%);
+}
+
+/* alinha título e botão de detalhes horizontalmente */
+.lab-card .content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* opcional: ajusta margem do título para não ficar muito apertado */
+.lab-card .content h4 {
+  margin: 0;
+  flex: 1;
+}
+
+/* rodapé simples */
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding: var(--spacing-lg) 0;
+  margin-top: var(--spacing-lg);
+}
+
+/* esconder filtros de área originais */
+.filters .filter-btn {
+  display: none;
+}
+
+/* container de filtros de natureza */
+.filters-nature {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
   justify-content: center;
-  margin-bottom: 1rem;
-  position: relative;
-  z-index: 11;       /* acima da lista */
-  position: static;         /* remove qualquer posicionamento */
+  margin: 1rem 0;
 }
 
-.filter-btn {
-  padding: 0.5rem 1rem;
-  border: none;
-  background: #eee;
+/* botões de natureza – estilo refinado */
+.filter-btn-nature {
+  background: #fff;
+  border: 2px solid #007bff;
+  color: #007bff;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s, transform 0.1s;
+}
+
+/* hover */
+.filter-btn-nature:hover {
+  background: #007bff;
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+/* ativo */
+.filter-btn-nature.active {
+  background: #0056b3;
+  border-color: #0056b3;
+  color: #fff;
+}
+
+/* estilos para logo */
+.site-logo,
+.site-logo-footer {
+  display: block;
+  margin: 1rem auto;
+  max-width: 200px;
+}
+
+/* estilo do botão Ver detalhes */
+.detail-btn {
+  background: #f5f5f5;
+  border: 1px solid #ccc;
+  color: #555;
+  padding: 0.4rem 1rem;
   border-radius: 4px;
+  font-weight: 500;
   cursor: pointer;
   transition: background 0.2s;
 }
 
-.filter-btn.active,
-.filter-btn:hover {
-  background: #007bff;
-  color: #fff;
+.detail-btn:hover {
+  background: #e0e0e0;
 }
 
-/* campo de busca */
-#search-bar {
-  width: 100%;
-  padding: 0.75rem;
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  position: relative;
-  z-index: 11;       /* acima da lista */
-  position: static;         /* remove qualquer posicionamento absoluto/relative */
-}
-
-/* lista de resultados com scroll */
-#results {
-  list-style: none;
-  max-height: 60vh;
-  overflow-y: auto;
-  margin: 2rem auto;      /* afasta do search-container */
-  max-width: 600px;
-  margin-top: 1rem;        /* distância abaixo do input */
-  width: 100%;
-  max-height: 50vh;        /* limita altura */
-  overflow-y: auto;        /* rolagem vertical */
-}
-
-/* itens da lista */
-#results li {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.75rem;
-  margin-bottom: 0.5rem;
-  background: #f9f9f9;
-  border-radius: 4px;
-  transition: background 0.3s;
-  flex-wrap: wrap;         /* permite quebra em telas estreitas */
-}
-
-#results li:nth-child(even) {
-  background: #eaeaea;
-}
-
-#results li:hover {
-  background: #ddd;
-}
-
-#results li button {
-  padding: 0.4rem 0.8rem;
-  border: none;
-  background: #007bff;
-  color: #fff;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-/* botão “Mostrar mais” herdado do JS */
-.show-more {
-  display: block;
-  margin: 0.5rem auto;
-  padding: 0.5rem 1rem;
-  background: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-/* rodapé */
-footer {
-  background: #007bff;
-  color: #fff;
-  text-align: center;
-  padding: 1rem 0;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
-/* reset de posicionamento para evitar sobreposição */
-.search-container,
-.filters,
-#search-bar,
-#results {
-  position: static !important;
-  z-index: auto !important;
-}
-
-/* responsividade */
-@media (max-width: 767px) {
+/* responsividade para mobile */
+@media (max-width: 600px) {
   .search-container {
-    margin: 16px 8px;
-    padding: 16px;
+    padding: var(--spacing);
   }
-  .filters {
-    flex-direction: column;
-    gap: 0.25rem;
+  .search-container h2 {
+    font-size: 1.3rem;
   }
-  .filter-btn {
-    width: 100%;
-  }
-  #results li {
-    flex-direction: column;
-    align-items: flex-start;
+  #results {
+    grid-template-columns: 1fr;
+    gap: var(--spacing);
   }
 }

@@ -1,5 +1,33 @@
 'use strict';
 
+// mapeia nomes de campo para labels mais legíveis
+const FIELD_LABELS = {
+  nome: 'Nome',
+  descricao: 'Descrição',
+  responsavel: 'Responsável',
+  lattes: 'Currículo Lattes',
+  email: 'E-mail',
+  telefone: 'Telefone',
+  site: 'Site',
+  localizacao: 'Localização',
+  area: 'Área de Conhecimento',
+  natureza: 'Natureza',
+  vinculado: 'Vinculado',
+  horario: 'Horário de Funcionamento',
+  parcerias: 'Parcerias',
+  equipe: 'Equipe',
+  infraestrutura: 'Infraestrutura',
+  tags: 'Tags'
+};
+
+const NATURE_KEYS = ['misto','pesquisa','ensino','extensao'];
+const NATURE_LABELS = {
+  misto:    'Misto',
+  pesquisa: 'Pesquisa',
+  ensino:   'Ensino',
+  extensao: 'Extensão'
+};
+
 class LabApp {
   constructor() {
     this.areaFiles = {
@@ -14,38 +42,98 @@ class LabApp {
     this.allLabs = [];
     this.selectedArea = 'todas';
     this.locationFilter = '';
+    this.currentOffset = 0;
     // cache DOM
     this.searchBar = document.getElementById('search-bar');
     this.resultsList = document.getElementById('results');
     this.filterContainer = document.querySelector('.filters');
+    // garante existência do container de filtros por natureza
+    this.natureFilterContainer = document.querySelector('.filters-nature');
+    if (!this.natureFilterContainer) {
+      this.natureFilterContainer = document.createElement('div');
+      this.natureFilterContainer.className = 'filters-nature';
+      this.filterContainer.insertAdjacentElement('afterend', this.natureFilterContainer);
+    }
     this.erroDiv = this._createErroDiv();
     this.modal = this._createModal();
-    // bind handlers
-    this.searchBar.addEventListener('input', this._debounce(() => this.showResults()));
-    this.filterContainer.addEventListener('click', e => {
-      if (!e.target.matches('.filter-btn')) return;
-      const area = e.target.dataset.area;
-      this.selectedArea = area;
-      this.loadArea(area);
-    });
+    // --- comentar filtros por área ---
+    // this.filterBtns = Array.from(this.filterContainer.querySelectorAll('.filter-btn'));
+    // this.filterContainer.addEventListener('click', e => {
+    //   if (!e.target.matches('.filter-btn')) return;
+    //   const area = e.target.dataset.area;
+    //   this.selectedArea = area;
+    //   this.filterBtns.forEach(btn => 
+    //     btn.classList.toggle('active', btn.dataset.area === area)
+    //   );
+    //   this.loadArea(area);
+    // });
+
+    // --- configurar filtros por natureza ---
+    this.selectedNature = '';
+    if (this.natureFilterContainer) {
+      this.natureFilterContainer.addEventListener('click', e => {
+        if (!e.target.matches('.filter-btn-nature')) return;
+        const nature = e.target.dataset.nature;
+        this.selectedNature = nature;
+        Array.from(this.natureFilterContainer.querySelectorAll('.filter-btn-nature'))
+          .forEach(btn => btn.classList.toggle('active', btn.dataset.nature === nature));
+        this.showResults();
+      });
+    }
+
+    // listener único para detalhes e mostrar mais
     this.resultsList.addEventListener('click', e => {
-      if (e.target.matches('.show-more')) return this._showAll();
+      if (e.target.matches('button.show-more')) {
+        this.renderList(this.allLabs, this.currentOffset + 20); // mantém paginação incremental
+        return;
+      }
       if (e.target.matches('.detail-btn')) {
-        const idx = e.target.dataset.idx;
-        this.showDetails(this.currentSlice[idx]);
+        const idx = parseInt(e.target.dataset.idx, 10);
+        this.showDetails(this.allLabs[idx]);
       }
     });
   }
 
   async init() {
-    await this.loadAll();
+    await this.loadArea(this.selectedArea); // mantém carga inicial
+    this.renderNatureFilters(this.allLabs);
     this.searchBar.focus();    // dá foco à barra de busca após carregar
   }
 
-  async fetchData(file) {
-    const res = await fetch(file);
-    if (!res.ok) throw new Error(res.statusText);
-    return res.json();
+  fetchData(file) {
+    this.erroDiv.textContent = 'Buscando ' + file + '...';
+    return fetch(file)
+      .then(res => { if (!res.ok) throw new Error(res.statusText); return res.json(); })
+      .finally(() => this.erroDiv.textContent = '');
+  }
+
+  async loadArea(area) {
+    this.erroDiv.textContent = 'Carregando...';
+    try {
+      const data = await this.fetchData(this.areaFiles[this._normalize(area)] || this.areaFiles.todas);
+      this.allLabs = this.extractLabs(data);
+      this.renderNatureFilters(this.allLabs);
+      this.showResults();
+      this.erroDiv.textContent = '';
+    } catch (e) {
+      this.erroDiv.textContent = `Erro ao carregar área ${area}: ${e.message}`;
+    }
+  }
+
+  async loadAll() {
+    this.erroDiv.textContent = 'Carregando todos os laboratórios...';
+    try {
+      const all = await Promise.all(
+        Object.values(this.areaFiles).map(f =>
+          this.fetchData(f).then(this.extractLabs).catch(()=>[])
+        )
+      );
+      this.allLabs = all.flat();
+      this.showResults();
+      this.erroDiv.textContent = '';
+    } catch (e) {
+      this.erroDiv.textContent = 'Erro ao carregar todos os laboratórios: ' + e.message;
+    }
   }
 
   extractLabs(data) {
@@ -109,63 +197,120 @@ class LabApp {
     return modalOverlay;
   }
 
-  renderList(labs) {
-    const MAX = 20;
+  renderList(labs, offset = 0) {
+    this.currentOffset = offset;
+    const slice = labs.slice(offset, offset + 20);
     this.resultsList.innerHTML = '';
-    this.currentSlice = labs.slice(0, MAX);
-    if (!labs.length) return this.resultsList.innerHTML = '<li>Nenhum laboratório encontrado.</li>';
-    this.currentSlice.forEach((lab, i) => {
+    slice.forEach((lab, i) => {
       const li = document.createElement('li');
+      li.className = 'lab-card';
 
-      // aplica imagem de background se disponível (prefixo para assets locais)
+      // imagem
       const rawUrl = lab.imagem || lab.image || lab.foto;
       if (rawUrl) {
-        const imgPath = /^https?:/.test(rawUrl)
-          ? rawUrl
-          : `assets/${rawUrl}`;        // remove "./src/", aponta para src/assets/
-
-        li.style.backgroundImage = `url(${imgPath})`;
-        li.style.backgroundSize = 'cover';
-        li.style.backgroundPosition = 'center';
+        const img = document.createElement('img');
+        img.src = /^https?:/.test(rawUrl) ? rawUrl : `assets/${rawUrl}`;
+        li.appendChild(img);
       }
 
-      li.textContent = lab.nome || lab.name || JSON.stringify(lab);
+      const cont = document.createElement('div');
+      cont.className = 'content';
 
-      // botão de detalhes
+      // título clicável
+      const title = document.createElement('h4');
+      title.textContent = lab.nome;
+      title.style.cursor = 'pointer';
+      title.addEventListener('click', () => this.showDetails(lab));
+      cont.appendChild(title);
+
+      // botão detalhes
       const btn = document.createElement('button');
-      btn.textContent = 'Ver detalhes';
       btn.className = 'detail-btn';
-      btn.dataset.idx = i;
-      li.append(btn);
-      this.resultsList.append(li);
+      btn.textContent = 'Ver detalhes';
+      btn.dataset.idx = offset + i;
+      cont.appendChild(btn);
+
+      li.appendChild(cont);
+      this.resultsList.appendChild(li);
     });
-    if (labs.length > MAX) {
-      const more = document.createElement('button');
-      more.textContent = `Mostrar mais ${labs.length - MAX}`;
-      more.className = 'show-more';
-      this.resultsList.append(more);
+
+    // quantos faltam
+    const remaining = labs.length - (offset + 20);
+    if (remaining > 0) {
+      const liMore = document.createElement('li');
+      liMore.style.textAlign = 'center';
+      const moreBtn = document.createElement('button');
+      moreBtn.textContent = `Mostrar mais ${remaining} laboratórios...`;
+      moreBtn.addEventListener('click', () => this.renderList(labs, offset + 20));
+      liMore.appendChild(moreBtn);
+      this.resultsList.appendChild(liMore);
     }
   }
 
   showDetails(lab) {
     const detailsDiv = document.getElementById('lab-details');
-    detailsDiv.innerHTML = '';  // limpa antes de inserir
-    // document.body.style.overflow = 'hidden';  // trava scroll no background
+    detailsDiv.innerHTML = '';
 
-    Object.entries(lab).forEach(([key, value]) => {
-      let displayValue;
+    // aplica padding ao container para melhor layout
+    detailsDiv.style.padding = '1rem';
+    detailsDiv.style.maxWidth = '600px';
+
+    // 1) Cabeçalho: nome do lab e coordenador
+    const h2 = document.createElement('h2');
+    h2.textContent = lab.nome;
+    h2.style.margin = '0 0 0.5rem';
+    detailsDiv.appendChild(h2);
+
+    if (lab.responsavel) {
+      const h3 = document.createElement('h3');
+      h3.textContent = 'Coordenador: ' + lab.responsavel;
+      h3.style.margin = '0 0 1rem';
+      detailsDiv.appendChild(h3);
+    }
+
+    // 1.1) Resumo breve a partir do campo Descrição (primeira frase)
+    if (lab.descricao) {
+      const full = lab.descricao.trim();
+      const end  = full.indexOf('.') > -1 ? full.indexOf('.') + 1 : full.length;
+      const resumo = document.createElement('p');
+      resumo.textContent    = full.slice(0, end);
+      resumo.style.margin   = '0 0 1rem';
+      resumo.style.fontStyle = 'italic';
+      detailsDiv.appendChild(resumo);
+    }
+
+    // 2) Campos principais e úteis
+    const MAIN_FIELDS = [
+      'email',
+      'telefone',
+      'site',
+      'localizacao',
+      'area',
+      'horario',
+      'tags'
+    ];
+
+    MAIN_FIELDS.forEach(key => {
+      const value = lab[key];
+      if (value === undefined || value === '' || (Array.isArray(value) && value.length === 0)) return;
+      const label = FIELD_LABELS[key] || key;
+      let content = '';
+
       if (Array.isArray(value)) {
-        displayValue = value.join(', ');
-      } else if (value && typeof value === 'object') {
-        displayValue = `<pre>${JSON.stringify(value, null, 2)}</pre>`;
+        content = '<ul>' + value.map(item => `<li>${item}</li>`).join('') + '</ul>';
       } else {
-        displayValue = value ?? '—';
+        content = String(value).replace(/\n+/g, '<br>').trim();
       }
+
       const p = document.createElement('p');
-      p.innerHTML = `<strong>${key}:</strong> ${displayValue}`;
+      p.innerHTML = `<strong>${label}:</strong> ${content}`;
+      p.style.margin = '0.5rem 0';
+      p.style.lineHeight = '1.4';
       detailsDiv.appendChild(p);
     });
-    this.modal.style.display = 'flex'; // mostra modal por último
+
+    // 3) Mostra modal
+    this.modal.style.display = 'flex';
   }
 
   showResults() {
@@ -176,53 +321,99 @@ class LabApp {
         ...(lab.area||[]),
         ...(lab.tags||[]),
         lab.localizacao,
-        lab.responsavel
+        lab.responsavel,
+        lab.natureza
       ].filter(Boolean).join(' '));
-      const okText = q.split(' ').every(w => text.includes(w));
-      const okLoc = !this.locationFilter || (lab.localizacao && this._normalize(lab.localizacao).includes(this.locationFilter));
-      return okText && okLoc;
+      const okText   = q.split(' ').every(w => text.includes(w));
+      const okLoc    = !this.locationFilter ||
+                       (lab.localizacao && this._normalize(lab.localizacao).includes(this.locationFilter));
+      const natures  = this._parseNatures(lab.natureza);
+      const okNature = !this.selectedNature || natures.includes(this.selectedNature);
+      return okText && okLoc && okNature;
     });
     this.renderList(filtered);
   }
 
-  async loadArea(area) {
-    this.erroDiv.textContent = '';
-    try {
-      const data = await this.fetchData(this.areaFiles[this._normalize(area)] || this.areaFiles.todas);
-      this.allLabs = this.extractLabs(data);
-      this.showResults();
-    } catch {
-      this.erroDiv.textContent = `Erro ao carregar área ${area}`;
-    }
+  // --- novo método de construção dos botões de natureza ---
+  renderNatureFilters(labs) {
+    if (!this.natureFilterContainer) return;
+    this.natureFilterContainer.innerHTML = '';
+
+    // botão "Todas"
+    const allBtn = document.createElement('button');
+    allBtn.className        = 'filter-btn-nature';
+    allBtn.dataset.nature   = '';
+    allBtn.textContent      = 'Todas';
+    if (!this.selectedNature) allBtn.classList.add('active');
+    this.natureFilterContainer.appendChild(allBtn);
+
+    // filtros fixos
+    NATURE_KEYS.forEach(key => {
+      const btn = document.createElement('button');
+      btn.className      = 'filter-btn-nature';
+      btn.dataset.nature = key;
+      btn.textContent    = NATURE_LABELS[key];
+      if (this.selectedNature === key) btn.classList.add('active');
+      this.natureFilterContainer.appendChild(btn);
+    });
   }
 
-  async loadAll() {
-    try {
-      const all = await Promise.all(
-        Object.values(this.areaFiles).map(f => this.fetchData(f).then(this.extractLabs).catch(()=>[]))
-      );
-      this.allLabs = all.flat();
-      this.showResults();
-    } catch {
-      this.erroDiv.textContent = 'Erro ao carregar todos os laboratórios';
-    }
+  // divide string de natureza em array normalizado
+  _parseNatures(str) {
+    if (!str) return [];
+    return Array.from(new Set(
+      str
+        .split(/\s*(?:,|;|\be\b|\se\s)\s*/i)
+        .map(n => this._normalize(n) === 'mista' ? 'misto' : this._normalize(n))
+        .filter(Boolean)
+    ));
   }
 
   _normalize(str) {
     return str
       ? str.normalize('NFD')
-           .replace(/[\u0300-\u036f]/g, '')
-           .toLowerCase()
-           .replace(/[^\w\s]/g, '')
-           .replace(/\s+/g, ' ')
-           .trim()
+          .replace(/[\u0300-\u036f]/g, '')
+          .toLowerCase()
+          .replace(/[^\w\s]/g, '')
+          .replace(/\s+/g, ' ')
+          .trim()
       : '';
   }
+
   _debounce(fn, ms = 250) {
     let t; return (...a) => { clearTimeout(t); t = setTimeout(()=>fn(...a),ms); };
   }
-  _showAll() { this.renderList(this.allLabs); }
 }
 
 // inicialização única
-document.addEventListener('DOMContentLoaded', () => new LabApp().init());
+document.addEventListener('DOMContentLoaded', () => {
+  new LabApp().init();
+  toggleBg(); // inicia slideshow de fundo
+});
+
+// alterna entre bg1 e bg2 a cada 10s
+function toggleBg() {
+  document.body.classList.add('bg1');
+  setInterval(() => {
+    document.body.classList.toggle('bg1');
+    document.body.classList.toggle('bg2');
+  }, 10000);
+}
+
+const assetPath = 'assets';
+
+function displayResults(labs) {
+  results.innerHTML = '';
+  labs.forEach(lab => {
+   const cardHTML = `
++     <img src="${assetPath}/${lab.img}" alt="${lab.name}">
+     <h3>${lab.name}</h3>
+     <p>${lab.description}</p>
+     <a href="${lab.link}">Saiba mais</a>
+   `;
+    const li = document.createElement('li');
+    li.className = 'lab-card';
+    li.innerHTML = cardHTML;
+    results.appendChild(li);
+  });
+}

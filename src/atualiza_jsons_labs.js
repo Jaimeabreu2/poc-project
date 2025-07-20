@@ -1,10 +1,12 @@
 // Script Node.js para atualizar os arquivos JSON de laboratórios a partir do Mapeamento.txt
 
-const fs = require('fs/promises');
+const fs   = require('fs/promises');
+const fs2  = require('fs');
 const path = require('path');
 
-// Mapeamento das áreas para arquivos JSON
+// Mapeamento das áreas para arquivos JSON (inclui 'todas')
 const AREA_TO_JSON = {
+  "todas": "laboratorios.json",
   "ciências humanas": "laboratorios_ciencias_humanas.json",
   "ciências exatas e da terra": "laboratorios_ciencias_exatas_e_da_terra.json",
   "ciências biológicas": "laboratorios_ciencias_biologicas.json",
@@ -12,6 +14,14 @@ const AREA_TO_JSON = {
   "ciências agrárias": "laboratorios_ciencias_agrarias.json",
   "ciências sociais aplicadas": "laboratorios_ciencias_sociais_aplicadas.json"
 };
+
+// keys permitidas no JSON final
+const ALLOWED_KEYS = [
+  'nome','descricao','responsavel','lattes',
+  'email','telefone','site','localizacao',
+  'area','natureza','vinculado','horario',
+  'parcerias','equipe','infraestrutura','tags'
+];
 
 function normalizarArea(area) {
   area = (area || '').toLowerCase();
@@ -44,37 +54,18 @@ function parseLabs(txt) {
     const lines = block.split('\n');
     const nome = lines[0].trim();
     if (!nome.match(/^(LABORAT[ÓO]RIO|CENTRO)/)) continue;
-    const bloco = block;
 
-    const lab = { nome };
-
-    // Sempre pega a descrição do laboratório do bloco do Mapemento.txt
-    lab.descricao = busca('DESCRIÇÃO\\n([\\s\\S]+?)(?:\\n[A-Z]{3,}|$)', bloco, 'i') || '';
-    lab.responsavel = busca('Coordenação:\\s*([^\\n\\(]+)', bloco, 'i');
-    lab.lattes = busca('Lattes\\s*-\\s*(https?://[^\\s\\)]+)', bloco, 'i');
-    lab.email = busca('E-mail:\\s*([^\\s]+)', bloco, 'i');
-    lab.telefone = busca('Telefone:\\s*([^\\n]+)', bloco, 'i');
-    lab.site = busca('Site:\\s*([^\\s]+)', bloco, 'i');
-    lab.localizacao = busca('Endereço:\\s*([^\\n]+)', bloco, 'i');
-    lab.area = busca('Área de Conhecimento:\\s*([^\\n]+)', bloco, 'i');
-    lab.natureza = busca('Natureza:\\s*([^\\n]+)', bloco, 'i');
-    lab.vinculado = busca('Vinculado:\\s*([^\\n]+)', bloco, 'i');
-    lab.horario = busca('Horário de Funcionamento:\\s*([^\\n]+)', bloco, 'i');
-    lab.parcerias = buscaMultiplos('PARCERIAS\\s*(?:Interna:|Externa:)?\\s*([\\s\\S]+?)(?:\\n[A-Z]{3,}|$)', bloco, 'i');
-    lab.equipe = busca('EQUIPE\\n([\\s\\S]+?)(?:\\n[A-Z]{3,}|$)', bloco, 'i');
-    lab.infraestrutura = busca('INFRAESTRUTURA\\n([\\s\\S]+?)(?:\\n[A-Z]{3,}|$)', bloco, 'i');
-    lab.tags = [];
-
-    // Tenta pegar tags a partir de "Áreas de Atuação" ou "tags" explícitas
-    let tags = busca('Áreas de Atuação:\\s*([^\\n]+)', bloco, 'i');
-    if (tags) {
-      lab.tags = tags.split(/[;,\/]/).map(t => t.trim()).filter(Boolean);
-    }
-
-    // Adiciona se tiver área válida
+    // pega apenas nome e área; detalhes virão de Mapeamento.txt
+    const lab = {
+      nome,
+      area: busca('Área de Conhecimento:\\s*([^\\n]+)', block, 'i') || ''
+    };
     if (lab.area) labs.push(lab);
   }
-  return labs;
+  // dedupe pelo nome exato
+  const unique = {};
+  labs.forEach(l => { unique[l.nome.trim()] = l; });
+  return Object.values(unique);
 }
 
 function agrupaPorArea(labs) {
@@ -87,44 +78,182 @@ function agrupaPorArea(labs) {
   return agrupados;
 }
 
-async function salvaJsons(agrupados, baseDir) {
-  for (const area of Object.keys(agrupados)) {
-    const labs = agrupados[area];
-    const filePath = path.join(baseDir, AREA_TO_JSON[area]);
-    let existentes = [];
-    try {
-      const data = await fs.readFile(filePath, 'utf-8');
-      existentes = JSON.parse(data);
-    } catch (e) { /* arquivo pode não existir */ }
-    // Garante nomes únicos (case-insensitive)
-    const nomesExistentes = new Set(existentes.map(l => (l.nome || '').toLowerCase().trim()));
-    // Adicione apenas labs novos (não repetidos)
-    const novos = labs.filter(l => !nomesExistentes.has((l.nome || '').toLowerCase().trim()));
-    // Junte existentes + novos, mas garanta que não há duplicados finais
-    const todos = [...existentes];
-    for (const lab of novos) {
-      if (!todos.some(l => (l.nome || '').toLowerCase().trim() === (lab.nome || '').toLowerCase().trim())) {
-        todos.push(lab);
+// utilitário de normalização (remove acentos e pontuação)
+function normalizeKey(s) {
+  return (s||'')
+    .normalize('NFD')                   // separa letras + acentos
+    .replace(/[\u0300-\u036f]/g, '')    // remove acentos
+    .replace(/[^\w\s]/g, '')            // remove símbolos (hífens, etc.)
+    .toLowerCase()
+    .trim();
+}
+
+// conta campos preenchidos em um objeto (usado no dedupe)
+function countFilled(obj) {
+  return Object.values(obj).filter(v => v !== undefined && v !== '').length;
+}
+
+// 1) parseMapping ajustado para usar normalizeKey em headers e keys
+function parseMapping(text) {
+  const map = {};
+  let currentKey = '';
+  let descLines = null;
+
+  text.split(/\r?\n/).forEach(line => {
+    const ln = line.trim();
+    // novo bloco
+    if (/^(LABORATÓRIO|CENTRO)/.test(ln)) {
+      // salva descrição pendente
+      if (currentKey && descLines) {
+        map[currentKey].descricao = descLines.join(' ').trim();
+        descLines = null;
+      }
+      currentKey = normalizeKey(ln);
+      map[currentKey] = {};
+    }
+    else if (/^DESCRIÇÃO\b/i.test(ln) && currentKey) {
+     // inicia captura de descrição multilinha
+      descLines = [];
+    }
+    else if (descLines !== null) {
+     // continua capturando até encontrar uma chave padrão ou fim
+     if (ln === '' || /^[A-ZÁÉÍÓÚÃÕ ]+:/i.test(ln)) {
+       // finaliza descrição
+       map[currentKey].descricao = descLines.join(' ').trim();
+       descLines = null;
+       // cai para processar linha como KV, se for o caso
+     }
+     if (descLines) {
+       descLines.push(ln);
+       return;
+     }
+    }
+    else if (currentKey) {
+      const kv = ln.match(/^([^:]+):\s*(.+)$/);
+      if (kv) {
+        const key = normalizeKey(kv[1]);
+        map[currentKey][key] = kv[2].trim();
       }
     }
-    // Salve todos os labs únicos no JSON da área
-    await fs.writeFile(
-      filePath,
-      JSON.stringify(todos, null, 2)
-    );
+  });
+
+// caso descrição fique em aberto até o fim do arquivo
+ if (currentKey && descLines) {
+   map[currentKey].descricao = descLines.join(' ').trim();
+ }
+
+  return map;
+}
+
+// 1) carrega mapeamento e gera labDetails global
+const mappingTxt = fs2.readFileSync(path.join(__dirname,'Mapeamento.txt'),'utf8');
+const labDetails = parseMapping(mappingTxt);
+
+// 4) salvaJsons e dedupeJsonFiles usam labDetails...
+async function salvaJsons(agrupados, baseDir) {
+  for (const area of Object.keys(agrupados)) {
+    const filePath = path.join(baseDir, AREA_TO_JSON[area]);
+    let existentes = [];
+    try { existentes = JSON.parse(await fs.readFile(filePath,'utf8')); }
+    catch {}
+
+    // pré-preenche existentes
+    existentes.forEach(exist => {
+      const info = labDetails[normalizeKey(exist.nome)];
+      if (info) Object.entries(info).forEach(([k,v])=>{
+        if (!exist[k] && v) exist[k] = v;
+      });
+    });
+
+    // mescla novos labs e atualiza campos vazios
+    let added = 0, updated = 0;
+    agrupados[area].forEach(lab => {
+      const key = normalizeKey(lab.nome);
+      const idx = existentes.findIndex(e=>normalizeKey(e.nome)===key);
+      if (idx>=0) {
+        Object.entries(lab).forEach(([k,v])=>{
+          if (!existentes[idx][k] && v) {
+            existentes[idx][k]=v; updated++;
+          }
+        });
+      } else {
+        existentes.push(lab); added++;
+      }
+    });
+
+    // dedupe final priorizando mais campos preenchidos
+    const byName = {};
+    existentes.forEach(l=>{
+      const key = normalizeKey(l.nome);
+      if (!byName[key] || countFilled(l)>countFilled(byName[key])) {
+        byName[key]=l;
+      }
+    });
+    const finalList = Object.values(byName);
+    
+    // valida e limpa chaves extras
+    finalList.forEach(lab => {
+      if (!lab.nome || !lab.area) {
+        console.warn(`Lab inválido (sem nome ou área):`, lab);
+      }
+    });
+    const cleaned = finalList.map(lab => {
+      const obj = {};
+      ALLOWED_KEYS.forEach(k => {
+        if (lab[k] !== undefined) obj[k] = lab[k];
+      });
+      return obj;
+    });
+
+    await fs.writeFile(filePath, JSON.stringify(cleaned, null, 2));
+    console.log(`Área "${area}": total único ${cleaned.length}.`);
   }
 }
 
-async function main() {
-  const baseDir = __dirname;
-  const txtPath = path.join(baseDir, 'Mapeamento.txt');
-  const txt = await fs.readFile(txtPath, 'utf-8');
-  const labs = parseLabs(txt);
-  const agrupados = agrupaPorArea(labs);
-  await salvaJsons(agrupados, baseDir);
-  console.log('Atualização concluída.');
+async function dedupeJsonFiles(baseDir) {
+  for (const file of Object.values(AREA_TO_JSON)) {
+    const filePath = path.join(baseDir, file);
+    let existentes = [];
+    try { existentes = JSON.parse(await fs.readFile(filePath,'utf-8')); }
+    catch {}
+
+    // dedupe final priorizando mais campos preenchidos
+    const byName = {};
+    existentes.forEach(l=>{
+      const key = normalizeKey(l.nome);
+      if (!byName[key] || countFilled(l)>countFilled(byName[key])) {
+        byName[key]=l;
+      }
+    });
+    const finalList = Object.values(byName);
+    
+    await fs.writeFile(filePath, JSON.stringify(finalList,null,2));
+    console.log(`Arquivo "${file}": total único ${finalList.length}.`);
+  }
 }
 
-if (require.main === module) {
-  main();
-}
+(async function main(){
+  try {
+    const baseDir = __dirname;
+    // 2) lê e agrupa stubs de labs
+    const txt   = await fs.readFile(path.join(baseDir,'Mapeamento.txt'),'utf8');
+    const labs  = parseLabs(txt);
+    const agrup = agrupaPorArea(labs);
+    // inclui 'todas' para atualizar laboratorios.json
+    agrup['todas'] = labs;
+
+    // 3) pré-merge de detalhes antes de salvar
+    labs.forEach(lab => {
+      const info = labDetails[normalizeKey(lab.nome)];
+      if (info) Object.assign(lab, info);
+    });
+
+    // 4) grava e 5) dedupe final
+    await salvaJsons(agrup, baseDir);
+    await dedupeJsonFiles(baseDir);
+
+    console.log('Atualização concluída.');
+  } catch (err) {
+    console.error('Erro na atualização:', err.message);
+  }
+})();
