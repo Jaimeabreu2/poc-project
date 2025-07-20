@@ -2,7 +2,9 @@
 
 Este é um site responsivo desenvolvido para a consulta e visualização de **laboratórios** e **patentes**, com funcionalidades de **busca por palavra-chave** e **filtros por tipo e área temática**. O objetivo principal é facilitar o acesso a informações relevantes sobre inovação tecnológica e pesquisa científica na AGIN, promovendo maior transparência e visibilidade a esses dados.
 
+
 ---
+
 
 ## AGIN
 
@@ -10,7 +12,9 @@ A Agência de Inovação da Universidade Estadual do Ceará (AGIN/UECE) foi ofic
 A AGIN tem como propósito agregar novas atuações com o objetivo de impulsionar ainda mais a cultura e as práticas inovadoras dentro da universidade, desempenhando um papel fundamental na articulação de iniciativas da UECE, relacionadas à inovação e empreendedorismo, colaborando com diferentes setores e atores envolvidos no desenvolvimento desses processos.
 A Agência de Inovação da UECE também busca estabelecer parcerias e colaborações com ambientes externos, tanto do setor público quanto privado, sendo essas conexões essenciais para a promoção do empreendedorismo e o desenvolvimento de soluções inovadoras,bem como, a transferência de conhecimento.
 
+
 ---
+
 
 ## Funcionalidades
 
