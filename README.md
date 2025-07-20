@@ -1,4 +1,4 @@
-# Laboratórios e Patentes - Portal de Consulta da Agin
+# Laboratórios e Patentes - Portal de Consulta da AGIN
 
 Este é um site desenvolvido para a consulta e visualização de **laboratórios** e **patentes** registrados na AGIN, com funcionalidades de **busca por palavra-chave** e **filtros por tipo e área temática**. O objetivo principal é facilitar o acesso a informações relevantes sobre inovação tecnológica e pesquisa científica, promovendo maior transparência e visibilidade a esses dados.
 
