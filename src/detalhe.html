@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Detalhes do Laboratório ou Patente - LCE+</title>
+  <link rel="stylesheet" href="./detalhe.css" />
+</head>
+<body>
+
+  <!-- Cabeçalho do site -->
+  <header>
+    <div class="header-inner">
+      <div class="logo-area">
+        <img src="./imagens/Marca_aginhorizontal_branca.png" style="height: 65px; width: auto;"/>
+        
+      </div>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="/src/em-construcao.html">Sobre</a>
+        <a href="em-construcao.html">Serviços</a>
+        <a href="em-construcao.html">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Conteúdo principal -->
+  <main class="page-content">
+    <section class="conteudo" id="conteudoDetalhe">
+      <p>Carregando detalhes...</p>
+    </section>
+  </main>
+
+  <div class="coluna-lateral"></div>
+
+  <!-- Script principal -->
+  <script>
+    'use strict';
+
+    // Lê o parâmetro 'id' da URL
+    function getIdFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('id');
+    }
+
+    // Lista de arquivos de patentes (novo formato)
+    const arquivosPatentes = [
+      'patentes-invencao',
+      'patentes-utilidade',
+      'desenhos-industriais',
+      'programas-computadores'
+    ];
+
+    // Áreas utilizadas para buscar laboratórios (mantidas como antes)
+    const areasLaboratorios = [
+      'ciencias-humanas',
+      'ciencias-biologicas',
+      'ciencias-agrarias',
+      'ciencias-exatas-e-da-terra',
+      'ciencias-da-saude',
+      'ciencias-sociais-aplicadas'
+    ];
+
+    /**
+     * Busca um item com o ID fornecido dentro dos arquivos de patentes e laboratórios
+     * @param {string} id
+     * @returns {Promise<{ tipo: string, dados: object } | null>}
+     */
+    async function buscarItemPorId(id) {
+      // Procura primeiro nas patentes
+      for (const nomeArquivo of arquivosPatentes) {
+        try {
+          const res = await fetch(`patentes/${nomeArquivo}.json`);
+          if (res.ok) {
+            const dados = await res.json();
+            const item = dados.find(p => p.id === id);
+            if (item) {
+              return { tipo: 'Patente', dados: item };
+            }
+          }
+        } catch (e) {
+          console.warn(`Erro ao carregar ${nomeArquivo}.json`);
+        }
+      }
+
+      // Procura nos laboratórios por área
+      for (const area of areasLaboratorios) {
+        try {
+          const res = await fetch(`laboratorios/laboratorios-${area}.json`);
+          if (res.ok) {
+            const dados = await res.json();
+            const item = dados.find(l => l.id === id);
+            if (item) {
+              return { tipo: 'Laboratório', dados: item };
+            }
+          }
+        } catch (e) {
+          console.warn(`Erro ao carregar laboratorios-${area}.json`);
+        }
+      }
+
+      // Não encontrado em nenhum local
+      return null;
+    }
+
+// formata os nomes das patentes e labs
+function formatarNomeFrase(nome) {
+  if (!nome) return '';
+
+  // Divide em duas partes pelo hífen principal (o último hífen com espaços ao redor)
+  const partes = nome.split(/\s-\s/);
+
+  // Parte antes do hífen principal
+  const antes = partes[0].split(' ').map(palavra => {
+    // Se a palavra tem hífen interno, mantém ela como está
+    if (palavra.includes('-')) return palavra;
+
+    // Capitaliza a palavra (primeira letra maiúscula, resto minúsculo)
+    return palavra.charAt(0).toUpperCase() + palavra.slice(1).toLowerCase();
+  }).join(' ');
+
+  // Parte depois do hífen principal (sigla)
+  let depois = partes[1] ? partes[1].toUpperCase() : '';
+
+  return depois ? `${antes} - ${depois}` : antes;
+}
+
+// essa função mostra as informações na tela, na ordem que está aqui
+    function montarHtmlDetalhe(tipo, dados) {
+      const inventores = Array.isArray(dados.inventores) ? dados.inventores.join(', ') : null;
+      const temResumo = dados.resumo || dados.descricao;
+
+      return `
+        <a href="menubusca.html" class="voltar">← Voltar Para Página de Pesquisa</a>
+        <h1>${formatarNomeFrase(dados.nome || dados.titulo || 'Sem nome')}</h1>
+        
+        <p><strong>Tipo:</strong> ${tipo}</p>
+        <p><strong>Natureza:</strong> ${dados.natureza || dados.area || 'Não informado'}</p>
+        ${dados.status ? `<p><strong>Status:</strong> ${dados.status}</p>` : ''}
+        ${dados.dataDeposito ? `<p><strong>Data de Depósito:</strong> ${dados.dataDeposito}</p>` : ''}
+        ${dados.instituicao ? `<p><strong>Instituição:</strong> ${dados.instituicao}</p>` : ''}
+        ${inventores ? `<p><strong>Inventores:</strong> ${inventores}</p>` : ''}
+        ${temResumo ? `<p class="descricao">${dados.resumo || dados.descricao}</p>` : '<p class="descricao">Descrição não disponível.</p>'}
+        ${dados.vinculado ? `<p><strong>Vinculado:</strong> ${dados.vinculado}</p>` : ''}
+        ${dados.telefone ? `<p><strong>Telefone:</strong> ${dados.telefone}</p>` : ''}
+        ${dados.site ? `<p><strong>Site:</strong> <a href="${dados.site}" target="_blank" rel="noopener noreferrer">${dados.site}</a></p>` : ''}
+        ${dados.email ? `<p><strong>Email:</strong> ${dados.email}</p>` : ''}
+        ${dados.horario ? `<p><strong>Horário de Funcionamento:</strong> ${dados.horario}</p>` : ''}
+        <p class="link-extra">Para mais informações <a href="#" id="btnMaisInfo">Clique aqui</a></p>
+        <div id="infoExtra" class="info-extra" hidden>
+          ${dados.infoExtra || '<p>Informações adicionais não disponíveis.</p>'}
+        </div>
+      `;
+    }
+
+    /**
+     * Função principal que busca e exibe o detalhe do item
+     */
+    async function carregarDetalhe() {
+      const conteudo = document.getElementById('conteudoDetalhe');
+      const id = getIdFromUrl();
+
+      if (!id) {
+        conteudo.innerHTML = '<p style="color:red;">ID não informado na URL.</p>';
+        return;
+      }
+
+      conteudo.innerHTML = '<p>Carregando detalhes...</p>';
+
+      const resultado = await buscarItemPorId(id);
+
+      if (!resultado) {
+        conteudo.innerHTML = `<p style="color:red;">Item com ID "${id}" não encontrado.</p>`;
+        return;
+      }
+
+      conteudo.innerHTML = montarHtmlDetalhe(resultado.tipo, resultado.dados);
+
+      // Lógica para mostrar/ocultar informações extras
+      const btnMaisInfo = document.getElementById('btnMaisInfo');
+      const infoExtra = document.getElementById('infoExtra');
+
+      if (btnMaisInfo && infoExtra) {
+        btnMaisInfo.addEventListener('click', function (event) {
+          event.preventDefault();
+          const visivel = !infoExtra.hasAttribute('hidden');
+          if (visivel) {
+            infoExtra.setAttribute('hidden', '');
+            btnMaisInfo.textContent = 'Clique aqui';
+          } else {
+            infoExtra.removeAttribute('hidden');
+            btnMaisInfo.textContent = 'Esconder informações';
+          }
+        });
+      }
+    }
+
+    // Executa ao carregar a página
+    carregarDetalhe();
+  </script>
+</body>
+</html>
+

@@ -1,0 +1,214 @@
+/* Reset básico */
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fefefe;
+  color: #222;
+  scroll-behavior: smooth;
+  line-height: 1.6;
+}
+
+/* Container centralizado e responsivo */
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.sobre {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  background-color: #fafafa;
+  padding: 5vw;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 0.05);
+  margin-bottom: 60px;
+  width: 100%;
+  text-align: center;
+}
+
+.texto {
+  flex: 1 1 min(45ch, 100%);
+  padding: 1rem;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.texto h2 {
+  font-size: clamp(1.8rem, 3vw, 2.25rem);
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  color: #1f2937;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.texto h2 span {
+  color: #8a18cb;
+}
+
+.texto p {
+  font-size: clamp(1rem, 2.5vw, 1.125rem);
+  color: #4b5563;
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+}
+
+.imagem {
+  flex: 1 1 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagem iframe {
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgb(0 0 0 / 0.15);
+  width: 100%;
+  max-width: 560px;
+  aspect-ratio: 16 / 9;
+  transition: transform 0.3s ease;
+}
+
+.imagem iframe:hover {
+  transform: scale(1.05);
+  box-shadow: 0 20px 60px rgb(0 0 0 / 0.25);
+}
+
+
+/* Seção encontra com imagem de fundo */
+.encontra {
+  position: relative;
+  background: url('imagens/imagem -agin2.png') no-repeat center center/cover;
+  padding: 80px 20px;
+  color: white;
+  text-align: center;
+  border-radius: 12px;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 0.45);
+  margin-bottom: 80px;
+}
+
+.encontra h2 {
+  font-size: 2rem;
+  margin-bottom: 48px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-shadow: 0 3px 10px rgba(0,0,0,0.7);
+}
+
+/* Cartões com layout 2x2 em telas médias e 4 em linha em telas maiores */
+.cartoes {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 colunas iguais em telas grandes */
+  gap: 36px;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.cartao {
+  background-color: rgba(255 255 255 / 0.15);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 28px 24px;
+  box-shadow: 0 12px 30px rgb(0 0 0 / 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: default;
+  color: #fff;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.cartao:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 60px rgb(0 0 0 / 0.3);
+}
+
+.cartao h3 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+  font-weight: 700;
+  color: #ede9fe; /* lilás claro */
+}
+
+.cartao p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #d1d5db; /* cinza claro */
+}
+
+/* Container adaptativo */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+
+
+/* Responsividade */
+/* Em telas pequenas (até 780px) mostrar 2 colunas */
+@media (max-width: 880px) {
+/* Texto e imagem lado a lado, mas empilhando quando necessário */
+.texto, .imagem {
+  flex: 1 1 100%;
+  max-width: 600px;
+  width: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+/* Alinhamento adaptativo */
+.texto {
+  text-align: justify;
+}
+
+.imagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagem iframe {
+  width: 100%;
+  max-width: 560px;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgb(0 0 0 / 0.15);
+  transition: transform 0.3s ease;
+}
+
+.imagem iframe:hover {
+  transform: scale(1.05);
+  box-shadow: 0 20px 60px rgb(0 0 0 / 0.25);
+}
+
+/* Cartões com quebra para se adaptar a tela */
+.cartoes {
+    grid-template-columns: repeat(2, 1fr); /* 2 colunas */
+}
+}
