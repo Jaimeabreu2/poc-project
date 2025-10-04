@@ -1,0 +1,310 @@
+/* estilo para o corpo e fundo */
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+  margin: 0;
+  background-color: #ffffff;
+  color: #3a2360;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+/* Header fixo no topo */
+header {
+  background-color: rgba(58, 35, 96, 0.8);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 50;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.header-inner {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-area img {
+  height: 36px;
+  max-width: 100%;
+  height: auto;
+}
+
+.logo-area span {
+  font-size: 22px;
+  font-weight: 700;
+  color: white;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 24px;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+header nav a:hover {
+  color: #ff9f43;
+}
+
+/* Conteúdo principal com margem para o header e para a coluna lateral */
+.page-content {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  padding: 40px 40px 60px 40px;
+  flex: 1;
+  min-height: calc(100vh - 60px);
+  position: relative;
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1;
+}
+
+.conteudo {
+  width: 100%;
+  max-width: 720px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #3a2360;
+  margin-left: 20px;
+  margin-right: 40px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+.voltar {
+  display: inline-block;
+  color: #ff9f43;
+  font-weight: 700;
+  margin-bottom: 24px;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+.voltar:hover {
+  color: #d97c00;
+}
+
+h1 {
+  text-align: left;
+  font-size: 28px;
+  margin-top: 0;
+  margin-bottom: 24px;
+  font-weight: 800;
+  color: #4e3c7a;
+}
+
+p {
+  margin-bottom: 18px;
+  color: #4e3c7a;
+}
+
+p strong {
+  color: #6d529f;
+}
+
+a {
+  color: #ff9f43;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #e88e2a;
+}
+
+.link-extra {
+  margin-top: 30px;
+  font-size: 15px;
+}
+
+.info-extra {
+  margin-top: 24px;
+  background: #f1ebff;
+  padding: 24px 32px;
+  border-radius: 14px;
+  box-shadow: 0 4px 16px rgb(126 100 183 / 0.15);
+  color: #4e3c7a;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Coluna lateral fixa com imagem repetida e roxo translúcido */
+.coluna-lateral {
+  position: fixed;
+  top: 60px;
+  right: 0;
+  width: 200px;
+  height: calc(100vh - 60px);
+  background-image: url('imagens/Marca_aginsimbolo_fundo.png');
+  background-repeat: repeat-y;
+  background-position: center top;
+  background-size: 110px auto;
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  z-index: 0;
+}
+/* ======================================== */
+/* RESPONSIVIDADE - até 900px */
+/* ======================================== */
+@media (max-width: 900px) {
+  header {
+    height: 60px;       /* altura fixa para não crescer */
+    padding: 0 16px;    /* padding lateral para espaçamento */
+  }
+
+  .header-inner {
+    flex-direction: row;      /* logo e nav lado a lado */
+    align-items: center;      /* centraliza verticalmente */
+    justify-content: space-between;
+    width: 100%;
+    gap: 10px;
+  }
+
+  .logo-area {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;           /* evita encolher a logo */
+  }
+
+  .logo-area img {
+    max-height: 36px;
+    width: auto;
+  }
+
+  .logo-area span {
+    font-size: 20px;
+    white-space: nowrap;      /* evita quebra do texto da logo */
+  }
+
+  header nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: flex-end;
+    flex-grow: 1;             /* ocupa o máximo disponível */
+    min-width: 0;             /* evita overflow */
+  }
+
+  header nav a {
+    margin: 0;
+    font-size: 16px;
+    white-space: nowrap;      /* evita quebra dos links */
+  }
+
+  .page-content {
+    flex-direction: column;
+    padding: 20px 16px 40px 16px;
+  }
+
+  .conteudo {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .coluna-lateral {
+    display: none !important;
+  }
+}
+
+/* ======================================== */
+/* MELHOR RESPONSIVIDADE - até 600px       */
+/* Mantém a estética da navbar intacta     */
+/* ======================================== */
+@media (max-width: 600px) {
+  header {
+    height: 60px;      /* mantém a altura fixa */
+    padding: 0 12px;
+  }
+
+  .header-inner {
+    flex-direction: row;  /* logo e nav lado a lado */
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;      /* permite quebra se precisar */
+    gap: 8px;
+    width: 100%;
+  }
+
+  .logo-area {
+    flex-direction: row;  /* mantém logo e texto lado a lado */
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;       /* não deixa encolher */
+  }
+
+  .logo-area img {
+    height: 32px;
+    width: auto;
+  }
+
+  .logo-area span {
+    font-size: 18px;
+    white-space: nowrap;  /* evita quebra no nome */
+  }
+
+  header nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    justify-content: flex-end;
+    flex-grow: 1;         /* faz o nav ocupar espaço disponível */
+    min-width: 0;         /* evita overflow */
+  }
+
+  header nav a {
+    font-size: 14px;
+    margin: 0;
+    white-space: nowrap;  /* evita quebra de link */
+  }
+  
+  /* Conteúdo principal continua responsivo */
+  .page-content {
+    padding: 16px 12px 32px 12px;
+  }
+
+  .conteudo {
+    font-size: 15px;
+    line-height: 1.6;
+    padding: 0;
+    margin: 0;
+  }
+
+  h1 {
+    font-size: 22px;
+  }
+
+  .voltar {
+    font-size: 13px;
+  }
+
+  .info-extra {
+    padding: 16px 20px;
+    font-size: 13px;
+  }
+}

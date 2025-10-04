@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Patentes e Laboratórios</title>
+  <link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+
+ <header>
+    <div class="header-inner">
+      <div class="logo-area">
+        <a href="../index.html">
+  <img src="imagens/Marca_aginhorizontal_branca.png" style="height: 65px; width: auto;" />
+</a>  
+  </header>
+
+<div class="container">
+
+  <div class="topo">
+    <input type="text" placeholder="Pesquise Aqui" class="busca" id="search-bar" />
+    <button class="botao-buscar" id="botao-buscar">&#128269;</button>
+  </div>
+
+  <p class="legenda">Encontre o que procura de forma simples! Digite aqui uma palavra-chave para localizar tecnologias ou laboratórios da Universidade. Exemplos: “energia solar”, “biotecnologia”, “laboratório de química”.</p>
+
+  <div class="abas">
+    <button class="aba ativa" data-tipo="patentes">Patentes</button>
+    <button class="aba" data-tipo="laboratorios">Laboratórios</button>
+  </div>
+
+  <!-- Filtros Patentes -->
+  <div class="filtros ativo" id="filtros-patentes">
+    <div class="grupo-areas" id="patentes-areas">
+      <button data-area="patentes-utilidade">PATENTES - MODELO DE UTILIDADE </button>
+      <button data-area="patentes-invencao">PATENTES - INVENÇÃO</button>
+      <button data-area="programas-computadores">PROGRAMAS DE COMPUTADOR</button>
+      <button data-area="desenhos-industriais">DESENHOS INDUSTRIAIS</button>
+    </div>
+  </div>
+
+  <!-- Filtros Laboratórios -->
+  <div class="filtros" id="filtros-laboratorios">
+    <div class="grupo-natureza">
+      <span>Natureza:</span>
+      <label><input type="checkbox" value="misto" class="natureza-checkbox"> Misto</label>
+      <label><input type="checkbox" value="pesquisa" class="natureza-checkbox"> Pesquisa</label>
+      <label><input type="checkbox" value="ensino" class="natureza-checkbox"> Ensino</label>
+      <label><input type="checkbox" value="extensão" class="natureza-checkbox"> Extensão</label>
+    </div>
+    <div class="grupo-areas" id="laboratorios-areas">
+      <button data-area="ciencias humanas">CIÊNCIAS HUMANAS</button>
+      <button data-area="ciencias biologicas">CIÊNCIAS BIOLÓGICAS</button>
+      <button data-area="ciencias agrarias">CIÊNCIAS AGRÁRIAS</button>
+      <button data-area="ciencias exatas e da terra">CIÊNCIAS EXATAS E DA TERRA</button>
+      <button data-area="ciencias da saude">CIÊNCIAS DA SAÚDE</button>
+      <button data-area="ciencias sociais aplicadas">CIÊNCIAS SOCIAIS APLICADAS</button>
+    </div>
+  </div>
+
+  <ul id="results" class="lista-resultados"></ul>
+  <div id="lab-erro" style="color:red; margin-top:10px;"></div>
+</div>
+
+<script>
+  // Função para obter parâmetro da URL
+  function getQueryParam(param) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('search-bar');
+    const botaoBuscar = document.getElementById('botao-buscar');
+
+    // Pegar parâmetro "q" da URL
+    const query = getQueryParam('q');
+    if (query) {
+      searchInput.value = query;
+      // Chama a função que atualiza os resultados
+      if (typeof mostrarResultados === 'function') {
+        mostrarResultados();
+      }
+    }
+
+    // Ação do botão de busca para redirecionar com o termo na URL
+    botaoBuscar.addEventListener('click', () => {
+      const termo = searchInput.value.trim();
+      if (termo.length > 0) {
+        window.location.href = `menubusca.html?q=${encodeURIComponent(termo)}`;
+      }
+    });
+
+    // Permitir buscar ao pressionar Enter
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        const termo = searchInput.value.trim();
+        if (termo.length > 0) {
+          window.location.href = `menubusca.html?q=${encodeURIComponent(termo)}`;
+        }
+      }
+    });
+  });
+
+//rodapé logo em seguida ao script
+</script>
+<footer class="rodape">
+  <div class="rodape-container">
+    <div class="rodape-info">
+     <img src="imagens/Marca_aginhorizontal_branca.png" alt="Logo AGIN" class="rodape-logo" />
+      <p><strong>Agência de Inovação da UECE © 2025. Todos os direitos reservados.</strong></p>
+      <p>Endereço: Av. Dr. Silas Munguba - Serrinha, Fortaleza - CE, 60714-903.</p>
+    </div>
+    <div class="rodape-contato">
+      <h4>Contato</h4>
+      <p>Email: agin@uece.br</p>
+      <p>Telefone: (85) 3101-9978</p>
+    </div>
+  </div>
+</footer>
+
+
+<script src="app.js"></script>
+</body>
+</html>
