@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
     botoes.forEach(botao => {
       botao.classList.remove('ativa');
       botao.onclick = () => {
-        const chave = botao.dataset.area;
+        const chave = botao.dataset.area; // Usa apenas o atributo data-area
         const jaAtivo = botao.classList.contains('ativa');
 
         if (jaAtivo) {
@@ -239,13 +239,13 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // Troca textos visuais de "Patente(s)" para "Tecnologia(s)" no front end
-  function ajustarTextosParaTecnologia() {
+  /*function ajustarTextosParaTecnologia() {
     // Abas
     abas.forEach(botao => {
       if (botao.dataset.tipo === 'patentes') {
         botao.textContent = 'Tecnologias';
       }
-    });
+    });*/
     // Título do filtro
     // const filtrosTitulo = document.querySelector('#filtros-patentes .grupo-natureza span');
     // if (filtrosTitulo) filtrosTitulo.textContent = 'Natureza:';
@@ -255,15 +255,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // Botões dos tipos
     const botoesPatentes = document.querySelectorAll('#filtros-patentes .grupo-areas button');
     botoesPatentes.forEach(btn => {
-      if (btn.textContent.toUpperCase().includes('PATENTES - MODELO DE UTILIDADE')) btn.textContent = 'TECNOLOGIAS - MODELO DE UTILIDADE';
-      if (btn.textContent.toUpperCase().includes('PATENTES - INVENÇÃO')) btn.textContent = 'TECNOLOGIAS - INVENÇÃO';
+      if (btn.textContent.toUpperCase().includes('PATENTES - MODELO DE UTILIDADE')) btn.textContent = 'PATENTES, MODELO DE UTILIDADE';
+      if (btn.textContent.toUpperCase().includes('PATENTES - INVENÇÃO')) btn.textContent = 'PATENTES DE INVENÇÃO';
     });
-    // Título da página (opcional)
-    if (document.title.includes('Patentes')) document.title = document.title.replace('Patentes', 'Tecnologias');
-  }
 
-  // Chama o ajuste ao carregar
-  ajustarTextosParaTecnologia();
+  //ajustarTextosParaTecnologia();
 
   // Mostra os resultados filtrados na tela
   function mostrarResultados() {
@@ -380,7 +376,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'e', 'em', 'com', 'para', 'por', 'a', 'o', 'as', 'os'
   ]);
 
-   // Se tiver " - " (com espaço): capitaliza só antes
+  // Se tiver " - " (com espaço): capitaliza só antes
   if (texto.includes(' - ')) {
     const partes = texto.split(' - ');
     const antes = partes[0];
