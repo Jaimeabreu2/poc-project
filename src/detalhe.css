@@ -155,17 +155,23 @@ a:hover {
   position: fixed;
   top: 60px;
   right: 0;
-  width: 200px;
+  width: 140px; /* menor largura */
   height: calc(100vh - 60px);
   background-image: url('imagens/Marca_aginsimbolo_fundo.png');
   background-repeat: repeat-y;
   background-position: center top;
-  background-size: 110px auto;
-  background-color: transparent;
-  box-shadow: none;
-  border: none;
+  background-size: 90px auto;
   z-index: 0;
 }
+
+/* Garantir que em telas médias o layout permaneça legível */
+@media (max-width: 1100px) {
+  .coluna-lateral {
+    width: 100px;
+    background-size: 70px auto;
+  }
+}
+
 /* ======================================== */
 /* RESPONSIVIDADE - até 900px */
 /* ======================================== */

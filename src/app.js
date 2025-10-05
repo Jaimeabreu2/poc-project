@@ -1,10 +1,3 @@
-// =============================
-// ATENÇÃO: Mudança crítica!
-// Todas as ocorrências visuais de "Patente(s)" devem ser exibidas como "Tecnologia(s)" para o usuário.
-// Não altere variáveis internas, apenas garanta que no front end (botões, títulos, filtros, mensagens, etc.)
-// o termo "Tecnologia" apareça no lugar de "Patente".
-// =============================
-
 'use strict';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -237,29 +230,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     return false;
   }
-
-  // Troca textos visuais de "Patente(s)" para "Tecnologia(s)" no front end
-  /*function ajustarTextosParaTecnologia() {
-    // Abas
-    abas.forEach(botao => {
-      if (botao.dataset.tipo === 'patentes') {
-        botao.textContent = 'Tecnologias';
-      }
-    });*/
-    // Título do filtro
-    // const filtrosTitulo = document.querySelector('#filtros-patentes .grupo-natureza span');
-    // if (filtrosTitulo) filtrosTitulo.textContent = 'Natureza:';
-    // Oculta o grupo-natureza do filtro de patentes
-    const grupoNaturezaPatentes = document.querySelector('#filtros-patentes .grupo-natureza');
-    if (grupoNaturezaPatentes) grupoNaturezaPatentes.style.display = 'none';
-    // Botões dos tipos
-    const botoesPatentes = document.querySelectorAll('#filtros-patentes .grupo-areas button');
-    botoesPatentes.forEach(btn => {
-      if (btn.textContent.toUpperCase().includes('PATENTES - MODELO DE UTILIDADE')) btn.textContent = 'PATENTES, MODELO DE UTILIDADE';
-      if (btn.textContent.toUpperCase().includes('PATENTES - INVENÇÃO')) btn.textContent = 'PATENTES DE INVENÇÃO';
-    });
-
-  //ajustarTextosParaTecnologia();
 
   // Mostra os resultados filtrados na tela
   function mostrarResultados() {
