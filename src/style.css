@@ -12,7 +12,6 @@ body, html {
   color: #222;
   scroll-behavior: smooth;
   line-height: 1.6;
-  font-size: clamp(14px, 1.5vw, 16px); /* Tamanho de fonte adaptável */
 }
 
 /* Container centralizado e responsivo */
@@ -25,13 +24,6 @@ body, html {
   align-items: center;
   justify-content: space-between;
   gap: 40px;
-}
-
-/* Ajustes para o container principal */
-.container {
-  max-width: 90vw; /* Usa largura relativa */
-  margin: 0 auto;
-  padding: 0 20px;
 }
 
 .sobre {
@@ -125,32 +117,23 @@ body, html {
 /* Cartões com layout 2x2 em telas médias e 4 em linha em telas maiores */
 .cartoes {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
-  align-items: stretch;
-  width: 100%;
+  grid-template-columns: repeat(4, 1fr); /* 4 colunas iguais em telas grandes */
+  gap: 36px;
   max-width: 1140px;
   margin: 0 auto;
-  padding: 0;
 }
 
-/* Ajustes para os cartões */
 .cartao {
   background-color: rgba(255 255 255 / 0.15);
   backdrop-filter: blur(10px);
   border-radius: 16px;
-  padding: 18px;
+  padding: 28px 24px;
   box-shadow: 0 12px 30px rgb(0 0 0 / 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: default;
   color: #fff;
-  text-align: center;
-  width: 100%;            /* ocupa a célula do grid */
-  height: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .cartao:hover {
@@ -184,54 +167,7 @@ body, html {
   padding: 0 5%;
 }
 
-/* Ajustes para o rodapé */
-.rodape {
-  padding: 1rem;
-  font-size: clamp(12px, 1vw, 14px);
-}
 
-/* Ajustes para o header */
-header {
-  padding: 0 1rem;
-  height: clamp(50px, 7vh, 60px);
-}
-
-/* Ajustes para o input de busca */
-.busca {
-  width: 100%;
-  max-width: 350px;
-  padding: 10px;
-  font-size: clamp(14px, 1.2vw, 16px);
-}
-
-/* Ajustes para o botão de busca */
-.botao-buscar {
-  padding: 10px 20px;
-  font-size: clamp(14px, 1.2vw, 16px);
-}
-
-/* Ajustes para a lista de resultados */
-.lista-resultados {
-  max-height: 60vh;
-  overflow-y: auto;
-  padding: 10px;
-}
-
-/* Ajustes para o iframe */
-.imagem iframe {
-  width: 100%;
-  max-width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
-  border-radius: 12px;
-  box-shadow: 0 12px 40px rgb(0 0 0 / 0.15);
-  transition: transform 0.25s ease;
-}
-
-.imagem iframe:hover {
-  transform: scale(1.05);
-  box-shadow: 0 20px 60px rgb(0 0 0 / 0.25);
-}
 
 /* Responsividade */
 /* Em telas pequenas (até 780px) mostrar 2 colunas */
@@ -258,12 +194,12 @@ header {
 
 .imagem iframe {
   width: 100%;
-  max-width: 100%;
+  max-width: 560px;
   aspect-ratio: 16 / 9;
   height: auto;
-  border-radius: 12px;
+  border-radius: 16px;
   box-shadow: 0 12px 40px rgb(0 0 0 / 0.15);
-  transition: transform 0.25s ease;
+  transition: transform 0.3s ease;
 }
 
 .imagem iframe:hover {
@@ -275,79 +211,4 @@ header {
 .cartoes {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas */
 }
-}
-
-/* Responsividade para telas menores */
-@media (max-width: 768px) {
-  .container {
-    padding: 0 10px;
-  }
-
-  .cartoes {
-    flex-direction: column;
-    gap: 15px;
-  }
-
-  .cartao {
-    width: 100%;
-  }
-
-  header nav {
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-
-  .busca {
-    width: 100%;
-  }
-
-  .botao-buscar {
-    width: 100%;
-  }
-
-  .rodape {
-    text-align: center;
-  }
-}
-
-@media (max-width: 480px) {
-  header {
-    flex-direction: column;
-    height: auto;
-  }
-
-  .logo-area img {
-    height: 40px;
-  }
-
-  .abas {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .grupo-areas button {
-    width: 100%;
-    font-size: 14px;
-  }
-
-  .lista-resultados {
-    padding: 8px;
-  }
-
-  .cartoes {
-    grid-template-columns: 1fr; /* 1 coluna em telas pequenas */
-  }
-  .sobre {
-    padding: 4vw;
-    gap: 1rem;
-  }
-  .encontra {
-    padding: 4vw;
-    min-height: auto;
-  }
-  .imagem iframe {
-    aspect-ratio: 16 / 9;
-    width: 100%;
-    max-width: 100%;
-  }
 }
