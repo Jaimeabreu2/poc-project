@@ -117,7 +117,7 @@
     "coordenacao": "Prof. Dr. José Ferreira Nunes (Lattes - http://lattes.cnpq.br/2976613011582984)",
     "area": "Ciências Agrárias",
     "email": "ppgbiotec.uece@uece.br",
-    "telefone": "(85) 3101-9854",
+    "telefone": "(85) 3101.9854",
     "site": "https://www.uece.br/nib/",
     "natureza": "Misto",
     "vinculado": "Faculdade de Veterinária (FAVET)",
@@ -126,21 +126,6 @@
     "infraestrutura": "O laboratório dispõe de equipamentos e mobiliários essenciais para a realização de suas atividades.",
     "tags": "",
     "id": "laboratorio-de-tecnologia-do-semen-de-caprinos-e-ovinos---ltsco"
-  },
-  {
-    "nome": "LABORATÓRIO DE DIETÉTICA E ANÁLISE SENSORIAL - LADAS",
-    "descricao": "A UPTBI realiza estudos com células-tronco mesenquimais e vesículas extracelulares, além de desenvolver pesquisas inovadoras para aprimorar a criopreservação e o cultivo de tecido ovariano e testicular de animais domésticos. Essas iniciativas são fundamentais para a conservação de espécies, a reprodução assistida em medicina veterinária e oferecem valiosos insights para a medicina humana, destacando o compromisso da UPTBI com a inovação e a excelência científica.",
-    "coordenacao": "Profa. Dra. Ana Paula Ribeiro Rodrigues (Lattes - http://lattes.cnpq.br/0071340809284453)",
-    "parcerias": "Fundação Oswaldo Cruz (Fiocruz) Universidade Federal de Ceará (UFC) Universidade de Fortaleza (UNIFOR) Universidade de Brasilia (UnB) Universidade de São Paulo (USP) Institut National de la Recherche Agronomique - França Instituto Nacional de Investigatión y Tecnología Agraria y Alimentaria - Espanha Vrije Universiteit Brussel - Bélgica",
-    "infraestrutura": "O laboratório está equipado com micromanipulador, incubadoras de cultivo celular, fluxo laminar, estereoscópios, microscópios, balanças entre outros.",
-    "natureza": "Pesquisa",
-    "area": "Ciências Agrárias",
-    "vinculado": "Faculdade de Veterinária (FAVET) e Programa de Doutorado em Biotecnologia – Rede Nordeste de Biotecnologia (RENORBIO)",
-    "horario": "Segunda a sexta-feira, das 08h às 17h",
-    "telefone": "(85) 3101-9855",
-    "email": "anapaularibeirorodrigues@gmail.com |  uptbi@uece.br",
-    "site": "www.uece.br/",
-    "id": "laboratorio-de-dietetica-e-analise-sensorial---ladas"
   },
   {
     "nome": "Laboratório de Microbiologia Veterinária do CECITEC e profissionais da região.",
@@ -188,22 +173,6 @@
     "infraestrutura": "O laboratório está equipado com dois ultrassons Doppler, microscópio óptico, computador para análise de imagens ultrassonográficas, mesa aquecedora, banho  maria. ",
     "tags": "",
     "id": "lab-ladiar"
-  },
-  {
-    "nome": "LABORATÓRIO UNIVERSITÁRIO DE EDUCAÇÃO POPULAR, TRABALHO E MOVIMENTOS SOCIAIS - LUTEMOS",
-    "descricao": "O LUTEMOS dedica-se à investigação e ao desenvolvimento de iniciativas nas áreas de Educação do Campo, Educação Popular, Agroecologia, Questão Agrária, Trabalho e Movimentos Sociais. O laboratório também se empenha em projetos de extensão universitária e de iniciação artística, visando contribuir significativamente para a transformação social e o desenvolvimento sustentável das comunidades com as quais interage.",
-    "coordenacao": "Prof. Dr. Célio Ribeiro Coutinho (Lattes - https://lattes.cnpq.br/7406822952212237)",
-    "area": "Ciências Agrárias",
-    "email": "celio.coutinho@uece.br",
-    "telefone": "(88) 3673.7051",
-    "site": "https://www.uece.br/",
-    "natureza": "Misto",
-    "vinculado": "Faculdade de Educação de Itapipoca (FACEDI) Curso de Pedagogia",
-    "horario": "Segunda a sexta-feira, das 08h às 18h",
-    "parcerias": "Instituto Federal do Ceará - Itapipoca Rede das Escolas do Campo (Associação dos Remanescentes de Quilombo de Nazaré) Movimento das(os) Trabalhadoras(es) Rurais Sem Terra (MST) Movimento de Mulheres Trabalhadoras Rurais (MMTR) Rede de Agricultores/as Agroecológicas e Solidários dos Vales do Curu e Aracatiaçu Rede de Intercâmbio de Sementes (RIS Três Climas)  Conselho Indígena de Tremembé de Itapipoca (CITI) Articulação Povos de Luta (Associação dos Feirantes Agroecológica e Solidário dos Vales do Curu e Aracatiaçu) Associação dos Cultivadores e Cultivadoras de Algas Marinhas- Itapipoca Associação dos Pequenos Agricultores e Pescadores Assentados do Imóvel de Sabiaguaba - Amontada Escolas da Rede Estadual de Educação do Ceará",
-    "infraestrutura": "Utiliza a infraestrutura da Faculdade de Educação de Itapipoca e das instituições parceiras para a realização de atividades de pesquisa",
-    "tags": "",
-    "id": "lab-lutemos"
   },
   {
     "nome": "LABORATÓRIO DE VIROLOGIA - LABOVIR",
@@ -283,21 +252,5 @@
     "infraestrutura": "O ParaVet dispõe, em seu espaço físico, de balanças portáteis (2), microscópios (3), vidrarias diversas e um laminário.",
     "tags": "",
     "id": "lab-paravet"
-  },
-  {
-    "nome": "LABORATÓRIO DE CONSERVAÇÃO DE CERVÍDEOS NETROPICAIS - LACCERNE",
-    "descricao": "O LACCERNE realiza atividades de pesquisa em cervidologia, com ênfase em estudos genéticos e moleculares voltados para a conservação de cervídeos neotropicais do Nordeste, especialmente do Ceará. Pesquisas do laboratório incluem: filogenia decifrada por abordagens moleculares e citogenéticas, validação de amostras minimamente invasivas como fontes de células para biobancos, estudo de diversidade genética populacional através de marcadores mitocondriais e microssatélites, além de diagnóstico molecular de zoonoses. O LACCERNE também acolhe cervídeos neotropicais oriundos do tráfico de animais no Estado do Ceará, fornecendo condições de sobrevivência e disponibilizando a identificação genética dos mesmos, bem como a conservação de seu material genético em criobanco.",
-    "coordenacao": "Profª. Drª. Luciana Magalhães Melo (Lattes -  http://lattes.cnpq.br/9411700765548735)",
-    "area": "Ciências Agrárias",
-    "email": "maria.goretti@uece.br",
-    "telefone": "(85) 3101.9861",
-    "site": "https://www.uece.br/",
-    "natureza": "Misto",
-    "vinculado": "Faculdade de Veterinária (FAVET)",
-    "horario": "Segunda a Sexta, das 08h às 18h",
-    "parcerias": "ONG Instituto Pró-Silvestre (IPS) Núcleo de Pesquisa e Conservação de Cervídeos (NUPECCE) - Universidade Estadual Paulista (UNESP) de Jaboticabal Muséum National d’Histoire Naturelle - França",
-    "infraestrutura": "O laboratório conta com infraestrutura para realização de técnicas moleculares (como PCR convencional e em tempo real), cultivo de células (como incubadora de CO2 e fluxo laminar), além de microscopia de light-sheet (MLS). Adicionalmente, conta com instalações adaptadas para cervídeos.",
-    "tags": "",
-    "id": "lab-laccerne"
   }
 ]
