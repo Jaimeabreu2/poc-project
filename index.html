@@ -9,38 +9,53 @@
   <!-- <script src="app.js?v=2"></script> -->
 </head>
 <!-- Barra fixa, com logo da agin -->
-<body class="bg-gray-100 pt-0">
-  <header class="bg-gradient-to-r from-purple-900 via-purple-800 to-purple-700 shadow-md">
-  <header class="bg-purple-900 bg-opacity-70 backdrop-blur-sm fixed w-full z-30">
-  <div class="max-w-7xl mx-auto px-9 py-1 flex items-center justify-between">
-    <div class="flex items-center space-x-3">
-      <img src="src/imagens/Marca_aginhorizontal_branca.png" alt="Logo AGIN" class="h-16 w-auto" />
-     <!--  <span class="text-white text-2xl font-extrabold tracking-wide">AGIN</span>  -->
+<body class="bg-gray-100 pt-16">
+  <!-- Header corrigido: apenas um elemento <header> (fixado) -->
+  <header class="bg-purple-900 bg-opacity-70 backdrop-blur-sm fixed top-0 left-0 w-full z-50">
+    <div class="max-w-7xl mx-auto px-9 py-1 flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <img src="src/imagens/Marca_aginhorizontal_branca.png" alt="Logo AGIN" class="h-16 w-auto" />
+      </div>
+
+      <nav class="hidden md:flex space-x-8 text-white font-medium text-base">
+        <a href="#sobre" class="hover:text-orange-400 transition-colors duration-300">Sobre</a>
+        <a href="https://jaimeabreu2.github.io/poc-project/src/menubusca.html?tipo=laboratorios" class="hover:text-orange-400 transition-colors duration-300">Laboratórios</a>
+        <a href="src/menubusca.html" class="hover:text-orange-400 transition-colors duration-300">Tecnologias</a>
+      </nav>
+
+      <button id="menu-btn" class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-white focus:outline-none" aria-expanded="false" aria-label="Abrir menu">
+        <svg id="menu-open" class="h-8 w-8" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+        </svg>
+        <svg id="menu-close" class="h-8 w-8 hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+        </svg>
+      </button>
     </div>
-    <nav class="space-x-8 text-white font-medium text-base">
-    <a href="#sobre" class="hover:text-orange-400 transition-colors duration-300">Sobre</a>
-      <a href="https://jaimeabreu2.github.io/poc-project/src/menubusca.html?tipo=laboratorios" class="hover:text-orange-400 transition-colors duration-300">Laboratórios</a>
-      <a href="src/menubusca.html" class="hover:text-orange-400 transition-colors duration-300">Tecnologias</a>
-    </nav>
-  </div>
-</header>
 
-<section class="relative h-[85vh] w-full overflow-hidden">
-  <img src="src/imagens/imagem - agin1.png" alt="Imagem de fundo" class="absolute top-0 left-0 w-full h-full object-cover z-0" />
+    <div id="mobile-menu" class="md:hidden hidden bg-purple-900 bg-opacity-95 text-white w-full absolute top-full left-0 z-40">
+      <div class="px-4 pt-2 pb-4 space-y-1">
+        <a href="#sobre" class="block px-3 py-2 rounded hover:bg-purple-800">Sobre</a>
+        <a href="https://jaimeabreu2.github.io/poc-project/src/menubusca.html?tipo=laboratorios" class="block px-3 py-2 rounded hover:bg-purple-800">Laboratórios</a>
+        <a href="src/menubusca.html" class="block px-3 py-2 rounded hover:bg-purple-800">Tecnologias</a>
+      </div>
+    </div>
+  </header>
 
-  <div class="absolute inset-0 bg-black bg-opacity-50 z-10"></div>
+  <section class="relative h-[85vh] w-full overflow-hidden">
+    <img src="src/imagens/imagem - agin1.png" alt="Imagem de fundo" class="absolute top-0 left-0 w-full h-full object-cover z-0" />
+    <div class="absolute inset-0 bg-black bg-opacity-50 z-10"></div>
 
-  <div class="relative z-20 flex flex-col items-center justify-center h-full text-white px-4 text-center">
-   <form action="src/menubusca.html" method="GET" class="flex w-full max-w-xl">
-  <input type="text" name="q" placeholder="Pesquise Aqui" class="w-full px-4 py-2 rounded-l-full text-black focus:outline-none" />
-  <button type="submit" class="bg-orange-500 px-4 py-2 rounded-r-full">🔍</button>
-</form>
-    <h2 class="mt-4 text-sm font-semibold">Coloque aqui a palavra-chave que você deseja pesquisar sobre as tecnologias ou laboratórios da UECE.</h2>
-  </div>
-</section>
+    <div class="relative z-20 flex flex-col items-center justify-center h-full text-white px-4 text-center">
+      <form action="src/menubusca.html" method="GET" class="flex w-full max-w-xl">
+        <input type="text" name="q" placeholder="Pesquise Aqui" class="w-full px-4 py-2 rounded-l-full text-black focus:outline-none" />
+        <button type="submit" class="bg-orange-500 px-4 py-2 rounded-r-full">🔍</button>
+      </form>
+      <h2 class="mt-4 text-sm font-semibold">Coloque aqui a palavra-chave que você deseja pesquisar sobre as tecnologias ou laboratórios da UECE.</h2>
+    </div>
+  </section>
 
-</div>
-  <section id= "sobre" class="sobre">
+  <section id="sobre" class="sobre">
     <div class="container">
       <div class="texto">
         <h2><span>Sobre</span><br>o Inova 27°</h2>
@@ -94,6 +109,31 @@
   </div>
 </footer>
 
+<script>
+  // filepath: c:\Users\jaime\Downloads\poc-project-master (4)\poc-project-master\index.html
+  (function(){
+    const btn = document.getElementById('menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    const openIcon = document.getElementById('menu-open');
+    const closeIcon = document.getElementById('menu-close');
+    if (!btn || !menu) return;
+    btn.addEventListener('click', () => {
+      menu.classList.toggle('hidden');
+      openIcon.classList.toggle('hidden');
+      closeIcon.classList.toggle('hidden');
+      const expanded = (!menu.classList.contains('hidden')).toString();
+      btn.setAttribute('aria-expanded', expanded);
+    });
+    // fecha menu quando clicar em um link
+    document.querySelectorAll('#mobile-menu a').forEach(a => {
+      a.addEventListener('click', () => {
+        menu.classList.add('hidden');
+        openIcon.classList.remove('hidden');
+        closeIcon.classList.add('hidden');
+        btn.setAttribute('aria-expanded', 'false');
+      });
+    });
+  })();
+</script>
 </body>
-</html>
 </html>
