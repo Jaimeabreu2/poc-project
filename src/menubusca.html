@@ -6,6 +6,24 @@
   <title>Patentes e Laboratórios</title>
   <link rel="stylesheet" href="estilo.css" />
 </head>
+  
+<!-- Ativa o filtro de laboratorios -->
+  <script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const params = new URLSearchParams(window.location.search);
+    const tipo = params.get('tipo');
+
+    if (tipo) {
+      setTimeout(() => {
+        const botao = document.querySelector(`.aba[data-tipo="${tipo}"]`);
+        if (botao) {
+          botao.click();
+        }
+      }, 200);
+    }
+  });
+</script>
+  
 <body>
 
  <header>
