@@ -25,7 +25,7 @@
     "site": "www.uece.br/",
     "natureza": "Pesquisa",
     "vinculado": "Centro de Humanidades (CH) - Curso de História / PPGHCE",
-    "horario": "Quinta-feira, das 15h às 17h",
+    "horario": "Segunda, das 15h às 17h",
     "parcerias": "Atualmente, não foram especificadas parcerias, mas o LEHA está aberto a colaborações que alinhem com seus objetivos.",
     "infraestrutura": "Utiliza a infraestrutura do Programa de Pós-Graduação em História, Culturas e Espacialidades (PPGHCE) para a realização de atividades de pesquisa.",
     "tags": "",
@@ -183,7 +183,7 @@
     "email": "lidia.noemia@uece.br",
     "telefone": "(88) 3445.1036",
     "site": "www.uece.br/",
-    "natureza": "Ensino",
+    "natureza": "Misto",
     "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC)",
     "horario": " Segunda a sexta-feira, das 09h às 20h",
     "parcerias": "GT de Ensino de História do Ceará - Anpuh/CE Associação Brasileira de Ensino de História (ABEH) LEAH - Laboratório de Ensino de Aprendizagem Histórica da UFC",
@@ -427,7 +427,7 @@
     "horario": "Segunda à sexta-feira, das 8h às 21h",
     "telefone": "(85) 3101.9869",
     "email": "leonardoaf.alves@uece.br",
-    "site": "https://www.uece.br/ced/",
+    "site": "https://www.uece.br",
     "id": "laboratorio-de-ensino-e-de-pesquisa-em-ensino-labeen-"
   },
   {
@@ -476,21 +476,6 @@
     "id": "laboratorio-de-traducao-audiovisual-latav"
   },
   {
-    "nome": "Laboratório de Ensino e Pesquisa em Língua Portuguesa",
-    "descricao": "O laboratório se dedica integralmente ao avanço do ensino de língua portuguesa nas salas de aula da educação básica, sendo um catalisador para pesquisas significativas neste domínio. Além disso, concentra seus esforços em investigações relacionadas a aspectos linguísticos e literários que têm na língua portuguesa seu objeto científico central. Essa abordagem abrangente abarca desde questões pedagógicas e metodológicas até análises aprofundadas de elementos linguísticos e literários, enriquecendo a compreensão do idioma e suas manifestações na prática educacional. Além das atividades de pesquisa, o laboratório desempenha um papel crucial ao auxiliar na promoção de eventos e projetos associados ao curso de Letras Português.",
-    "coordenacao": "Profª. Me. Ariane Silva da Costa Sampaio (Lattes- http://lattes.cnpq.br/251505301611993)",
-    "parcerias": "Escolas de ensino básico do município de Iguatu e região",
-    "infraestrutura": "O laboratório dispõe de equipamentos e mobiliários essenciais para a realização de atividades de pesquisa.",
-    "natureza": "Misto",
-    "area": "Ciências Humanas, Linguística, Letras e Artes",
-    "vinculado": "Faculdade de Educação, Ciências e Letras de Iguatu (FECLI) - curso de Letras",
-    "horario": " Segunda a sexta-feira, das 07h às 22:00h",
-    "telefone": "(88) 3581.4558",
-    "email": "ariane.sampaio@uece.br",
-    "site": "https://www.uece.br/fecli/",
-    "id": "laboratorio-de-ensino-e-pesquisa-em-lingua-portuguesaaa"
-  },
-  {
     "nome": "Laboratório de Educação Matemática da FECLESC",
     "descricao": "O Laboratório de Educação Matemática da FECLESC – LaboMática tem como propósito facilitar a compreensão da Matemática, unindo teoria e prática por meio do uso de recursos didáticos. Funciona como um espaço de estudo e aprendizagem, com materiais organizados e acessíveis a professores, alunos e comunidade externa. Seu objetivo geral é desenvolver atividades de ensino, pesquisa e extensão em Educação Matemática, ampliando ideias e ações nessa área. Entre os objetivos específicos estão: promover a aprendizagem de conteúdos matemáticos e fundamentos teórico-metodológicos na formação de licenciandos; oferecer atividades de extensão para a formação continuada de professores da Educação Básica; e refletir, sistematizar e divulgar as experiências realizadas, contribuindo para a produção de conhecimento e fortalecimento da pesquisa na área.",
     "coordenacao": "Prof. Dr. Francisco Edisom Eugenio de Sousa (Lattes - http://lattes.cnpq.br/1626910802465251)",
@@ -516,7 +501,7 @@
     "vinculado": "Centro de Ciências Humanas, curso de Psicologia",
     "horario": "Segunda a sexta-feira, das 8h às 18h",
     "telefone": "(85) 3101.9981",
-    "email": "spa.uece@uece.br | thicianne.malheiros@uece.br",
+    "email": "spa.uece@uece.br",
     "site": "https://www.uece.br/",
     "id": "laboratorio-servico-de-psicologia-aplicada---spa-"
   },
@@ -574,7 +559,7 @@
     "natureza": "Pesquisa",
     "area": "Ciências Humanas, Linguística, Letras e Artes; Ciências Exatas e da Terra; Ciências Sociais",
     "vinculado": "Faculdade de Educação, Ciências e Letras do Sertão Central (FECLESC), Curso de Licenciatura em Química",
-    "horario": "Segunda a sexta-feira, das 14h às 17h",
+    "horario": "Segunda a sexta-feira, das 8h às 18h",
     "telefone": "(88) 3445.1036",
     "email": "manuel.bandeira@uece.br",
     "site": "https://www.uece.br/",
