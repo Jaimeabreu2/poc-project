@@ -1,8 +1,8 @@
-
 * {
   box-sizing: border-box;
 }
 
+/* Estilo geral do corpo e html: fonte moderna, fundo claro, texto escuro */
 body, html {
   margin: 0;
   padding: 0;
@@ -14,7 +14,7 @@ body, html {
   line-height: 1.6;
 }
 
-/* Container centralizado e responsivo */
+/* Container principal: centraliza conteúdo e limita largura */
 .container {
   max-width: 1140px;
   margin: 0 auto;
@@ -26,6 +26,7 @@ body, html {
   gap: 40px;
 }
 
+/* Seção "sobre": texto e imagem lado a lado, fundo claro, sombra suave */
 .sobre {
   display: flex;
   flex-wrap: wrap;
@@ -41,6 +42,7 @@ body, html {
   text-align: center;
 }
 
+/* Texto da seção "sobre": flexível, centralizado, justificado */
 .texto {
   flex: 1 1 min(45ch, 100%);
   padding: 1rem;
@@ -48,6 +50,7 @@ body, html {
   text-align: justify;
 }
 
+/* Título do texto: grande, negrito, cor escura */
 .texto h2 {
   font-size: clamp(1.8rem, 3vw, 2.25rem);
   margin-bottom: 1.5rem;
@@ -57,10 +60,12 @@ body, html {
   text-align: left;
 }
 
+/* Destaque no título: cor lilás */
 .texto h2 span {
   color: #8a18cb;
 }
 
+/* Parágrafo do texto: tamanho confortável, cor cinza */
 .texto p {
   font-size: clamp(1rem, 2.5vw, 1.125rem);
   color: #4b5563;
@@ -68,6 +73,7 @@ body, html {
   line-height: 1.8;
 }
 
+/* Imagem da seção "sobre": centralizada, flexível */
 .imagem {
   flex: 1 1 300px;
   display: flex;
@@ -75,6 +81,7 @@ body, html {
   align-items: center;
 }
 
+/* Vídeo ou imagem: cantos arredondados, sombra, responsivo */
 .imagem iframe {
   border-radius: 16px;
   box-shadow: 0 12px 40px rgb(0 0 0 / 0.15);
@@ -84,18 +91,18 @@ body, html {
   transition: transform 0.3s ease;
 }
 
+/* Efeito ao passar o mouse: aumenta e destaca sombra */
 .imagem iframe:hover {
   transform: scale(1.05);
   box-shadow: 0 20px 60px rgb(0 0 0 / 0.25);
 }
 
-
-/* Seção encontra com imagem de fundo */
+/* Seção "encontra": fundo com imagem, ocupa tela toda, texto branco */
 .encontra {
   position: relative;
   background: url('imagens/imagem -agin2.png') no-repeat center center/cover;
-  height: 100vh; /* ocupa 100% da altura da tela */
-  width: 100vw;  /* ocupa 100% da largura da tela */
+  height: 100vh;
+  width: 100vw;
   color: white;
   text-align: center;
   display: flex;
@@ -103,12 +110,12 @@ body, html {
   justify-content: center;
   align-items: center;
   box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 0.45);
-  margin: 0;           /* remove margens */
-  padding: 0;          /* opcional, depende do conteúdo */
-  border-radius: 0;    /* remove bordas arredondadas */
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
 }
 
-
+/* Título da seção "encontra": grande, negrito, sombra para destacar */
 .encontra h2 {
   font-size: 2rem;
   margin-bottom: 48px;
@@ -117,7 +124,7 @@ body, html {
   text-shadow: 0 3px 10px rgba(0,0,0,0.7);
 }
 
-/* Cartões com layout 2x2 em telas médias e 4 em linha em telas maiores */
+/* Cartões: grid responsivo, se adapta ao tamanho da tela */
 .cartoes {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -129,7 +136,7 @@ body, html {
   padding: 0;
 }
 
-/* Ajustes para os cartões */
+/* Cada cartão: fundo transparente, blur, sombra, arredondado */
 .cartao {
   background-color: rgba(255 255 255 / 0.15);
   backdrop-filter: blur(10px);
@@ -139,7 +146,7 @@ body, html {
   cursor: default;
   color: #fff;
   text-align: center;
-  width: 100%;            /* ocupa a célula do grid */
+  width: 100%;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -148,26 +155,28 @@ body, html {
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-
+/* Cartão: efeito ao passar o mouse */
 .cartao:hover {
   transform: translateY(-10px);
   box-shadow: 0 20px 60px rgb(0 0 0 / 0.3);
 }
 
+/* Título do cartão: lilás claro, negrito */
 .cartao h3 {
   font-size: 1.25rem;
   margin-bottom: 12px;
   font-weight: 700;
-  color: #ede9fe; /* lilás claro */
+  color: #ede9fe;
 }
 
+/* Texto do cartão: cinza claro */
 .cartao p {
   font-size: 1rem;
   line-height: 1.5;
-  color: #d1d5db; /* cinza claro */
+  color: #d1d5db;
 }
 
-/* Container adaptativo */
+/* Container adaptativo: centraliza e espaça conteúdo */
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -180,48 +189,73 @@ body, html {
   padding: 0 5%;
 }
 
+/* Mantém a barra de busca sempre em linha (input + botão) em telas menores */
+@media (max-width: 900px) {
+  .topo {
+    flex-direction: row !important; /* Nunca empilha, sempre lado a lado */
+    align-items: center !important;
+    gap: 0 !important;
+    padding: 0 1.5vw;
+  }
+  .busca {
+    border-radius: 28px 0 0 28px;
+    height: 40px;
+    padding: 10px 12px;
+    width: auto;
+    max-width: none;
+  }
+  .botao-buscar {
+    border-radius: 0 28px 28px 0;
+    height: 40px;
+    font-size: 1.2rem;
+    padding: 0 12px;
+    margin-left: 0;
+    width: auto;
+    align-self: center;
+  }
+}
 
-
-/* Responsividade */
-/* Em telas pequenas (até 780px) mostrar 2 colunas */
+/* Ajustes de responsividade para texto e imagem em telas pequenas */
 @media (max-width: 880px) {
-/* Texto e imagem lado a lado, mas empilhando quando necessário */
-.texto, .imagem {
-  flex: 1 1 100%;
-  max-width: 600px;
-  width: 100%;
-  padding: 1rem;
-  box-sizing: border-box;
-}
+  /* Texto e imagem ocupam toda a largura */
+  .texto, .imagem {
+    flex: 1 1 100%;
+    max-width: 600px;
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+  }
 
-/* Alinhamento adaptativo */
-.texto {
-  text-align: justify;
-}
+  /* Texto justificado */
+  .texto {
+    text-align: justify;
+  }
 
-.imagem {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+  /* Imagem centralizada */
+  .imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-.imagem iframe {
-  width: 100%;
-  max-width: 560px;
-  aspect-ratio: 16 / 9;
-  height: auto;
-  border-radius: 16px;
-  box-shadow: 0 12px 40px rgb(0 0 0 / 0.15);
-  transition: transform 0.3s ease;
-}
+  /* Vídeo responsivo */
+  .imagem iframe {
+    width: 100%;
+    max-width: 560px;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    border-radius: 16px;
+    box-shadow: 0 12px 40px rgb(0 0 0 / 0.15);
+    transition: transform 0.3s ease;
+  }
 
-.imagem iframe:hover {
-  transform: scale(1.05);
-  box-shadow: 0 20px 60px rgb(0 0 0 / 0.25);
-}
+  .imagem iframe:hover {
+    transform: scale(1.05);
+    box-shadow: 0 20px 60px rgb(0 0 0 / 0.25);
+  }
 
-/* Cartões com quebra para se adaptar a tela */
-.cartoes {
-    grid-template-columns: repeat(2, 1fr); /* 2 colunas */
-}
+  /* Cartões: 2 colunas em telas pequenas */
+  .cartoes {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
